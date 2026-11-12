@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-11_0551Z
+ snapshot_utc : 2026-11-12_0656Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-10T19:37:57+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-12T00:30:42+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 198 ms
-TTFB................ 197 ms
+LATENCY............. 230 ms
+TTFB................ 229 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 50d
+TLS_EXPIRY.......... 49d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-10T10:55:41Z
+LAST_PROBE_UTC...... 2026-11-11T10:35:40Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -789,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : pedestrian_axis
-latitude       : -33.437531
-longitude      : -70.646967
-altitude       : 29 m
-gps_accuracy   : ±6.6 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : low_movement
+latitude       : -33.437748
+longitude      : -70.647436
+altitude       : 82 m
+gps_accuracy   : ±7.0 m
+heading        : 175°
+speed          : 0.2 km/h
+status         : stationary
 phase          : overnight
-local_time     : 00:45
+local_time     : 01:54
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-11-11 03:45:39 UTC
+updated_utc    : 2026-11-12 04:54:07 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-10 19:49:52Z
+DSN snapshot (UTC)       : 2026-11-11 19:41:14Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.88e9 km | 173.027 AU
-Heliocentric distance    : 172.315 AU
-Relative speed           : 40.458 km/s
+Earth distance           : 25.89e9 km | 173.043 AU
+Heliocentric distance    : 172.325 AU
+Relative speed           : 40.313 km/s
 ------------------------------------------------------------
-One-way light time       : 23:59:01
-Round-trip latency       : 47:58:02
+One-way light time       : 23:59:09
+Round-trip latency       : 47:58:18
 ------------------------------------------------------------
-Δ distance (since last)  : +2.192e6 km
-Mission age              : 49 years, 78 days
+Δ distance (since last)  : +1.318e6 km
+Mission age              : 49 years, 79 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.66e9 km | 144.799 AU
-Heliocentric distance    : 144.440 AU
-Relative speed           : 41.214 km/s
+Earth distance           : 21.66e9 km | 144.819 AU
+Heliocentric distance    : 144.449 AU
+Relative speed           : 41.164 km/s
 ------------------------------------------------------------
-One-way light time       : 20:04:15
-Round-trip latency       : 40:08:31
+One-way light time       : 20:04:26
+Round-trip latency       : 40:08:51
 ------------------------------------------------------------
-Δ distance (since last)  : +2.754e6 km
-Mission age              : 49 years, 94 days
+Δ distance (since last)  : +1.671e6 km
+Mission age              : 49 years, 95 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-10 19:49:55Z
+Report generated (UTC)   : 2026-11-11 19:41:18Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,69 +1505,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Matchbox Twenty — 3AM
-Artist                    : Matchbox Twenty
-Title                     : 3AM
-Album                     : Yourself or Someone Like You
-Spotify URI               : spotify:track:5vYA1mW9g2Coh1HUFUSmlb
-Spotify URL               : https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb
+Track                     : Days Of The New — I Think
+Artist                    : Days Of The New
+Title                     : I Think
+Album                     : Days Of The New II
+Spotify URI               : spotify:track:5NPEFhJutKLBAkn7ecREHL
+Spotify URL               : https://open.spotify.com/track/5NPEFhJutKLBAkn7ecREHL
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-10 11:32:35Z
-Played at (local)         : 2026-11-10 08:32:35 -03
-Local hour                : 08:00
-Daypart                   : MORNING
-Time since play           : 14:26:16
-Gap from previous play    : 00:03:42
+Played at (UTC)           : 2026-11-11 19:33:59Z
+Played at (local)         : 2026-11-11 16:33:59 -03
+Local hour                : 16:00
+Daypart                   : AFTERNOON
+Time since play           : 05:16:06
+Gap from previous play    : 00:05:47
 ------------------------------------------------------------
-Previous song             : Matchbox Twenty — Push
-Same artist as previous   : YES
+Previous song             : Helmet — Renovation
+Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 2
-Artist plays (retained)   : 4
+Track plays (retained)    : 1
+Artist plays (retained)   : 7
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Matchbox Twenty — Push | 2026-11-10 08:28:53 -03
-Previous track #2         : Chevelle — Wonder What's Next | 2026-11-10 08:24:23 -03
-Previous track #3         : Chevelle — The Red | 2026-11-10 07:44:36 -03
-Previous track #4         : Morphine — Buena | 2026-11-10 00:36:33 -03
-Previous track #5         : Morphine — Buena | 2026-11-09 17:42:55 -03
-Previous track #6         : Helmet — Give It | 2026-11-09 17:28:10 -03
-Previous track #7         : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03
-Previous track #8         : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03
-Previous track #9         : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03
-Previous track #10        : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03
-Previous track #11        : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03
-Previous track #12        : Soundgarden — No Attention | 2026-11-09 13:46:01 -03
-Previous track #13        : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03
-Previous track #14        : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03
-Previous track #15        : Soundgarden — Applebite | 2026-11-09 13:31:52 -03
-Previous track #16        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03
-Previous track #17        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03
-Previous track #18        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03
-Previous track #19        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03
-Previous track #20        : Soundgarden — Dusty | 2026-11-09 13:10:33 -03
-Previous track #21        : Soundgarden — Zero Chance | 2026-11-09 13:05:59 -03
-Previous track #22        : Soundgarden — Rhinosaur | 2026-11-09 13:01:40 -03
-Previous track #23        : Soundgarden — Pretty Noose | 2026-11-09 12:58:26 -03
-Previous track #24        : Heroes Del Silencio — Entre dos tierras | 2026-11-09 07:56:00 -03
-Previous track #25        : Matchbox Twenty — 3AM | 2026-11-09 07:48:31 -03
-Previous track #26        : Matchbox Twenty — Push | 2026-11-09 07:44:49 -03
-Previous track #27        : Soundgarden — Overfloater | 2026-11-09 07:29:16 -03
-Previous track #28        : Soundgarden — Switch Opens | 2026-11-09 07:24:07 -03
-Previous track #29        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-08 03:46:16 -03
-Previous track #30        : Soundgarden — An Unkind | 2026-11-07 07:53:16 -03
-Previous track #31        : Soundgarden — Overfloater | 2026-11-07 07:27:24 -03
-Previous track #32        : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
-Previous track #33        : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
-Previous track #34        : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
-Previous track #35        : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
-Previous track #36        : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
-Previous track #37        : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
-Previous track #38        : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
-Previous track #39        : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
-Previous track #40        : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
+Previous track #1         : Helmet — Renovation | 2026-11-11 16:28:12 -03
+Previous track #2         : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03
+Previous track #3         : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03
+Previous track #4         : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03
+Previous track #5         : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03
+Previous track #6         : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03
+Previous track #7         : Soundgarden — No Attention | 2026-11-11 16:04:10 -03
+Previous track #8         : Soundgarden — Tighter & Tighter | 2026-11-11 15:59:44 -03
+Previous track #9         : Soundgarden — Never The Machine Forever | 2026-11-11 15:53:37 -03
+Previous track #10        : Soundgarden — Applebite | 2026-11-11 15:50:01 -03
+Previous track #11        : Soundgarden — Never Named | 2026-11-11 15:44:51 -03
+Previous track #12        : Soundgarden — Burden In My Hand | 2026-11-11 15:42:23 -03
+Previous track #13        : Soundgarden — Blow Up The Outside World | 2026-11-11 15:37:33 -03
+Previous track #14        : Soundgarden — Pretty Noose | 2026-11-11 15:20:18 -03
+Previous track #15        : Matchbox Twenty — 3AM | 2026-11-10 08:32:35 -03
+Previous track #16        : Matchbox Twenty — Push | 2026-11-10 08:28:53 -03
+Previous track #17        : Chevelle — Wonder What's Next | 2026-11-10 08:24:23 -03
+Previous track #18        : Chevelle — The Red | 2026-11-10 07:44:36 -03
+Previous track #19        : Morphine — Buena | 2026-11-10 00:36:33 -03
+Previous track #20        : Morphine — Buena | 2026-11-09 17:42:55 -03
+Previous track #21        : Helmet — Give It | 2026-11-09 17:28:10 -03
+Previous track #22        : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03
+Previous track #23        : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03
+Previous track #24        : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03
+Previous track #25        : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03
+Previous track #26        : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03
+Previous track #27        : Soundgarden — No Attention | 2026-11-09 13:46:01 -03
+Previous track #28        : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03
+Previous track #29        : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03
+Previous track #30        : Soundgarden — Applebite | 2026-11-09 13:31:52 -03
+Previous track #31        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03
+Previous track #32        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03
+Previous track #33        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03
+Previous track #34        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03
+Previous track #35        : Soundgarden — Dusty | 2026-11-09 13:10:33 -03
+Previous track #36        : Soundgarden — Zero Chance | 2026-11-09 13:05:59 -03
+Previous track #37        : Soundgarden — Rhinosaur | 2026-11-09 13:01:40 -03
+Previous track #38        : Soundgarden — Pretty Noose | 2026-11-09 12:58:26 -03
+Previous track #39        : Heroes Del Silencio — Entre dos tierras | 2026-11-09 07:56:00 -03
+Previous track #40        : Matchbox Twenty — 3AM | 2026-11-09 07:48:31 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1598,54 +1598,54 @@ Context observed (UTC)    : 2026-10-31 18:37:57Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 51
+Observed events           : 55
 Unique tracks             : 29
-Unique artists            : 10
-Replay ratio              : ████████░░░░░░░░░░  43.1%
-Artist diversity          : ████░░░░░░░░░░░░░░  19.6%
+Unique artists            : 8
+Replay ratio              : █████████░░░░░░░░░  47.3%
+Artist diversity          : ███░░░░░░░░░░░░░░░  14.5%
 Dominant artist           : Soundgarden
-Dominant artist share     : ████████████░░░░░░  64.7%
-Artist switch ratio       : █████░░░░░░░░░░░░░  30.0%
+Dominant artist share     : █████████████░░░░░  74.5%
+Artist switch ratio       : ████░░░░░░░░░░░░░░  24.1%
 Longest artist streak     : Soundgarden × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ███░░░░░░░░░░░░░░░   17.6%
-Morning    06–12           : ███████░░░░░░░░░░░   37.3%
-Afternoon  12–18           : ████████░░░░░░░░░░   43.1%
-Evening    18–24           : ░░░░░░░░░░░░░░░░░░    2.0%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.6%
+Morning    06–12           : ██████░░░░░░░░░░░░   34.5%
+Afternoon  12–18           : ███████████░░░░░░░   61.8%
+Evening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-04 05:51:32Z
-History last play (7d)    : 2026-11-10 11:32:35Z
-Observed time span        : 149:41:03
-Mean inter-play gap       : 02:59:37
-Median inter-play gap     : 00:05:16
-Longest inactivity gap    : 59:52:52
-Listening intensity       : 0.34 tracks/hour
+History first play (7d)   : 2026-11-07 09:51:46Z
+History last play (7d)    : 2026-11-11 19:33:59Z
+Observed time span        : 105:42:13
+Mean inter-play gap       : 01:57:27
+Median inter-play gap     : 00:05:09
+Longest inactivity gap    : 30:47:43
+Listening intensity       : 0.52 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 08:00
+Peak hour (24h)           : 16:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             : ▃      ▃█               
-Heatmap (7d)              : ▁ ▁▁ ▄▂█▂   ▁▇  ▁▅▁     
+Heatmap (24h)             :                ▇█       
+Heatmap (7d)              : ▁  ▁  ▂█▂   ▁▇ ▄▆▃      
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : █▂▄  ▃ 
+Activity (Mon→Sun)        : █▂▅  ▃ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :          ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁
+Activity trend (30d)      :         ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :        ▄    ▁█  ▁▄      
 Tue                       : ▃      ▃█               
-Wed                       :   ▁  █           ▄▁     
+Wed                       :                ▇█       
 Thu                       :                         
 Fri                       :                         
 Sat                       :       ▃█                
@@ -1654,46 +1654,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 5
-Dominant artist           : Matchbox Twenty
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 15
+Dominant artist           : Soundgarden
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-04 01:58:51Z → 2026-11-11 01:58:51Z
-Tracks played (7d)        : 51
+Week window (UTC)         : 2026-11-05 00:50:04Z → 2026-11-12 00:50:04Z
+Tracks played (7d)        : 55
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
-Sessions (7d)             : 13
-Avg inter-play gap        : 02:59:37
+Sessions (24h)            : 1
+Sessions (7d)             : 10
+Avg inter-play gap        : 01:57:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(4) | alternative metal(2) | nu metal(2)
-Top genres (7d)           : post-grunge(42) | grunge(37) | hard rock(33) | alternative metal(3) | britpop(3) | ambient jazz(2)
+Top genres (24h)          : grunge(15) | post-grunge(14) | hard rock(13) | alternative metal(1) | groove metal(1) | noise rock(1)
+Top genres (7d)           : post-grunge(49) | grunge(45) | hard rock(41) | alternative metal(4) | groove metal(2) | noise rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Matchbox Twenty — 3AM → Days Of The New — I Think
+Playback timestamp Δ      : 2026-11-10 11:32:35Z → 2026-11-11 19:33:59Z
 State transition          : NO CHANGE
-Telemetry interval        : 05:05:15
+Telemetry interval        : 06:54:02
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 740
+Events retained           : 755
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-10 08:32:35 -03
-Events (24h)              : 5
-Events (7d)               : 51
-Events (30d)              : 248
+Newest retained event     : 2026-11-11 16:33:59 -03
+Events (24h)              : 15
+Events (7d)               : 55
+Events (30d)              : 262
 Playlist contexts retained: 142
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-11 01:58:51Z
+Report generated (UTC)    : 2026-11-12 00:50:04Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 10 November 2026
+From: 04 December 2023 - To: 11 November 2026
 
 Total Time       : 1,076 hrs 3 mins
 Mostly coding in : Other
@@ -2161,7 +2161,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 11/11/2026 04:21:28 UTC
+Last updated     : 12/11/2026 06:18:29 UTC
 
 ```
 <!--END_SECTION:wakastats-->
