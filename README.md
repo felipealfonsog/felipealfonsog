@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-11 19:33:59Z
 Played at (local)         : 2026-11-11 16:33:59 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 14:22:23
+Time since play           : 22:50:05
 Gap from previous play    : 00:05:47
 ------------------------------------------------------------
 Previous song             : Helmet — Renovation
@@ -1624,7 +1624,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 16:00
 Peak hour (7d)            : 07:00
-Heatmap (24h)             :                ▇█       
+Heatmap (24h)             :                ▆█       
 Heatmap (7d)              : ▁  ▁  ▂█▂   ▁▇ ▄▆▃      
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 15
+Tracks played (last 24h)  : 14
 Dominant artist           : Soundgarden
 Listening pattern         : Regular cadence
 Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-05 09:56:21Z → 2026-11-12 09:56:21Z
+Week window (UTC)         : 2026-11-05 18:24:03Z → 2026-11-12 18:24:03Z
 Tracks played (7d)        : 55
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1668,7 +1668,7 @@ Avg inter-play gap        : 01:57:27
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(15) | post-grunge(14) | hard rock(13) | alternative metal(1) | groove metal(1) | noise rock(1)
+Top genres (24h)          : grunge(14) | post-grunge(13) | hard rock(12) | alternative metal(1) | groove metal(1) | noise rock(1)
 Top genres (7d)           : post-grunge(49) | grunge(45) | hard rock(41) | alternative metal(4) | groove metal(2) | noise rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 09:06:18
+Telemetry interval        : 08:27:43
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 755
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-11 16:33:59 -03
-Events (24h)              : 15
+Events (24h)              : 14
 Events (7d)               : 55
 Events (30d)              : 262
 Playlist contexts retained: 142
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-12 09:56:21Z
+Report generated (UTC)    : 2026-11-12 18:24:03Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
