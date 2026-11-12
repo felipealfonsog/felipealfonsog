@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-11 19:33:59Z
 Played at (local)         : 2026-11-11 16:33:59 -03
 Local hour                : 16:00
 Daypart                   : AFTERNOON
-Time since play           : 05:16:06
+Time since play           : 14:22:23
 Gap from previous play    : 00:05:47
 ------------------------------------------------------------
 Previous song             : Helmet — Renovation
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : █▂▅  ▃ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :         ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂
+Activity trend (30d)      :        ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-05 00:50:04Z → 2026-11-12 00:50:04Z
+Week window (UTC)         : 2026-11-05 09:56:21Z → 2026-11-12 09:56:21Z
 Tracks played (7d)        : 55
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Matchbox Twenty — 3AM → Days Of The New — I Think
-Playback timestamp Δ      : 2026-11-10 11:32:35Z → 2026-11-11 19:33:59Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:54:02
+Telemetry interval        : 09:06:18
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-12 00:50:04Z
+Report generated (UTC)    : 2026-11-12 09:56:21Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
