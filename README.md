@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-13 16:32:59Z
 Played at (local)         : 2026-11-13 13:32:59 -03
 Local hour                : 13:00
 Daypart                   : AFTERNOON
-Time since play           : 01:18:55
+Time since play           : 07:08:07
 Gap from previous play    : 00:02:44
 ------------------------------------------------------------
 Previous song             : Silverchair — Suicidal Dream
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-06 17:51:54Z → 2026-11-13 17:51:54Z
+Week window (UTC)         : 2026-11-06 23:41:05Z → 2026-11-13 23:41:05Z
 Tracks played (7d)        : 61
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Days Of The New — I Think → Silverchair — Madman
-Playback timestamp Δ      : 2026-11-11 19:33:59Z → 2026-11-13 16:32:59Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 08:09:11
+Telemetry interval        : 05:49:12
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-13 13:32:59 -03
 Events (24h)              : 4
 Events (7d)               : 61
-Events (30d)              : 268
+Events (30d)              : 265
 Playlist contexts retained: 142
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-13 17:51:54Z
+Report generated (UTC)    : 2026-11-13 23:41:05Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
