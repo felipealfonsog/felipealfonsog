@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-11-13 09:42:43Z",
+  "report_generated_utc": "2026-11-13 17:51:54Z",
   "status": "IDLE",
-  "last_track": "Days Of The New — I Think",
-  "last_played_utc": "2026-11-11 19:33:59Z",
+  "last_track": "Silverchair — Madman",
+  "last_played_utc": "2026-11-13 16:32:59Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1976,9 +1976,99 @@
     ],
     "3QgSmABpItIdj908ek80n5": []
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Days Of The New — I Think\nArtist                    : Days Of The New\nTitle                     : I Think\nAlbum                     : Days Of The New II\nSpotify URI               : spotify:track:5NPEFhJutKLBAkn7ecREHL\nSpotify URL               : https://open.spotify.com/track/5NPEFhJutKLBAkn7ecREHL\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-11 19:33:59Z\nPlayed at (local)         : 2026-11-11 16:33:59 -03\nLocal hour                : 16:00\nDaypart                   : AFTERNOON\nTime since play           : 38:08:44\nGap from previous play    : 00:05:47\n------------------------------------------------------------\nPrevious song             : Helmet — Renovation\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 7\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Helmet — Renovation | 2026-11-11 16:28:12 -03\nPrevious track #2         : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03\nPrevious track #3         : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03\nPrevious track #4         : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03\nPrevious track #5         : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03\nPrevious track #6         : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03\nPrevious track #7         : Soundgarden — No Attention | 2026-11-11 16:04:10 -03\nPrevious track #8         : Soundgarden — Tighter & Tighter | 2026-11-11 15:59:44 -03\nPrevious track #9         : Soundgarden — Never The Machine Forever | 2026-11-11 15:53:37 -03\nPrevious track #10        : Soundgarden — Applebite | 2026-11-11 15:50:01 -03\nPrevious track #11        : Soundgarden — Never Named | 2026-11-11 15:44:51 -03\nPrevious track #12        : Soundgarden — Burden In My Hand | 2026-11-11 15:42:23 -03\nPrevious track #13        : Soundgarden — Blow Up The Outside World | 2026-11-11 15:37:33 -03\nPrevious track #14        : Soundgarden — Pretty Noose | 2026-11-11 15:20:18 -03\nPrevious track #15        : Matchbox Twenty — 3AM | 2026-11-10 08:32:35 -03\nPrevious track #16        : Matchbox Twenty — Push | 2026-11-10 08:28:53 -03\nPrevious track #17        : Chevelle — Wonder What's Next | 2026-11-10 08:24:23 -03\nPrevious track #18        : Chevelle — The Red | 2026-11-10 07:44:36 -03\nPrevious track #19        : Morphine — Buena | 2026-11-10 00:36:33 -03\nPrevious track #20        : Morphine — Buena | 2026-11-09 17:42:55 -03\nPrevious track #21        : Helmet — Give It | 2026-11-09 17:28:10 -03\nPrevious track #22        : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03\nPrevious track #23        : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03\nPrevious track #24        : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03\nPrevious track #25        : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03\nPrevious track #26        : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03\nPrevious track #27        : Soundgarden — No Attention | 2026-11-09 13:46:01 -03\nPrevious track #28        : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03\nPrevious track #29        : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03\nPrevious track #30        : Soundgarden — Applebite | 2026-11-09 13:31:52 -03\nPrevious track #31        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03\nPrevious track #32        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03\nPrevious track #33        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03\nPrevious track #34        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03\nPrevious track #35        : Soundgarden — Dusty | 2026-11-09 13:10:33 -03\nPrevious track #36        : Soundgarden — Zero Chance | 2026-11-09 13:05:59 -03\nPrevious track #37        : Soundgarden — Rhinosaur | 2026-11-09 13:01:40 -03\nPrevious track #38        : Soundgarden — Pretty Noose | 2026-11-09 12:58:26 -03\nPrevious track #39        : Heroes Del Silencio — Entre dos tierras | 2026-11-09 07:56:00 -03\nPrevious track #40        : Matchbox Twenty — 3AM | 2026-11-09 07:48:31 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-11-08 03:46:16 -03\nTrack observed in context : Tomasz Stanko Quintet — Terminal 7\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #3      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #5      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #8      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-10-31 18:37:57Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 55\nUnique tracks             : 29\nUnique artists            : 8\nReplay ratio              : █████████░░░░░░░░░  47.3%\nArtist diversity          : ███░░░░░░░░░░░░░░░  14.5%\nDominant artist           : Soundgarden\nDominant artist share     : █████████████░░░░░  74.5%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  24.1%\nLongest artist streak     : Soundgarden × 16\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    3.6%\nMorning    06–12           : ██████░░░░░░░░░░░░   34.5%\nAfternoon  12–18           : ███████████░░░░░░░   61.8%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    0.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-07 09:51:46Z\nHistory last play (7d)    : 2026-11-11 19:33:59Z\nObserved time span        : 105:42:13\nMean inter-play gap       : 01:57:27\nMedian inter-play gap     : 00:05:09\nLongest inactivity gap    : 30:47:43\nListening intensity       : 0.52 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 07:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              : ▁  ▁  ▂█▂   ▁▇ ▄▆▃      \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : █▂▅  ▃ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :       ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂  \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :        ▄    ▁█  ▁▄      \nTue                       : ▃      ▃█               \nWed                       :                ▇█       \nThu                       :                         \nFri                       :                         \nSat                       :       ▃█                \nSun                       :    █                    \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-06 09:42:43Z → 2026-11-13 09:42:43Z\nTracks played (7d)        : 55\nDominant artist           : Soundgarden\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 10\nAvg inter-play gap        : 01:57:27\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : post-grunge(49) | grunge(45) | hard rock(41) | alternative metal(4) | groove metal(2) | noise rock(2)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 08:30:49\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 755\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-11 16:33:59 -03\nEvents (24h)              : 0\nEvents (7d)               : 55\nEvents (30d)              : 262\nPlaylist contexts retained: 142\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-13 09:42:43Z",
-  "last_successful_report_utc": "2026-11-13 09:42:43Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Silverchair — Madman\nArtist                    : Silverchair\nTitle                     : Madman\nAlbum                     : Frogstomp (Deluxe Edition) [Remastered]\nSpotify URI               : spotify:track:66BwWfwHYkoGSi6iUUj98I\nSpotify URL               : https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-13 16:32:59Z\nPlayed at (local)         : 2026-11-13 13:32:59 -03\nLocal hour                : 13:00\nDaypart                   : AFTERNOON\nTime since play           : 01:18:55\nGap from previous play    : 00:02:44\n------------------------------------------------------------\nPrevious song             : Silverchair — Suicidal Dream\nSame artist as previous   : YES\nSame track as previous    : NO\nTrack plays (retained)    : 6\nArtist plays (retained)   : 54\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03\nPrevious track #2         : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03\nPrevious track #3         : Silverchair — Shade | 2026-11-13 13:23:59 -03\nPrevious track #4         : Tad — Grease Box | 2026-11-11 18:23:22 -03\nPrevious track #5         : Days Of The New — I Think | 2026-11-11 16:33:59 -03\nPrevious track #6         : Helmet — Renovation | 2026-11-11 16:28:12 -03\nPrevious track #7         : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03\nPrevious track #8         : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03\nPrevious track #9         : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03\nPrevious track #10        : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03\nPrevious track #11        : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03\nPrevious track #12        : Soundgarden — No Attention | 2026-11-11 16:04:10 -03\nPrevious track #13        : Soundgarden — Tighter & Tighter | 2026-11-11 15:59:44 -03\nPrevious track #14        : Soundgarden — Never The Machine Forever | 2026-11-11 15:53:37 -03\nPrevious track #15        : Soundgarden — Applebite | 2026-11-11 15:50:01 -03\nPrevious track #16        : Soundgarden — Never Named | 2026-11-11 15:44:51 -03\nPrevious track #17        : Soundgarden — Burden In My Hand | 2026-11-11 15:42:23 -03\nPrevious track #18        : Soundgarden — Blow Up The Outside World | 2026-11-11 15:37:33 -03\nPrevious track #19        : Soundgarden — Pretty Noose | 2026-11-11 15:20:18 -03\nPrevious track #20        : Matchbox Twenty — Unwell | 2026-11-11 03:30:43 -03\nPrevious track #21        : Matchbox Twenty — 3AM | 2026-11-10 08:32:35 -03\nPrevious track #22        : Matchbox Twenty — Push | 2026-11-10 08:28:53 -03\nPrevious track #23        : Chevelle — Wonder What's Next | 2026-11-10 08:24:23 -03\nPrevious track #24        : Chevelle — The Red | 2026-11-10 07:44:36 -03\nPrevious track #25        : Morphine — Buena | 2026-11-10 00:36:33 -03\nPrevious track #26        : Morphine — Buena | 2026-11-09 17:42:55 -03\nPrevious track #27        : Helmet — Give It | 2026-11-09 17:28:10 -03\nPrevious track #28        : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03\nPrevious track #29        : Soundgarden — Beyond the Wheel | 2026-11-09 17:13:42 -03\nPrevious track #30        : Soundgarden — Overfloater | 2026-11-09 17:08:19 -03\nPrevious track #31        : Soundgarden — Overfloater | 2026-11-09 16:59:21 -03\nPrevious track #32        : Soundgarden — Switch Opens | 2026-11-09 16:54:12 -03\nPrevious track #33        : Soundgarden — No Attention | 2026-11-09 13:46:01 -03\nPrevious track #34        : Soundgarden — Tighter & Tighter | 2026-11-09 13:41:34 -03\nPrevious track #35        : Soundgarden — Never The Machine Forever | 2026-11-09 13:35:28 -03\nPrevious track #36        : Soundgarden — Applebite | 2026-11-09 13:31:52 -03\nPrevious track #37        : Soundgarden — Never Named | 2026-11-09 13:26:42 -03\nPrevious track #38        : Soundgarden — Burden In My Hand | 2026-11-09 13:24:14 -03\nPrevious track #39        : Soundgarden — Blow Up The Outside World | 2026-11-09 13:19:24 -03\nPrevious track #40        : Soundgarden — Ty Cobb | 2026-11-09 13:13:38 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-11-08 03:46:16 -03\nTrack observed in context : Tomasz Stanko Quintet — Terminal 7\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #3      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #5      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #8      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 100%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇█\nContext observed (UTC)    : 2026-10-31 18:37:57Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 61\nUnique tracks             : 35\nUnique artists            : 10\nReplay ratio              : ████████░░░░░░░░░░  42.6%\nArtist diversity          : ███░░░░░░░░░░░░░░░  16.4%\nDominant artist           : Soundgarden\nDominant artist share     : ████████████░░░░░░  67.2%\nArtist switch ratio       : ████░░░░░░░░░░░░░░  25.0%\nLongest artist streak     : Soundgarden × 16\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    4.9%\nMorning    06–12           : ██████░░░░░░░░░░░░   31.1%\nAfternoon  12–18           : ███████████░░░░░░░   62.3%\nEvening    18–24           : ░░░░░░░░░░░░░░░░░░    1.6%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-07 09:51:46Z\nHistory last play (7d)    : 2026-11-13 16:32:59Z\nObserved time span        : 150:41:13\nMean inter-play gap       : 02:30:41\nMedian inter-play gap     : 00:05:09\nLongest inactivity gap    : 43:00:37\nListening intensity       : 0.40 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 13:00\nPeak hour (7d)            : 13:00\nHeatmap (24h)             :              █          \nHeatmap (7d)              : ▁  ▁  ▂▇▂   ▁█ ▄▅▃▁     \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        : █▂▆ ▁▃ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :       ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂  \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :        ▄    ▁█  ▁▄      \nTue                       : ▃      ▃█               \nWed                       :    ▁           ▇█ ▁     \nThu                       :                         \nFri                       :              █          \nSat                       :       ▃█                \nSun                       :    █                    \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 4\nDominant artist           : Silverchair\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-06 17:51:54Z → 2026-11-13 17:51:54Z\nTracks played (7d)        : 61\nDominant artist           : Soundgarden\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 1\nSessions (7d)             : 13\nAvg inter-play gap        : 02:30:41\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(4) | post-grunge(4)\nTop genres (7d)           : post-grunge(55) | grunge(50) | hard rock(41) | alternative metal(4) | noise rock(3) | groove metal(2)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Days Of The New — I Think → Silverchair — Madman\nPlayback timestamp Δ      : 2026-11-11 19:33:59Z → 2026-11-13 16:32:59Z\nState transition          : NO CHANGE\nTelemetry interval        : 08:09:11\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 761\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-13 13:32:59 -03\nEvents (24h)              : 4\nEvents (7d)               : 61\nEvents (30d)              : 268\nPlaylist contexts retained: 142\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-13 17:51:54Z",
+  "last_successful_report_utc": "2026-11-13 17:51:54Z",
   "recent_playback_history": [
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:32:59Z",
+      "played_at_local": "2026-11-13 13:32:59 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:30:15Z",
+      "played_at_local": "2026-11-13 13:30:15 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:27:02Z",
+      "played_at_local": "2026-11-13 13:27:02 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:23:59Z",
+      "played_at_local": "2026-11-13 13:23:59 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Tad — Grease Box",
+      "artist": "Tad",
+      "title": "Grease Box",
+      "album": "Inhaler",
+      "uri": "spotify:track:1OCDCVzQVxVm2HceeEJTzm",
+      "url": "https://open.spotify.com/track/1OCDCVzQVxVm2HceeEJTzm",
+      "artist_ids": [
+        "2mncWLPUUFpNvBLkHzTsDO"
+      ],
+      "played_at_utc": "2026-11-11 21:23:22Z",
+      "played_at_local": "2026-11-11 18:23:22 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
     {
       "track": "Days Of The New — I Think",
       "artist": "Days Of The New",
@@ -2248,6 +2338,24 @@
       "context_type": "album",
       "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
       "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Matchbox Twenty — Unwell",
+      "artist": "Matchbox Twenty",
+      "title": "Unwell",
+      "album": "More Than You Think You Are",
+      "uri": "spotify:track:6Bm6qUCSatPAqkQllFL7oA",
+      "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-11 06:30:43Z",
+      "played_at_local": "2026-11-11 03:30:43 -03",
+      "local_hour": 3,
+      "weekday": 2,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
     },
     {
       "track": "Matchbox Twenty — 3AM",
@@ -2608,114 +2716,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
       "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Dusty",
-      "artist": "Soundgarden",
-      "title": "Dusty",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:2l2vEgLnyAoARHlYok1bK1",
-      "url": "https://open.spotify.com/track/2l2vEgLnyAoARHlYok1bK1",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-09 16:10:33Z",
-      "played_at_local": "2026-11-09 13:10:33 -03",
-      "local_hour": 13,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Zero Chance",
-      "artist": "Soundgarden",
-      "title": "Zero Chance",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:2E7EVzgwxA6PtmBIXeaiV7",
-      "url": "https://open.spotify.com/track/2E7EVzgwxA6PtmBIXeaiV7",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-09 16:05:59Z",
-      "played_at_local": "2026-11-09 13:05:59 -03",
-      "local_hour": 13,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Rhinosaur",
-      "artist": "Soundgarden",
-      "title": "Rhinosaur",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:4XJq0ehSP5HXTUun2m4njP",
-      "url": "https://open.spotify.com/track/4XJq0ehSP5HXTUun2m4njP",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-09 16:01:40Z",
-      "played_at_local": "2026-11-09 13:01:40 -03",
-      "local_hour": 13,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Pretty Noose",
-      "artist": "Soundgarden",
-      "title": "Pretty Noose",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:6ZzeXWwDvMzrgCWt9RwBj1",
-      "url": "https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-09 15:58:26Z",
-      "played_at_local": "2026-11-09 12:58:26 -03",
-      "local_hour": 12,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Heroes Del Silencio — Entre dos tierras",
-      "artist": "Heroes Del Silencio",
-      "title": "Entre dos tierras",
-      "album": "Senderos De Traición",
-      "uri": "spotify:track:4rJdaSwOCHLBhxdMsymeMw",
-      "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw",
-      "artist_ids": [
-        "3qAPxVwIQRBuz5ImPUxpZT"
-      ],
-      "played_at_utc": "2026-11-09 10:56:00Z",
-      "played_at_local": "2026-11-09 07:56:00 -03",
-      "local_hour": 7,
-      "weekday": 0,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:3qAPxVwIQRBuz5ImPUxpZT",
-      "context_url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-    },
-    {
-      "track": "Matchbox Twenty — 3AM",
-      "artist": "Matchbox Twenty",
-      "title": "3AM",
-      "album": "Yourself or Someone Like You",
-      "uri": "spotify:track:5vYA1mW9g2Coh1HUFUSmlb",
-      "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb",
-      "artist_ids": [
-        "3Ngh2zDBRPEriyxQDAMKd1"
-      ],
-      "played_at_utc": "2026-11-09 10:48:31Z",
-      "played_at_local": "2026-11-09 07:48:31 -03",
-      "local_hour": 7,
-      "weekday": 0,
-      "context_type": "artist",
-      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
-      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2723,25 +2723,25 @@
   "last_known_volume_percent": 100,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-11-13 09:42:43Z",
-    "week_window_utc": "2026-11-06 09:42:43Z → 2026-11-13 09:42:43Z",
-    "tracks_24h": 0,
-    "tracks_7d": 55,
-    "dominant_artist_24h": "N/A",
+    "captured_utc": "2026-11-13 17:51:54Z",
+    "week_window_utc": "2026-11-06 17:51:54Z → 2026-11-13 17:51:54Z",
+    "tracks_24h": 4,
+    "tracks_7d": 61,
+    "dominant_artist_24h": "Silverchair",
     "dominant_artist_7d": "Soundgarden",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
+    "listening_pattern_24h": "Light activity",
+    "activity_status_24h": "LOW",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
-    "peak_hour_7d": "07:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "▁  ▁  ▂█▂   ▁▇ ▄▆▃      ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 10,
-    "avg_inter_play_gap_7d": "01:57:27",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "post-grunge(49) | grunge(45) | hard rock(41) | alternative metal(4) | groove metal(2) | noise rock(2)"
+    "peak_hour_24h": "13:00",
+    "peak_hour_7d": "13:00",
+    "heatmap_24h": "             █          ",
+    "heatmap_7d": "▁  ▁  ▂▇▂   ▁█ ▄▅▃▁     ",
+    "sessions_24h": 1,
+    "sessions_7d": 13,
+    "avg_inter_play_gap_7d": "02:30:41",
+    "top_genres_24h": "grunge(4) | post-grunge(4)",
+    "top_genres_7d": "post-grunge(55) | grunge(50) | hard rock(41) | alternative metal(4) | noise rock(3) | groove metal(2)"
   },
   "last_known_device_captured_utc": "2026-10-31 18:37:57Z"
 }

@@ -1,8 +1,98 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-13 09:42:43Z",
+  "updated_utc": "2026-11-13 17:51:54Z",
   "events": [
+    {
+      "track": "Silverchair — Madman",
+      "artist": "Silverchair",
+      "title": "Madman",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
+      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:32:59Z",
+      "played_at_local": "2026-11-13 13:32:59 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:30:15Z",
+      "played_at_local": "2026-11-13 13:30:15 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:27:02Z",
+      "played_at_local": "2026-11-13 13:27:02 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-13 16:23:59Z",
+      "played_at_local": "2026-11-13 13:23:59 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Tad — Grease Box",
+      "artist": "Tad",
+      "title": "Grease Box",
+      "album": "Inhaler",
+      "uri": "spotify:track:1OCDCVzQVxVm2HceeEJTzm",
+      "url": "https://open.spotify.com/track/1OCDCVzQVxVm2HceeEJTzm",
+      "artist_ids": [
+        "2mncWLPUUFpNvBLkHzTsDO"
+      ],
+      "played_at_utc": "2026-11-11 21:23:22Z",
+      "played_at_local": "2026-11-11 18:23:22 -03",
+      "local_hour": 18,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
+      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
     {
       "track": "Days Of The New — I Think",
       "artist": "Days Of The New",
@@ -272,6 +362,24 @@
       "context_type": "album",
       "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
       "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+    },
+    {
+      "track": "Matchbox Twenty — Unwell",
+      "artist": "Matchbox Twenty",
+      "title": "Unwell",
+      "album": "More Than You Think You Are",
+      "uri": "spotify:track:6Bm6qUCSatPAqkQllFL7oA",
+      "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-11 06:30:43Z",
+      "played_at_local": "2026-11-11 03:30:43 -03",
+      "local_hour": 3,
+      "weekday": 2,
+      "context_type": "artist",
+      "context_uri": "spotify:artist:3Ngh2zDBRPEriyxQDAMKd1",
+      "context_url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
     },
     {
       "track": "Matchbox Twenty — 3AM",
