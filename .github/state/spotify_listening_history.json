@@ -1,8 +1,214 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-14 15:10:53Z",
+  "updated_utc": "2026-11-14 20:47:09Z",
   "events": [
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-11-14 20:43:29Z",
+      "played_at_local": "2026-11-14 17:43:29 -03",
+      "local_hour": 17,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-14 20:38:53Z",
+      "played_at_local": "2026-11-14 17:38:53 -03",
+      "local_hour": 17,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Matchbox Twenty — Girl Like That",
+      "artist": "Matchbox Twenty",
+      "title": "Girl Like That",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:1jif4tafd4C9QyLS9ENchU",
+      "url": "https://open.spotify.com/track/1jif4tafd4C9QyLS9ENchU",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-14 19:01:07Z",
+      "played_at_local": "2026-11-14 16:01:07 -03",
+      "local_hour": 16,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4vUXTcKz7tXxrNl84meN6i",
+      "context_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+    },
+    {
+      "track": "Matchbox Twenty — Push",
+      "artist": "Matchbox Twenty",
+      "title": "Push",
+      "album": "Yourself or Someone Like You",
+      "uri": "spotify:track:2KVwlelhxKUy8LVV6JypH3",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3",
+      "artist_ids": [
+        "3Ngh2zDBRPEriyxQDAMKd1"
+      ],
+      "played_at_utc": "2026-11-14 18:58:14Z",
+      "played_at_local": "2026-11-14 15:58:14 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4vUXTcKz7tXxrNl84meN6i",
+      "context_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+    },
+    {
+      "track": "Silverchair — Suicidal Dream",
+      "artist": "Silverchair",
+      "title": "Suicidal Dream",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
+      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:53:21Z",
+      "played_at_local": "2026-11-14 15:53:21 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:50:08Z",
+      "played_at_local": "2026-11-14 15:50:08 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:47:05Z",
+      "played_at_local": "2026-11-14 15:47:05 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Pure Massacre",
+      "artist": "Silverchair",
+      "title": "Pure Massacre",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:7qCIP5KHYy9HuXbEEWzmC7",
+      "url": "https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:43:03Z",
+      "played_at_local": "2026-11-14 15:43:03 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Faultline",
+      "artist": "Silverchair",
+      "title": "Faultline",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
+      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:38:04Z",
+      "played_at_local": "2026-11-14 15:38:04 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Tomorrow",
+      "artist": "Silverchair",
+      "title": "Tomorrow",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
+      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:33:45Z",
+      "played_at_local": "2026-11-14 15:33:45 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-14 18:29:19Z",
+      "played_at_local": "2026-11-14 15:29:19 -03",
+      "local_hour": 15,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
     {
       "track": "Silverchair — Madman",
       "artist": "Silverchair",
@@ -74,6 +280,24 @@
       "context_type": "album",
       "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
       "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Limp Bizkit — Boiler",
+      "artist": "Limp Bizkit",
+      "title": "Boiler",
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "uri": "spotify:track:1a3RarhRdrNSTEEERYEFJn",
+      "url": "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-13 11:26:50Z",
+      "played_at_local": "2026-11-13 08:26:50 -03",
+      "local_hour": 8,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
+      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
     },
     {
       "track": "Tad — Grease Box",
@@ -14227,6 +14451,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-11-14 20:47:09Z",
+      "is_playing": true,
+      "track": "John Coltrane — Blue World",
+      "playback_state": "ONLINE (active session)",
+      "device_type": "Computer",
+      "device_name": "Felipe’s MacBook Air Silicon",
+      "volume_percent": 90,
+      "volume_telemetry": "OK"
+    },
     {
       "captured_utc": "2026-10-31 23:28:05Z",
       "is_playing": false,
