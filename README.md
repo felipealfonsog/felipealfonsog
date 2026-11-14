@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-13 16:32:59Z
 Played at (local)         : 2026-11-13 13:32:59 -03
 Local hour                : 13:00
 Daypart                   : AFTERNOON
-Time since play           : 14:09:29
+Time since play           : 22:37:54
 Gap from previous play    : 00:02:44
 ------------------------------------------------------------
 Previous song             : Silverchair — Suicidal Dream
@@ -1591,33 +1591,33 @@ Context observed (UTC)    : 2026-10-31 18:37:57Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 61
+Observed events           : 51
 Unique tracks             : 35
 Unique artists            : 10
-Replay ratio              : ████████░░░░░░░░░░  42.6%
-Artist diversity          : ███░░░░░░░░░░░░░░░  16.4%
+Replay ratio              : ██████░░░░░░░░░░░░  31.4%
+Artist diversity          : ████░░░░░░░░░░░░░░  19.6%
 Dominant artist           : Soundgarden
-Dominant artist share     : ████████████░░░░░░  67.2%
-Artist switch ratio       : ████░░░░░░░░░░░░░░  25.0%
+Dominant artist share     : ███████████░░░░░░░  60.8%
+Artist switch ratio       : █████░░░░░░░░░░░░░  28.0%
 Longest artist streak     : Soundgarden × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    4.9%
-Morning    06–12           : ██████░░░░░░░░░░░░   31.1%
-Afternoon  12–18           : ███████████░░░░░░░   62.3%
-Evening    18–24           : ░░░░░░░░░░░░░░░░░░    1.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.9%
+Morning    06–12           : ███░░░░░░░░░░░░░░░   17.6%
+Afternoon  12–18           : █████████████░░░░░   74.5%
+Evening    18–24           : ░░░░░░░░░░░░░░░░░░    2.0%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-07 09:51:46Z
+History first play (7d)   : 2026-11-08 06:46:16Z
 History last play (7d)    : 2026-11-13 16:32:59Z
-Observed time span        : 150:41:13
-Mean inter-play gap       : 02:30:41
+Observed time span        : 129:46:43
+Mean inter-play gap       : 02:35:44
 Median inter-play gap     : 00:05:09
 Longest inactivity gap    : 43:00:37
-Listening intensity       : 0.40 tracks/hour
+Listening intensity       : 0.39 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1625,11 +1625,11 @@ Local timezone            : America/Santiago
 Peak hour (24h)           : 13:00
 Peak hour (7d)            : 13:00
 Heatmap (24h)             :              █          
-Heatmap (7d)              : ▁  ▁  ▂▇▂   ▁█ ▄▅▃▁     
+Heatmap (7d)              : ▁  ▁   ▃▂   ▁█ ▄▅▃▁     
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : █▂▆ ▁▃ 
+Activity (Mon→Sun)        : █▂▆ ▁  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      :      ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂   
 Trend order               : oldest → newest
@@ -1641,7 +1641,7 @@ Tue                       : ▃      ▃█
 Wed                       :    ▁           ▇█ ▁     
 Thu                       :                         
 Fri                       :              █          
-Sat                       :       ▃█                
+Sat                       :                         
 Sun                       :    █                    
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
@@ -1654,8 +1654,8 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-07 06:42:27Z → 2026-11-14 06:42:27Z
-Tracks played (7d)        : 61
+Week window (UTC)         : 2026-11-07 15:10:53Z → 2026-11-14 15:10:53Z
+Tracks played (7d)        : 51
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1663,13 +1663,13 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 13
-Avg inter-play gap        : 02:30:41
+Sessions (7d)             : 11
+Avg inter-play gap        : 02:35:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : grunge(4) | post-grunge(4)
-Top genres (7d)           : post-grunge(55) | grunge(50) | hard rock(41) | alternative metal(4) | noise rock(3) | groove metal(2)
+Top genres (7d)           : post-grunge(45) | grunge(40) | hard rock(31) | alternative metal(4) | noise rock(3) | groove metal(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:01:23
+Telemetry interval        : 08:28:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1685,7 +1685,7 @@ Events retained           : 761
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-13 13:32:59 -03
 Events (24h)              : 4
-Events (7d)               : 61
+Events (7d)               : 51
 Events (30d)              : 264
 Playlist contexts retained: 142
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-14 06:42:27Z
+Report generated (UTC)    : 2026-11-14 15:10:53Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
