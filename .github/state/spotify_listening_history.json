@@ -1,8 +1,295 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-14 20:47:09Z",
+  "updated_utc": "2026-11-15 01:59:02Z",
   "events": [
+    {
+      "track": "Limp Bizkit — Lonely World",
+      "artist": "Limp Bizkit",
+      "title": "Lonely World",
+      "album": "Results May Vary",
+      "uri": "spotify:track:77AbmFudFBhF5a4Vcmwqtu",
+      "url": "https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:55:04Z",
+      "played_at_local": "2026-11-14 21:55:04 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Let Me Down",
+      "artist": "Limp Bizkit",
+      "title": "Let Me Down",
+      "album": "Results May Vary",
+      "uri": "spotify:track:7A4AgpQe7c3R2QQNUwXeQN",
+      "url": "https://open.spotify.com/track/7A4AgpQe7c3R2QQNUwXeQN",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:49:57Z",
+      "played_at_local": "2026-11-14 21:49:57 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — The Only One",
+      "artist": "Limp Bizkit",
+      "title": "The Only One",
+      "album": "Results May Vary",
+      "uri": "spotify:track:2x6vOJSQWa5AZMP4rphrcB",
+      "url": "https://open.spotify.com/track/2x6vOJSQWa5AZMP4rphrcB",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:45:41Z",
+      "played_at_local": "2026-11-14 21:45:41 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Take It Home",
+      "artist": "Limp Bizkit",
+      "title": "Take It Home",
+      "album": "Results May Vary",
+      "uri": "spotify:track:2Q7bTLjfY2HmvAvCznkr31",
+      "url": "https://open.spotify.com/track/2Q7bTLjfY2HmvAvCznkr31",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:41:18Z",
+      "played_at_local": "2026-11-14 21:41:18 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Red Light - Green Light",
+      "artist": "Limp Bizkit",
+      "title": "Red Light - Green Light",
+      "album": "Results May Vary",
+      "uri": "spotify:track:4XSgarKBkdfFE3mygV0yY7",
+      "url": "https://open.spotify.com/track/4XSgarKBkdfFE3mygV0yY7",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:39:36Z",
+      "played_at_local": "2026-11-14 21:39:36 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Build A Bridge",
+      "artist": "Limp Bizkit",
+      "title": "Build A Bridge",
+      "album": "Results May Vary",
+      "uri": "spotify:track:4qWOEeCDVLZPXGzgxE8F7D",
+      "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:35:41Z",
+      "played_at_local": "2026-11-14 21:35:41 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Gimme The Mic",
+      "artist": "Limp Bizkit",
+      "title": "Gimme The Mic",
+      "album": "Results May Vary",
+      "uri": "spotify:track:2KuGuEVhHoQ0F1PVupQovc",
+      "url": "https://open.spotify.com/track/2KuGuEVhHoQ0F1PVupQovc",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-15 00:26:42Z",
+      "played_at_local": "2026-11-14 21:26:42 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Silverchair — Slave",
+      "artist": "Silverchair",
+      "title": "Slave",
+      "album": "Freak Show",
+      "uri": "spotify:track:7yUGMbFsUH5MuPNuq75MyP",
+      "url": "https://open.spotify.com/track/7yUGMbFsUH5MuPNuq75MyP",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-15 00:22:35Z",
+      "played_at_local": "2026-11-14 21:22:35 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
+      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+    },
+    {
+      "track": "Stone Temple Pilots — Plush",
+      "artist": "Stone Temple Pilots",
+      "title": "Plush",
+      "album": "Core",
+      "uri": "spotify:track:3jJZVeExYzVYiV6Y9Fl3DX",
+      "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX",
+      "artist_ids": [
+        "2UazAtjfzqBF0Nho2awK4z"
+      ],
+      "played_at_utc": "2026-11-15 00:18:44Z",
+      "played_at_local": "2026-11-14 21:18:44 -03",
+      "local_hour": 21,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
+      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
+      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-14 23:11:55Z",
+      "played_at_local": "2026-11-14 20:11:55 -03",
+      "local_hour": 20,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
+      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+    },
+    {
+      "track": "Helmet, House Of Pain — Just Another Victim",
+      "artist": "Helmet, House Of Pain",
+      "title": "Just Another Victim",
+      "album": "Unsung: The Best Of Helmet 1991-1997",
+      "uri": "spotify:track:4RLIujooyQaBKKLXPB5LnQ",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0",
+        "0AuW7OCyKfFrsMbtHrYgIV"
+      ],
+      "played_at_utc": "2026-11-14 22:38:52Z",
+      "played_at_local": "2026-11-14 19:38:52 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
+      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+    },
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-11-14 22:35:44Z",
+      "played_at_local": "2026-11-14 19:35:44 -03",
+      "local_hour": 19,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-11-14 21:03:23Z",
+      "played_at_local": "2026-11-14 18:03:23 -03",
+      "local_hour": 18,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-14 20:58:47Z",
+      "played_at_local": "2026-11-14 17:58:47 -03",
+      "local_hour": 17,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "John Coltrane — Blue World",
+      "artist": "John Coltrane",
+      "title": "Blue World",
+      "album": "Blue World",
+      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
+      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
+      "artist_ids": [
+        "2hGh5VOeeqimQFxqXvfCUf"
+      ],
+      "played_at_utc": "2026-11-14 20:49:33Z",
+      "played_at_local": "2026-11-14 17:49:33 -03",
+      "local_hour": 17,
+      "weekday": 5,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Tomasz Stanko Quartet — Trista",
       "artist": "Tomasz Stanko Quartet",
@@ -14451,6 +14738,16 @@
     }
   ],
   "playback_context": [
+    {
+      "captured_utc": "2026-11-15 01:59:02Z",
+      "is_playing": false,
+      "track": null,
+      "playback_state": "OFFLINE (no active session)",
+      "device_type": null,
+      "device_name": null,
+      "volume_percent": null,
+      "volume_telemetry": "NO ACTIVE SESSION"
+    },
     {
       "captured_utc": "2026-11-14 20:47:09Z",
       "is_playing": true,

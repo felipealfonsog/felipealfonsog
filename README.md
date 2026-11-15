@@ -1498,75 +1498,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Tomasz Stanko Quartet — Trista
-Artist                    : Tomasz Stanko Quartet
-Title                     : Trista
-Album                     : Lontano
-Spotify URI               : spotify:track:4371532zjTS1Llm2ZBxyEn
-Spotify URL               : https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn
+Track                     : Limp Bizkit — Lonely World
+Artist                    : Limp Bizkit
+Title                     : Lonely World
+Album                     : Results May Vary
+Spotify URI               : spotify:track:77AbmFudFBhF5a4Vcmwqtu
+Spotify URL               : https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-14 20:43:29Z
-Played at (local)         : 2026-11-14 17:43:29 -03
-Local hour                : 17:00
-Daypart                   : AFTERNOON
-Time since play           : 00:03:40
-Gap from previous play    : 00:04:36
+Played at (UTC)           : 2026-11-15 00:55:04Z
+Played at (local)         : 2026-11-14 21:55:04 -03
+Local hour                : 21:00
+Daypart                   : EVENING
+Time since play           : 01:03:59
+Gap from previous play    : 00:05:07
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quintet — Terminal 7
-Same artist as previous   : NO
+Previous song             : Limp Bizkit — Let Me Down
+Same artist as previous   : YES
 Same track as previous    : NO
-Track plays (retained)    : 8
-Artist plays (retained)   : 8
+Track plays (retained)    : 1
+Artist plays (retained)   : 10
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03
-Previous track #2         : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03
-Previous track #3         : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03
-Previous track #4         : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03
-Previous track #5         : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03
-Previous track #6         : Silverchair — Shade | 2026-11-14 15:47:05 -03
-Previous track #7         : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03
-Previous track #8         : Silverchair — Faultline | 2026-11-14 15:38:04 -03
-Previous track #9         : Silverchair — Tomorrow | 2026-11-14 15:33:45 -03
-Previous track #10        : Silverchair — Israel's Son | 2026-11-14 15:29:19 -03
-Previous track #11        : Silverchair — Madman | 2026-11-13 13:32:59 -03
-Previous track #12        : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03
-Previous track #13        : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03
-Previous track #14        : Silverchair — Shade | 2026-11-13 13:23:59 -03
-Previous track #15        : Limp Bizkit — Boiler | 2026-11-13 08:26:50 -03
-Previous track #16        : Tad — Grease Box | 2026-11-11 18:23:22 -03
-Previous track #17        : Days Of The New — I Think | 2026-11-11 16:33:59 -03
-Previous track #18        : Helmet — Renovation | 2026-11-11 16:28:12 -03
-Previous track #19        : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03
-Previous track #20        : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03
-Previous track #21        : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03
-Previous track #22        : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03
-Previous track #23        : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03
-Previous track #24        : Soundgarden — No Attention | 2026-11-11 16:04:10 -03
-Previous track #25        : Soundgarden — Tighter & Tighter | 2026-11-11 15:59:44 -03
-Previous track #26        : Soundgarden — Never The Machine Forever | 2026-11-11 15:53:37 -03
-Previous track #27        : Soundgarden — Applebite | 2026-11-11 15:50:01 -03
-Previous track #28        : Soundgarden — Never Named | 2026-11-11 15:44:51 -03
-Previous track #29        : Soundgarden — Burden In My Hand | 2026-11-11 15:42:23 -03
-Previous track #30        : Soundgarden — Blow Up The Outside World | 2026-11-11 15:37:33 -03
-Previous track #31        : Soundgarden — Pretty Noose | 2026-11-11 15:20:18 -03
-Previous track #32        : Matchbox Twenty — Unwell | 2026-11-11 03:30:43 -03
-Previous track #33        : Matchbox Twenty — 3AM | 2026-11-10 08:32:35 -03
-Previous track #34        : Matchbox Twenty — Push | 2026-11-10 08:28:53 -03
-Previous track #35        : Chevelle — Wonder What's Next | 2026-11-10 08:24:23 -03
-Previous track #36        : Chevelle — The Red | 2026-11-10 07:44:36 -03
-Previous track #37        : Morphine — Buena | 2026-11-10 00:36:33 -03
-Previous track #38        : Morphine — Buena | 2026-11-09 17:42:55 -03
-Previous track #39        : Helmet — Give It | 2026-11-09 17:28:10 -03
-Previous track #40        : Days Of The New — Hang On To This | 2026-11-09 17:23:52 -03
+Previous track #1         : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
+Previous track #2         : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
+Previous track #3         : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03
+Previous track #4         : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03
+Previous track #5         : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03
+Previous track #6         : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03
+Previous track #7         : Silverchair — Slave | 2026-11-14 21:22:35 -03
+Previous track #8         : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03
+Previous track #9         : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03
+Previous track #10        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03
+Previous track #11        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03
+Previous track #12        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03
+Previous track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03
+Previous track #14        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03
+Previous track #15        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03
+Previous track #16        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03
+Previous track #17        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03
+Previous track #18        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03
+Previous track #19        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03
+Previous track #20        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03
+Previous track #21        : Silverchair — Shade | 2026-11-14 15:47:05 -03
+Previous track #22        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03
+Previous track #23        : Silverchair — Faultline | 2026-11-14 15:38:04 -03
+Previous track #24        : Silverchair — Tomorrow | 2026-11-14 15:33:45 -03
+Previous track #25        : Silverchair — Israel's Son | 2026-11-14 15:29:19 -03
+Previous track #26        : Silverchair — Madman | 2026-11-13 13:32:59 -03
+Previous track #27        : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03
+Previous track #28        : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03
+Previous track #29        : Silverchair — Shade | 2026-11-13 13:23:59 -03
+Previous track #30        : Limp Bizkit — Boiler | 2026-11-13 08:26:50 -03
+Previous track #31        : Tad — Grease Box | 2026-11-11 18:23:22 -03
+Previous track #32        : Days Of The New — I Think | 2026-11-11 16:33:59 -03
+Previous track #33        : Helmet — Renovation | 2026-11-11 16:28:12 -03
+Previous track #34        : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03
+Previous track #35        : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03
+Previous track #36        : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03
+Previous track #37        : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03
+Previous track #38        : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03
+Previous track #39        : Soundgarden — No Attention | 2026-11-11 16:04:10 -03
+Previous track #40        : Soundgarden — Tighter & Tighter | 2026-11-11 15:59:44 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-11-14 17:43:29 -03
-Track observed in context : Tomasz Stanko Quartet — Trista
+Context observed (local)  : 2026-11-14 19:35:44 -03
+Track observed in context : John Coltrane — Blue World
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
@@ -1591,47 +1591,47 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 63
-Unique tracks             : 42
-Unique artists            : 12
-Replay ratio              : ██████░░░░░░░░░░░░  33.3%
-Artist diversity          : ███░░░░░░░░░░░░░░░  19.0%
+Observed events           : 78
+Unique tracks             : 54
+Unique artists            : 16
+Replay ratio              : ██████░░░░░░░░░░░░  30.8%
+Artist diversity          : ████░░░░░░░░░░░░░░  20.5%
 Dominant artist           : Soundgarden
-Dominant artist share     : █████████░░░░░░░░░  49.2%
-Artist switch ratio       : █████░░░░░░░░░░░░░  29.0%
+Dominant artist share     : ███████░░░░░░░░░░░  39.7%
+Artist switch ratio       : ██████░░░░░░░░░░░░  35.1%
 Longest artist streak     : Soundgarden × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    4.8%
-Morning    06–12           : ███░░░░░░░░░░░░░░░   15.9%
-Afternoon  12–18           : ██████████████░░░░   77.8%
-Evening    18–24           : ░░░░░░░░░░░░░░░░░░    1.6%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
+Morning    06–12           : ██░░░░░░░░░░░░░░░░   12.8%
+Afternoon  12–18           : ████████████░░░░░░   65.4%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-11-08 06:46:16Z
-History last play (7d)    : 2026-11-14 20:43:29Z
-Observed time span        : 157:57:13
-Mean inter-play gap       : 02:32:52
-Median inter-play gap     : 00:04:56
+History last play (7d)    : 2026-11-15 00:55:04Z
+Observed time span        : 162:08:48
+Mean inter-play gap       : 02:06:21
+Median inter-play gap     : 00:04:53
 Longest inactivity gap    : 38:03:28
-Listening intensity       : 0.40 tracks/hour
+Listening intensity       : 0.48 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : 21:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :                █▁▂      
-Heatmap (7d)              : ▁  ▁   ▃▂   ▁█ █▆▄▁     
+Heatmap (24h)             :                ▇▁▄▁▂▁█  
+Heatmap (7d)              : ▁  ▁   ▃▂   ▁█ █▆▅▁▁▁▅  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : █▂▆ ▂▄ 
+Activity (Mon→Sun)        : ▇▂▅ ▂█ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▁
+Activity trend (30d)      :      ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1641,62 +1641,62 @@ Tue                       : ▃      ▃█
 Wed                       :    ▁           ▇█ ▁     
 Thu                       :                         
 Fri                       :         ▂    █          
-Sat                       :                █▁▂      
+Sat                       :                ▇▁▄▁▂▁█  
 Sun                       :    █                    
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 11
+Tracks played (last 24h)  : 26
 Dominant artist           : Silverchair
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-07 20:47:09Z → 2026-11-14 20:47:09Z
-Tracks played (7d)        : 63
+Week window (UTC)         : 2026-11-08 01:59:02Z → 2026-11-15 01:59:02Z
+Tracks played (7d)        : 78
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 2
-Sessions (7d)             : 14
-Avg inter-play gap        : 02:32:52
+Sessions (24h)            : 5
+Sessions (7d)             : 17
+Avg inter-play gap        : 02:06:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(9) | grunge(7) | ambient jazz(2) | free jazz(2) | jazz(2)
-Top genres (7d)           : post-grunge(54) | grunge(47) | hard rock(31) | alternative metal(5) | ambient jazz(3) | free jazz(3)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : post-grunge(11) | grunge(10) | alternative metal(9) | nu metal(8) | rap metal(8) | rap rock(8)
+Top genres (7d)           : post-grunge(56) | grunge(50) | hard rock(31) | alternative metal(14) | nu metal(11) | rap metal(9)
+Artist lookups (this run) : 1 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Silverchair — Madman → Tomasz Stanko Quartet — Trista
-Playback timestamp Δ      : 2026-11-13 16:32:59Z → 2026-11-14 20:43:29Z
-State transition          : IDLE → PLAYING
-Telemetry interval        : 05:36:16
+Track transition          : Tomasz Stanko Quartet — Trista → Limp Bizkit — Lonely World
+Playback timestamp Δ      : 2026-11-14 20:43:29Z → 2026-11-15 00:55:04Z
+State transition          : PLAYING → IDLE
+Telemetry interval        : 05:11:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 773
+Events retained           : 788
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-14 17:43:29 -03
-Events (24h)              : 11
-Events (7d)               : 63
-Events (30d)              : 276
-Playlist contexts retained: 144
+Newest retained event     : 2026-11-14 21:55:04 -03
+Events (24h)              : 26
+Events (7d)               : 78
+Events (30d)              : 291
+Playlist contexts retained: 148
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
 API / AUTHORIZATION TELEMETRY
 ------------------------------------------------------------
-API response class        : 200 OK
+API response class        : 204 NO CONTENT
 API condition             : NORMAL
 Authorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY
-Player endpoint           : 200 OK
+Player endpoint           : 204 NO CONTENT
 ------------------------------------------------------------
 DATA INTEGRITY
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-14 20:47:09Z
+Report generated (UTC)    : 2026-11-15 01:59:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
