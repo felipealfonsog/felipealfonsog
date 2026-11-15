@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-15 00:55:04Z
 Played at (local)         : 2026-11-14 21:55:04 -03
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 08:41:29
+Time since play           : 16:20:39
 Gap from previous play    : 00:05:07
 ------------------------------------------------------------
 Previous song             : Limp Bizkit — Let Me Down
@@ -1654,7 +1654,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-08 09:36:32Z → 2026-11-15 09:36:32Z
+Week window (UTC)         : 2026-11-08 17:15:43Z → 2026-11-15 17:15:43Z
 Tracks played (7d)        : 77
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:37:31
+Telemetry interval        : 07:39:11
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-15 09:36:32Z
+Report generated (UTC)    : 2026-11-15 17:15:43Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
