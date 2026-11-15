@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-15 00:55:04Z
 Played at (local)         : 2026-11-14 21:55:04 -03
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 01:03:59
+Time since play           : 08:41:29
 Gap from previous play    : 00:05:07
 ------------------------------------------------------------
 Previous song             : Limp Bizkit — Let Me Down
@@ -1591,33 +1591,33 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 78
+Observed events           : 77
 Unique tracks             : 54
 Unique artists            : 16
-Replay ratio              : ██████░░░░░░░░░░░░  30.8%
-Artist diversity          : ████░░░░░░░░░░░░░░  20.5%
+Replay ratio              : █████░░░░░░░░░░░░░  29.9%
+Artist diversity          : ████░░░░░░░░░░░░░░  20.8%
 Dominant artist           : Soundgarden
-Dominant artist share     : ███████░░░░░░░░░░░  39.7%
-Artist switch ratio       : ██████░░░░░░░░░░░░  35.1%
+Dominant artist share     : ███████░░░░░░░░░░░  40.3%
+Artist switch ratio       : ██████░░░░░░░░░░░░  34.2%
 Longest artist streak     : Soundgarden × 16
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    3.8%
-Morning    06–12           : ██░░░░░░░░░░░░░░░░   12.8%
-Afternoon  12–18           : ████████████░░░░░░   65.4%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.6%
+Morning    06–12           : ██░░░░░░░░░░░░░░░░   13.0%
+Afternoon  12–18           : ████████████░░░░░░   66.2%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   18.2%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-08 06:46:16Z
+History first play (7d)   : 2026-11-09 10:24:07Z
 History last play (7d)    : 2026-11-15 00:55:04Z
-Observed time span        : 162:08:48
-Mean inter-play gap       : 02:06:21
-Median inter-play gap     : 00:04:53
+Observed time span        : 134:30:57
+Mean inter-play gap       : 01:46:12
+Median inter-play gap     : 00:04:52
 Longest inactivity gap    : 38:03:28
-Listening intensity       : 0.48 tracks/hour
+Listening intensity       : 0.57 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        : ▇▂▅ ▂█ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :      ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃
+Activity trend (30d)      :     ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1642,7 +1642,7 @@ Wed                       :    ▁           ▇█ ▁
 Thu                       :                         
 Fri                       :         ▂    █          
 Sat                       :                ▇▁▄▁▂▁█  
-Sun                       :    █                    
+Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
@@ -1654,8 +1654,8 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-08 01:59:02Z → 2026-11-15 01:59:02Z
-Tracks played (7d)        : 78
+Week window (UTC)         : 2026-11-08 09:36:32Z → 2026-11-15 09:36:32Z
+Tracks played (7d)        : 77
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
@@ -1663,21 +1663,21 @@ SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 5
-Sessions (7d)             : 17
-Avg inter-play gap        : 02:06:21
+Sessions (7d)             : 16
+Avg inter-play gap        : 01:46:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : post-grunge(11) | grunge(10) | alternative metal(9) | nu metal(8) | rap metal(8) | rap rock(8)
 Top genres (7d)           : post-grunge(56) | grunge(50) | hard rock(31) | alternative metal(14) | nu metal(11) | rap metal(9)
-Artist lookups (this run) : 1 (cached)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quartet — Trista → Limp Bizkit — Lonely World
-Playback timestamp Δ      : 2026-11-14 20:43:29Z → 2026-11-15 00:55:04Z
-State transition          : PLAYING → IDLE
-Telemetry interval        : 05:11:54
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
+State transition          : NO CHANGE
+Telemetry interval        : 07:37:31
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1685,7 +1685,7 @@ Events retained           : 788
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-14 21:55:04 -03
 Events (24h)              : 26
-Events (7d)               : 78
+Events (7d)               : 77
 Events (30d)              : 291
 Playlist contexts retained: 148
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-15 01:59:02Z
+Report generated (UTC)    : 2026-11-15 09:36:32Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
