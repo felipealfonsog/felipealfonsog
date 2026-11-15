@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-15 00:55:04Z
 Played at (local)         : 2026-11-14 21:55:04 -03
 Local hour                : 21:00
 Daypart                   : EVENING
-Time since play           : 16:20:39
+Time since play           : 22:02:33
 Gap from previous play    : 00:05:07
 ------------------------------------------------------------
 Previous song             : Limp Bizkit — Let Me Down
@@ -1624,7 +1624,7 @@ LISTENING HOURS (local time)
 Local timezone            : America/Santiago
 Peak hour (24h)           : 21:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             :                ▇▁▄▁▂▁█  
+Heatmap (24h)             :                     ▁█  
 Heatmap (7d)              : ▁  ▁   ▃▂   ▁█ █▆▅▁▁▁▅  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 26
-Dominant artist           : Silverchair
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 10
+Dominant artist           : Limp Bizkit
+Listening pattern         : Regular cadence
+Daily activity status     : MEDIUM
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-08 17:15:43Z → 2026-11-15 17:15:43Z
+Week window (UTC)         : 2026-11-08 22:57:36Z → 2026-11-15 22:57:36Z
 Tracks played (7d)        : 77
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
+Sessions (24h)            : 2
 Sessions (7d)             : 16
 Avg inter-play gap        : 01:46:12
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : post-grunge(11) | grunge(10) | alternative metal(9) | nu metal(8) | rap metal(8) | rap rock(8)
+Top genres (24h)          : alternative metal(8) | nu metal(8) | rap metal(8) | rap rock(8) | grunge(2) | post-grunge(2)
 Top genres (7d)           : post-grunge(56) | grunge(50) | hard rock(31) | alternative metal(14) | nu metal(11) | rap metal(9)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:39:11
+Telemetry interval        : 05:41:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 788
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-14 21:55:04 -03
-Events (24h)              : 26
+Events (24h)              : 10
 Events (7d)               : 77
 Events (30d)              : 291
 Playlist contexts retained: 148
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-15 17:15:43Z
+Report generated (UTC)    : 2026-11-15 22:57:36Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
