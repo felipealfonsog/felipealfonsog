@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-16 18:17:36Z
 Played at (local)         : 2026-11-16 15:17:36 -03
 Local hour                : 15:00
 Daypart                   : AFTERNOON
-Time since play           : 19:19:36
+Time since play           : 28:11:34
 Gap from previous play    : 41:22:32
 ------------------------------------------------------------
 Previous song             : Limp Bizkit — Lonely World
@@ -1622,9 +1622,9 @@ Listening intensity       : 0.37 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :                █        
+Heatmap (24h)             : N/A
 Heatmap (7d)              :              ▂ █▄▂▁▁ ▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Rage Against The Machine
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-10 13:37:11Z → 2026-11-17 13:37:11Z
+Week window (UTC)         : 2026-11-10 22:29:10Z → 2026-11-17 22:29:10Z
 Tracks played (7d)        : 49
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
+Sessions (24h)            : N/A
 Sessions (7d)             : 11
 Avg inter-play gap        : 02:44:44
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | rap metal(1) | rap rock(1)
+Top genres (24h)          : N/A
 Top genres (7d)           : post-grunge(31) | grunge(30) | hard rock(13) | alternative metal(12) | nu metal(10) | rap metal(10)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 10:38:25
+Telemetry interval        : 08:51:59
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 789
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-16 15:17:36 -03
-Events (24h)              : 1
+Events (24h)              : 0
 Events (7d)               : 49
 Events (30d)              : 292
 Playlist contexts retained: 148
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-17 13:37:11Z
+Report generated (UTC)    : 2026-11-17 22:29:10Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
