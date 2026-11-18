@@ -1,8 +1,66 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-18 07:41:44Z",
+  "updated_utc": "2026-11-18 17:20:38Z",
   "events": [
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-18 16:54:20Z",
+      "played_at_local": "2026-11-18 13:54:20 -03",
+      "local_hour": 13,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Limp Bizkit — Almost Over",
+      "artist": "Limp Bizkit",
+      "title": "Almost Over",
+      "album": "Results May Vary",
+      "uri": "spotify:track:043Re81uRxCx2Nw6LfAheU",
+      "url": "https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-18 15:20:01Z",
+      "played_at_local": "2026-11-18 12:20:01 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
+    {
+      "track": "Limp Bizkit — Let Me Down",
+      "artist": "Limp Bizkit",
+      "title": "Let Me Down",
+      "album": "Results May Vary",
+      "uri": "spotify:track:7A4AgpQe7c3R2QQNUwXeQN",
+      "url": "https://open.spotify.com/track/7A4AgpQe7c3R2QQNUwXeQN",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-18 15:12:35Z",
+      "played_at_local": "2026-11-18 12:12:35 -03",
+      "local_hour": 12,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+    },
     {
       "track": "Rage Against The Machine — Bombtrack",
       "artist": "Rage Against The Machine",
