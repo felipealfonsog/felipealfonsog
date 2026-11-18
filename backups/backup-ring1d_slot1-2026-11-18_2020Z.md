@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-17_2044Z
+ snapshot_utc : 2026-11-18_2020Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-17T07:44:41+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-18T07:10:00+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 200 ms
-TTFB................ 199 ms
+LATENCY............. 194 ms
+TTFB................ 193 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 43d
+TLS_EXPIRY.......... 42d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-17T11:38:28Z
+LAST_PROBE_UTC...... 2026-11-18T11:25:14Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -788,19 +788,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : pedestrian_axis
-latitude       : -33.437512
-longitude      : -70.646353
-altitude       : 70 m
+location       : urban_sector
+latitude       : -33.443944
+longitude      : -70.650262
+altitude       : 23 m
 gps_accuracy   : ±4.4 m
-heading        : 336°
-speed          : 4.0 km/h
-status         : meeting
-phase          : workday
-local_time     : 12:09
+heading        : 57°
+speed          : 7.0 km/h
+status         : in_transit
+phase          : morning
+local_time     : 11:47
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-11-17 15:09:57 UTC
+signal         : nominal
+updated_utc    : 2026-11-18 14:47:52 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-17 08:03:23Z
+DSN snapshot (UTC)       : 2026-11-18 07:39:37Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.90e9 km | 173.128 AU
-Heliocentric distance    : 172.379 AU
-Relative speed           : 39.462 km/s
+Earth distance           : 25.90e9 km | 173.143 AU
+Heliocentric distance    : 172.388 AU
+Relative speed           : 39.303 km/s
 ------------------------------------------------------------
-One-way light time       : 23:59:52
-Round-trip latency       : 47:59:44
+One-way light time       : 23:59:59
+Round-trip latency       : 47:59:58
 ------------------------------------------------------------
-Δ distance (since last)  : +914,544 km
-Mission age              : 49 years, 85 days
+Δ distance (since last)  : +977,643 km
+Mission age              : 49 years, 86 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.68e9 km | 144.931 AU
-Heliocentric distance    : 144.497 AU
-Relative speed           : 40.846 km/s
+Earth distance           : 21.68e9 km | 144.950 AU
+Heliocentric distance    : 144.505 AU
+Relative speed           : 40.782 km/s
 ------------------------------------------------------------
-One-way light time       : 20:05:21
-Round-trip latency       : 40:10:42
+One-way light time       : 20:05:31
+Round-trip latency       : 40:11:02
 ------------------------------------------------------------
-Δ distance (since last)  : +1.214e6 km
-Mission age              : 49 years, 101 days
+Δ distance (since last)  : +1.309e6 km
+Mission age              : 49 years, 102 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-17 08:03:25Z
+Report generated (UTC)   : 2026-11-18 07:39:41Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,75 +1505,75 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Rage Against The Machine — Bombtrack
-Artist                    : Rage Against The Machine
-Title                     : Bombtrack
-Album                     : Rage Against The Machine - XX (20th Anniversary Special Edition)
-Spotify URI               : spotify:track:2rBHnIxbhkMGLpqmsNX91M
-Spotify URL               : https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M
+Track                     : Tomasz Stanko Quintet — Terminal 7
+Artist                    : Tomasz Stanko Quintet
+Title                     : Terminal 7
+Album                     : Dark Eyes
+Spotify URI               : spotify:track:2qPNrEIImCaJ47KCKXBFAh
+Spotify URL               : https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-16 18:17:36Z
-Played at (local)         : 2026-11-16 15:17:36 -03
-Local hour                : 15:00
+Played at (UTC)           : 2026-11-18 16:54:20Z
+Played at (local)         : 2026-11-18 13:54:20 -03
+Local hour                : 13:00
 Daypart                   : AFTERNOON
-Time since play           : 19:19:36
-Gap from previous play    : 41:22:32
+Time since play           : 00:26:18
+Gap from previous play    : 01:34:19
 ------------------------------------------------------------
-Previous song             : Limp Bizkit — Lonely World
+Previous song             : Limp Bizkit — Almost Over
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 7
-Artist plays (retained)   : 24
+Track plays (retained)    : 17
+Artist plays (retained)   : 17
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03
-Previous track #2         : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
-Previous track #3         : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
-Previous track #4         : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03
-Previous track #5         : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03
-Previous track #6         : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03
-Previous track #7         : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03
-Previous track #8         : Silverchair — Slave | 2026-11-14 21:22:35 -03
-Previous track #9         : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03
-Previous track #10        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03
-Previous track #11        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03
-Previous track #12        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03
-Previous track #13        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03
-Previous track #14        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03
-Previous track #15        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03
-Previous track #16        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03
-Previous track #17        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03
-Previous track #18        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03
-Previous track #19        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03
-Previous track #20        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03
-Previous track #21        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03
-Previous track #22        : Silverchair — Shade | 2026-11-14 15:47:05 -03
-Previous track #23        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03
-Previous track #24        : Silverchair — Faultline | 2026-11-14 15:38:04 -03
-Previous track #25        : Silverchair — Tomorrow | 2026-11-14 15:33:45 -03
-Previous track #26        : Silverchair — Israel's Son | 2026-11-14 15:29:19 -03
-Previous track #27        : Silverchair — Madman | 2026-11-13 13:32:59 -03
-Previous track #28        : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03
-Previous track #29        : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03
-Previous track #30        : Silverchair — Shade | 2026-11-13 13:23:59 -03
-Previous track #31        : Limp Bizkit — Boiler | 2026-11-13 08:26:50 -03
-Previous track #32        : Tad — Grease Box | 2026-11-11 18:23:22 -03
-Previous track #33        : Days Of The New — I Think | 2026-11-11 16:33:59 -03
-Previous track #34        : Helmet — Renovation | 2026-11-11 16:28:12 -03
-Previous track #35        : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03
-Previous track #36        : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03
-Previous track #37        : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03
-Previous track #38        : Soundgarden — Overfloater | 2026-11-11 16:13:12 -03
-Previous track #39        : Soundgarden — Switch Opens | 2026-11-11 16:08:03 -03
-Previous track #40        : Soundgarden — No Attention | 2026-11-11 16:04:10 -03
+Previous track #1         : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03
+Previous track #2         : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03
+Previous track #3         : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03
+Previous track #4         : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03
+Previous track #5         : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
+Previous track #6         : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
+Previous track #7         : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03
+Previous track #8         : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03
+Previous track #9         : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03
+Previous track #10        : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03
+Previous track #11        : Silverchair — Slave | 2026-11-14 21:22:35 -03
+Previous track #12        : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03
+Previous track #13        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03
+Previous track #14        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03
+Previous track #15        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03
+Previous track #16        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03
+Previous track #17        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03
+Previous track #18        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03
+Previous track #19        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03
+Previous track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03
+Previous track #21        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03
+Previous track #22        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03
+Previous track #23        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03
+Previous track #24        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03
+Previous track #25        : Silverchair — Shade | 2026-11-14 15:47:05 -03
+Previous track #26        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03
+Previous track #27        : Silverchair — Faultline | 2026-11-14 15:38:04 -03
+Previous track #28        : Silverchair — Tomorrow | 2026-11-14 15:33:45 -03
+Previous track #29        : Silverchair — Israel's Son | 2026-11-14 15:29:19 -03
+Previous track #30        : Silverchair — Madman | 2026-11-13 13:32:59 -03
+Previous track #31        : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03
+Previous track #32        : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03
+Previous track #33        : Silverchair — Shade | 2026-11-13 13:23:59 -03
+Previous track #34        : Limp Bizkit — Boiler | 2026-11-13 08:26:50 -03
+Previous track #35        : Tad — Grease Box | 2026-11-11 18:23:22 -03
+Previous track #36        : Days Of The New — I Think | 2026-11-11 16:33:59 -03
+Previous track #37        : Helmet — Renovation | 2026-11-11 16:28:12 -03
+Previous track #38        : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03
+Previous track #39        : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03
+Previous track #40        : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-11-14 19:35:44 -03
-Track observed in context : John Coltrane — Blue World
+Context observed (local)  : 2026-11-18 13:54:20 -03
+Track observed in context : Tomasz Stanko Quintet — Terminal 7
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
@@ -1598,54 +1598,54 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 49
+Observed events           : 51
 Unique tracks             : 42
 Unique artists            : 13
-Replay ratio              : ███░░░░░░░░░░░░░░░  14.3%
-Artist diversity          : █████░░░░░░░░░░░░░  26.5%
+Replay ratio              : ███░░░░░░░░░░░░░░░  17.6%
+Artist diversity          : █████░░░░░░░░░░░░░  25.5%
 Dominant artist           : Soundgarden
-Dominant artist share     : █████░░░░░░░░░░░░░  26.5%
-Artist switch ratio       : ███████░░░░░░░░░░░  39.6%
+Dominant artist share     : █████░░░░░░░░░░░░░  25.5%
+Artist switch ratio       : ███████░░░░░░░░░░░  40.0%
 Longest artist streak     : Soundgarden × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    2.0%
+Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%
-Afternoon  12–18           : ████████████░░░░░░   67.3%
-Evening    18–24           : █████░░░░░░░░░░░░░   28.6%
+Afternoon  12–18           : █████████████░░░░░   70.6%
+Evening    18–24           : █████░░░░░░░░░░░░░   27.5%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-11 06:30:43Z
-History last play (7d)    : 2026-11-16 18:17:36Z
-Observed time span        : 131:46:53
-Mean inter-play gap       : 02:44:44
-Median inter-play gap     : 00:04:36
-Longest inactivity gap    : 41:22:32
-Listening intensity       : 0.37 tracks/hour
+History first play (7d)   : 2026-11-11 18:20:18Z
+History last play (7d)    : 2026-11-18 16:54:20Z
+Observed time span        : 166:34:02
+Mean inter-play gap       : 03:19:53
+Median inter-play gap     : 00:04:43
+Longest inactivity gap    : 44:54:59
+Listening intensity       : 0.31 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : 12:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :                █        
-Heatmap (7d)              :              ▂ █▄▂▁▁ ▄  
+Heatmap (24h)             :             █▄          
+Heatmap (7d)              :             ▁▂ █▄▂▁▁ ▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▅ ▂█ 
+Activity (Mon→Sun)        :   ▆ ▂█ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :   ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   
+Activity trend (30d)      :  ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                █        
 Tue                       :                         
-Wed                       :    ▁           ▇█ ▁     
+Wed                       :             ▂▁ ▇█ ▁     
 Thu                       :                         
 Fri                       :         ▂    █          
 Sat                       :                ▇▁▄▁▂▁█  
@@ -1654,47 +1654,47 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 1
-Dominant artist           : Rage Against The Machine
+Tracks played (last 24h)  : 3
+Dominant artist           : Limp Bizkit
 Listening pattern         : Light activity
 Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-10 13:37:11Z → 2026-11-17 13:37:11Z
-Tracks played (7d)        : 49
+Week window (UTC)         : 2026-11-11 17:20:38Z → 2026-11-18 17:20:38Z
+Tracks played (7d)        : 51
 Dominant artist           : Soundgarden
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 11
-Avg inter-play gap        : 02:44:44
+Sessions (24h)            : 2
+Sessions (7d)             : 12
+Avg inter-play gap        : 03:19:53
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(1) | nu metal(1) | rap metal(1) | rap rock(1)
-Top genres (7d)           : post-grunge(31) | grunge(30) | hard rock(13) | alternative metal(12) | nu metal(10) | rap metal(10)
+Top genres (24h)          : alternative metal(2) | nu metal(2) | rap metal(2) | rap rock(2) | ambient jazz(1) | free jazz(1)
+Top genres (7d)           : grunge(30) | post-grunge(30) | alternative metal(14) | hard rock(13) | nu metal(12) | rap metal(12)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Rage Against The Machine — Bombtrack → Tomasz Stanko Quintet — Terminal 7
+Playback timestamp Δ      : 2026-11-16 18:17:36Z → 2026-11-18 16:54:20Z
 State transition          : NO CHANGE
-Telemetry interval        : 10:38:25
+Telemetry interval        : 09:38:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 789
+Events retained           : 792
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-16 15:17:36 -03
-Events (24h)              : 1
-Events (7d)               : 49
-Events (30d)              : 292
-Playlist contexts retained: 148
+Newest retained event     : 2026-11-18 13:54:20 -03
+Events (24h)              : 3
+Events (7d)               : 51
+Events (30d)              : 294
+Playlist contexts retained: 149
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-17 13:37:11Z
+Report generated (UTC)    : 2026-11-18 17:20:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 16 November 2026
+From: 04 December 2023 - To: 17 November 2026
 
 Total Time       : 1,076 hrs 11 mins
 Mostly coding in : Other
@@ -2091,7 +2091,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          1,022 hrs 35 mins ●●●●●●●●●●●●●●●●●●●●●●●●◔○  95.02 %
+Other          1,026 hrs 48 mins ●●●●●●●●●●●●●●●●●●●●●●●●◔○  95.41 %
 Bash           177 hrs 34 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
 Python         142 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
 HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
@@ -2119,18 +2119,18 @@ apache         4 hrs          ○○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,380 hrs 19 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,384 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.44 %
 
 EDITORS - APPS
 --------------
-Firefox        704 hrs 38 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.48 %
+Firefox        708 hrs 11 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.81 %
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.29 %
 Vim            338 hrs 28 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
-Spotify        68 hrs 34 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.37 %
+Spotify        68 hrs 37 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.38 %
 Terminal       64 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
-‎WhatsApp      46 hrs 3 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.28 %
-Acrobat        28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
+‎WhatsApp      46 hrs 5 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.28 %
+Acrobat        28 hrs 30 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.65 %
 Pages          28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
 Termius        24 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
@@ -2141,10 +2141,10 @@ Codex Vscode   11 hrs 56 mins ○○○○○○○○○○○○○○○○�
 TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 Chrome         10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-Preview        6 hrs 2 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
+Preview        6 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Zoom           5 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
 Skim           4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
-TorBrowser     2 hrs 27 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.23 %
+TorBrowser     2 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.27 %
 Cyberduck      1 hr 19 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
 TeXShop        51 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
@@ -2152,16 +2152,16 @@ Telegram       23 mins        ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,294 hrs 4 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       703 hrs 25 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  65.36 %
-Meeting        55 hrs 34 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.16 %
+Coding         1,294 hrs 42 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       706 hrs 58 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  65.69 %
+Meeting        55 hrs 36 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.17 %
 AI Coding      28 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
 Writing Docs   17 hrs 14 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 17/11/2026 15:24:20 UTC
+Last updated     : 18/11/2026 14:58:33 UTC
 
 ```
 <!--END_SECTION:wakastats-->
