@@ -1,8 +1,246 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-18 17:20:38Z",
+  "updated_utc": "2026-11-19 00:30:44Z",
   "events": [
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-18 20:47:40Z",
+      "played_at_local": "2026-11-18 17:47:40 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Soundgarden — The Day I Tried To Live",
+      "artist": "Soundgarden",
+      "title": "The Day I Tried To Live",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:4YugO7rO57FSmvj4UkyTXx",
+      "url": "https://open.spotify.com/track/4YugO7rO57FSmvj4UkyTXx",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-18 20:42:22Z",
+      "played_at_local": "2026-11-18 17:42:22 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Freedom",
+      "artist": "Rage Against The Machine",
+      "title": "Freedom",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:1zVE9JBBy8j0KmlbM8Xwhi",
+      "url": "https://open.spotify.com/track/1zVE9JBBy8j0KmlbM8Xwhi",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:42:52Z",
+      "played_at_local": "2026-11-18 15:42:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Township Rebellion",
+      "artist": "Rage Against The Machine",
+      "title": "Township Rebellion",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:0WK0EqiidP6WEDOHK34HEe",
+      "url": "https://open.spotify.com/track/0WK0EqiidP6WEDOHK34HEe",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:36:46Z",
+      "played_at_local": "2026-11-18 15:36:46 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful of Steel",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3YEk8mVdMI7rxtfimlUd1G",
+      "url": "https://open.spotify.com/track/3YEk8mVdMI7rxtfimlUd1G",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:31:22Z",
+      "played_at_local": "2026-11-18 15:31:22 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6zbHSDJjgrNdfIxPyGfPBt",
+      "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:25:52Z",
+      "played_at_local": "2026-11-18 15:25:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Know Your Enemy",
+      "artist": "Rage Against The Machine",
+      "title": "Know Your Enemy",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:1IDAJagxB9AQjjYXaiDK1j",
+      "url": "https://open.spotify.com/track/1IDAJagxB9AQjjYXaiDK1j",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:19:48Z",
+      "played_at_local": "2026-11-18 15:19:48 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Bullet In the Head",
+      "artist": "Rage Against The Machine",
+      "title": "Bullet In the Head",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:11cxKUEgnVAlesUKt4e3br",
+      "url": "https://open.spotify.com/track/11cxKUEgnVAlesUKt4e3br",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:14:52Z",
+      "played_at_local": "2026-11-18 15:14:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Settle for Nothing",
+      "artist": "Rage Against The Machine",
+      "title": "Settle for Nothing",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:2vuDdXqekkDCSdawJyUpT6",
+      "url": "https://open.spotify.com/track/2vuDdXqekkDCSdawJyUpT6",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:09:43Z",
+      "played_at_local": "2026-11-18 15:09:43 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Take the Power Back",
+      "artist": "Rage Against The Machine",
+      "title": "Take the Power Back",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3tTL7jlSkowXidYeafFtwG",
+      "url": "https://open.spotify.com/track/3tTL7jlSkowXidYeafFtwG",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:04:54Z",
+      "played_at_local": "2026-11-18 15:04:54 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Killing In the Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In the Name",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
+      "url": "https://open.spotify.com/track/3FUS56gKr9mVBmzvlnodlh",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 17:59:17Z",
+      "played_at_local": "2026-11-18 14:59:17 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 17:54:03Z",
+      "played_at_local": "2026-11-18 14:54:03 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-11-18 17:28:59Z",
+      "played_at_local": "2026-11-18 14:28:59 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Tomasz Stanko Quintet — Terminal 7",
       "artist": "Tomasz Stanko Quintet",
@@ -24,6 +262,24 @@
       "playlist_name": "Homeland (TV Series) Jazz Collection",
       "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
       "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Limp Bizkit — Down Another Day",
+      "artist": "Limp Bizkit",
+      "title": "Down Another Day",
+      "album": "Results May Vary",
+      "uri": "spotify:track:080ZWiLptfVvc1UUUPldaZ",
+      "url": "https://open.spotify.com/track/080ZWiLptfVvc1UUUPldaZ",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-18 16:44:24Z",
+      "played_at_local": "2026-11-18 13:44:24 -03",
+      "local_hour": 13,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
     },
     {
       "track": "Limp Bizkit — Almost Over",

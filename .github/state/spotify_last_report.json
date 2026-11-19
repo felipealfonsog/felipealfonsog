@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-11-18 17:20:38Z",
+  "report_generated_utc": "2026-11-19 00:30:44Z",
   "status": "IDLE",
-  "last_track": "Tomasz Stanko Quintet — Terminal 7",
-  "last_played_utc": "2026-11-18 16:54:20Z",
+  "last_track": "Silverchair — Israel's Son",
+  "last_played_utc": "2026-11-18 20:47:40Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1977,9 +1977,247 @@
     "3QgSmABpItIdj908ek80n5": [],
     "0AuW7OCyKfFrsMbtHrYgIV": []
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Tomasz Stanko Quintet — Terminal 7\nArtist                    : Tomasz Stanko Quintet\nTitle                     : Terminal 7\nAlbum                     : Dark Eyes\nSpotify URI               : spotify:track:2qPNrEIImCaJ47KCKXBFAh\nSpotify URL               : https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-18 16:54:20Z\nPlayed at (local)         : 2026-11-18 13:54:20 -03\nLocal hour                : 13:00\nDaypart                   : AFTERNOON\nTime since play           : 00:26:18\nGap from previous play    : 01:34:19\n------------------------------------------------------------\nPrevious song             : Limp Bizkit — Almost Over\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 17\nArtist plays (retained)   : 17\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03\nPrevious track #2         : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03\nPrevious track #3         : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03\nPrevious track #4         : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03\nPrevious track #5         : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03\nPrevious track #6         : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03\nPrevious track #7         : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03\nPrevious track #8         : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03\nPrevious track #9         : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03\nPrevious track #10        : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03\nPrevious track #11        : Silverchair — Slave | 2026-11-14 21:22:35 -03\nPrevious track #12        : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03\nPrevious track #13        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03\nPrevious track #14        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03\nPrevious track #15        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03\nPrevious track #16        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03\nPrevious track #17        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03\nPrevious track #18        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03\nPrevious track #19        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03\nPrevious track #20        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03\nPrevious track #21        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03\nPrevious track #22        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03\nPrevious track #23        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03\nPrevious track #24        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03\nPrevious track #25        : Silverchair — Shade | 2026-11-14 15:47:05 -03\nPrevious track #26        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03\nPrevious track #27        : Silverchair — Faultline | 2026-11-14 15:38:04 -03\nPrevious track #28        : Silverchair — Tomorrow | 2026-11-14 15:33:45 -03\nPrevious track #29        : Silverchair — Israel's Son | 2026-11-14 15:29:19 -03\nPrevious track #30        : Silverchair — Madman | 2026-11-13 13:32:59 -03\nPrevious track #31        : Silverchair — Suicidal Dream | 2026-11-13 13:30:15 -03\nPrevious track #32        : Silverchair — Leave Me Out | 2026-11-13 13:27:02 -03\nPrevious track #33        : Silverchair — Shade | 2026-11-13 13:23:59 -03\nPrevious track #34        : Limp Bizkit — Boiler | 2026-11-13 08:26:50 -03\nPrevious track #35        : Tad — Grease Box | 2026-11-11 18:23:22 -03\nPrevious track #36        : Days Of The New — I Think | 2026-11-11 16:33:59 -03\nPrevious track #37        : Helmet — Renovation | 2026-11-11 16:28:12 -03\nPrevious track #38        : Soundgarden — Like Suicide | 2026-11-11 16:25:20 -03\nPrevious track #39        : Soundgarden — Boot Camp | 2026-11-11 16:18:19 -03\nPrevious track #40        : Soundgarden — An Unkind | 2026-11-11 16:15:20 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-11-18 13:54:20 -03\nTrack observed in context : Tomasz Stanko Quintet — Terminal 7\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #3      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #5      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #8      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 51\nUnique tracks             : 42\nUnique artists            : 13\nReplay ratio              : ███░░░░░░░░░░░░░░░  17.6%\nArtist diversity          : █████░░░░░░░░░░░░░  25.5%\nDominant artist           : Soundgarden\nDominant artist share     : █████░░░░░░░░░░░░░  25.5%\nArtist switch ratio       : ███████░░░░░░░░░░░  40.0%\nLongest artist streak     : Soundgarden × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%\nAfternoon  12–18           : █████████████░░░░░   70.6%\nEvening    18–24           : █████░░░░░░░░░░░░░   27.5%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-11 18:20:18Z\nHistory last play (7d)    : 2026-11-18 16:54:20Z\nObserved time span        : 166:34:02\nMean inter-play gap       : 03:19:53\nMedian inter-play gap     : 00:04:43\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.31 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 12:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             █▄          \nHeatmap (7d)              :             ▁▂ █▄▂▁▁ ▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   ▆ ▂█ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :  ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃    \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▂▁ ▇█ ▁     \nThu                       :                         \nFri                       :         ▂    █          \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 3\nDominant artist           : Limp Bizkit\nListening pattern         : Light activity\nDaily activity status     : LOW\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-11 17:20:38Z → 2026-11-18 17:20:38Z\nTracks played (7d)        : 51\nDominant artist           : Soundgarden\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 2\nSessions (7d)             : 12\nAvg inter-play gap        : 03:19:53\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(2) | nu metal(2) | rap metal(2) | rap rock(2) | ambient jazz(1) | free jazz(1)\nTop genres (7d)           : grunge(30) | post-grunge(30) | alternative metal(14) | hard rock(13) | nu metal(12) | rap metal(12)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Rage Against The Machine — Bombtrack → Tomasz Stanko Quintet — Terminal 7\nPlayback timestamp Δ      : 2026-11-16 18:17:36Z → 2026-11-18 16:54:20Z\nState transition          : NO CHANGE\nTelemetry interval        : 09:38:54\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 792\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-18 13:54:20 -03\nEvents (24h)              : 3\nEvents (7d)               : 51\nEvents (30d)              : 294\nPlaylist contexts retained: 149\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-18 17:20:38Z",
-  "last_successful_report_utc": "2026-11-18 17:20:38Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Silverchair — Israel's Son\nArtist                    : Silverchair\nTitle                     : Israel's Son\nAlbum                     : Frogstomp (Deluxe Edition) [Remastered]\nSpotify URI               : spotify:track:4gAV3sMEZn4lrfKPGARCqA\nSpotify URL               : https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-18 20:47:40Z\nPlayed at (local)         : 2026-11-18 17:47:40 -03\nLocal hour                : 17:00\nDaypart                   : AFTERNOON\nTime since play           : 03:43:05\nGap from previous play    : 00:05:18\n------------------------------------------------------------\nPrevious song             : Soundgarden — The Day I Tried To Live\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 7\nArtist plays (retained)   : 63\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03\nPrevious track #2         : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03\nPrevious track #3         : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03\nPrevious track #4         : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03\nPrevious track #5         : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03\nPrevious track #6         : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03\nPrevious track #7         : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03\nPrevious track #8         : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03\nPrevious track #9         : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03\nPrevious track #10        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03\nPrevious track #11        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03\nPrevious track #12        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03\nPrevious track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03\nPrevious track #14        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03\nPrevious track #15        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03\nPrevious track #16        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03\nPrevious track #17        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03\nPrevious track #18        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03\nPrevious track #19        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03\nPrevious track #20        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03\nPrevious track #21        : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03\nPrevious track #22        : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03\nPrevious track #23        : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03\nPrevious track #24        : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03\nPrevious track #25        : Silverchair — Slave | 2026-11-14 21:22:35 -03\nPrevious track #26        : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03\nPrevious track #27        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03\nPrevious track #28        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03\nPrevious track #29        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03\nPrevious track #30        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03\nPrevious track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03\nPrevious track #32        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03\nPrevious track #33        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03\nPrevious track #34        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03\nPrevious track #35        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03\nPrevious track #36        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03\nPrevious track #37        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03\nPrevious track #38        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03\nPrevious track #39        : Silverchair — Shade | 2026-11-14 15:47:05 -03\nPrevious track #40        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-11-18 14:28:59 -03\nTrack observed in context : Tomasz Stanko Quartet — Trista\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #3      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #5      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #8      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 49\nUnique tracks             : 37\nUnique artists            : 10\nReplay ratio              : ████░░░░░░░░░░░░░░  24.5%\nArtist diversity          : ████░░░░░░░░░░░░░░  20.4%\nDominant artist           : Silverchair\nDominant artist share     : █████░░░░░░░░░░░░░  26.5%\nArtist switch ratio       : ████████░░░░░░░░░░  41.7%\nLongest artist streak     : Silverchair × 11\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%\nAfternoon  12–18           : █████████████░░░░░   71.4%\nEvening    18–24           : █████░░░░░░░░░░░░░   26.5%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-13 11:26:50Z\nHistory last play (7d)    : 2026-11-18 20:47:40Z\nObserved time span        : 129:20:50\nMean inter-play gap       : 02:41:41\nMedian inter-play gap     : 00:05:12\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.38 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 15:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             ▂▂▃█ ▂      \nHeatmap (7d)              :             ▁▃▁█ ▃ ▁ ▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   ▅ ▂█ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :  ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▂▂▃█ ▂      \nThu                       :                         \nFri                       :         ▂    █          \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 17\nDominant artist           : Rage Against The Machine\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-12 00:30:44Z → 2026-11-19 00:30:44Z\nTracks played (7d)        : 49\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 5\nSessions (7d)             : 13\nAvg inter-play gap        : 02:41:41\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(13) | nu metal(13) | rap metal(13) | rap rock(13) | ambient jazz(2) | free jazz(2)\nTop genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | post-grunge(17) | grunge(16)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Tomasz Stanko Quintet — Terminal 7 → Silverchair — Israel's Son\nPlayback timestamp Δ      : 2026-11-18 16:54:20Z → 2026-11-18 20:47:40Z\nState transition          : NO CHANGE\nTelemetry interval        : 07:10:07\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 806\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-18 17:47:40 -03\nEvents (24h)              : 17\nEvents (7d)               : 49\nEvents (30d)              : 308\nPlaylist contexts retained: 150\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-19 00:30:44Z",
+  "last_successful_report_utc": "2026-11-19 00:30:44Z",
   "recent_playback_history": [
+    {
+      "track": "Silverchair — Israel's Son",
+      "artist": "Silverchair",
+      "title": "Israel's Son",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
+      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-18 20:47:40Z",
+      "played_at_local": "2026-11-18 17:47:40 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Soundgarden — The Day I Tried To Live",
+      "artist": "Soundgarden",
+      "title": "The Day I Tried To Live",
+      "album": "Superunknown (20th Anniversary)",
+      "uri": "spotify:track:4YugO7rO57FSmvj4UkyTXx",
+      "url": "https://open.spotify.com/track/4YugO7rO57FSmvj4UkyTXx",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-18 20:42:22Z",
+      "played_at_local": "2026-11-18 17:42:22 -03",
+      "local_hour": 17,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Freedom",
+      "artist": "Rage Against The Machine",
+      "title": "Freedom",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:1zVE9JBBy8j0KmlbM8Xwhi",
+      "url": "https://open.spotify.com/track/1zVE9JBBy8j0KmlbM8Xwhi",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:42:52Z",
+      "played_at_local": "2026-11-18 15:42:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Township Rebellion",
+      "artist": "Rage Against The Machine",
+      "title": "Township Rebellion",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:0WK0EqiidP6WEDOHK34HEe",
+      "url": "https://open.spotify.com/track/0WK0EqiidP6WEDOHK34HEe",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:36:46Z",
+      "played_at_local": "2026-11-18 15:36:46 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Fistful of Steel",
+      "artist": "Rage Against The Machine",
+      "title": "Fistful of Steel",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3YEk8mVdMI7rxtfimlUd1G",
+      "url": "https://open.spotify.com/track/3YEk8mVdMI7rxtfimlUd1G",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:31:22Z",
+      "played_at_local": "2026-11-18 15:31:22 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6zbHSDJjgrNdfIxPyGfPBt",
+      "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:25:52Z",
+      "played_at_local": "2026-11-18 15:25:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Know Your Enemy",
+      "artist": "Rage Against The Machine",
+      "title": "Know Your Enemy",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:1IDAJagxB9AQjjYXaiDK1j",
+      "url": "https://open.spotify.com/track/1IDAJagxB9AQjjYXaiDK1j",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:19:48Z",
+      "played_at_local": "2026-11-18 15:19:48 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Bullet In the Head",
+      "artist": "Rage Against The Machine",
+      "title": "Bullet In the Head",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:11cxKUEgnVAlesUKt4e3br",
+      "url": "https://open.spotify.com/track/11cxKUEgnVAlesUKt4e3br",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:14:52Z",
+      "played_at_local": "2026-11-18 15:14:52 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Settle for Nothing",
+      "artist": "Rage Against The Machine",
+      "title": "Settle for Nothing",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:2vuDdXqekkDCSdawJyUpT6",
+      "url": "https://open.spotify.com/track/2vuDdXqekkDCSdawJyUpT6",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:09:43Z",
+      "played_at_local": "2026-11-18 15:09:43 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Take the Power Back",
+      "artist": "Rage Against The Machine",
+      "title": "Take the Power Back",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3tTL7jlSkowXidYeafFtwG",
+      "url": "https://open.spotify.com/track/3tTL7jlSkowXidYeafFtwG",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 18:04:54Z",
+      "played_at_local": "2026-11-18 15:04:54 -03",
+      "local_hour": 15,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Killing In the Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In the Name",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
+      "url": "https://open.spotify.com/track/3FUS56gKr9mVBmzvlnodlh",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 17:59:17Z",
+      "played_at_local": "2026-11-18 14:59:17 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 17:54:03Z",
+      "played_at_local": "2026-11-18 14:54:03 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Tomasz Stanko Quartet — Trista",
+      "artist": "Tomasz Stanko Quartet",
+      "title": "Trista",
+      "album": "Lontano",
+      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
+      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
+      "artist_ids": [
+        "1sP0KjKWioXmkh9vUKb1fP"
+      ],
+      "played_at_utc": "2026-11-18 17:28:59Z",
+      "played_at_local": "2026-11-18 14:28:59 -03",
+      "local_hour": 14,
+      "weekday": 2,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
     {
       "track": "Tomasz Stanko Quintet — Terminal 7",
       "artist": "Tomasz Stanko Quintet",
@@ -2001,6 +2239,24 @@
       "playlist_name": "Homeland (TV Series) Jazz Collection",
       "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
       "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Limp Bizkit — Down Another Day",
+      "artist": "Limp Bizkit",
+      "title": "Down Another Day",
+      "album": "Results May Vary",
+      "uri": "spotify:track:080ZWiLptfVvc1UUUPldaZ",
+      "url": "https://open.spotify.com/track/080ZWiLptfVvc1UUUPldaZ",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-18 16:44:24Z",
+      "played_at_local": "2026-11-18 13:44:24 -03",
+      "local_hour": 13,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
+      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
     },
     {
       "track": "Limp Bizkit — Almost Over",
@@ -2494,258 +2750,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
       "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Faultline",
-      "artist": "Silverchair",
-      "title": "Faultline",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
-      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:38:04Z",
-      "played_at_local": "2026-11-14 15:38:04 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Tomorrow",
-      "artist": "Silverchair",
-      "title": "Tomorrow",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:24tO365YW6lcZr1hN4Ukzj",
-      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:33:45Z",
-      "played_at_local": "2026-11-14 15:33:45 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Israel's Son",
-      "artist": "Silverchair",
-      "title": "Israel's Son",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
-      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:29:19Z",
-      "played_at_local": "2026-11-14 15:29:19 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Madman",
-      "artist": "Silverchair",
-      "title": "Madman",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:66BwWfwHYkoGSi6iUUj98I",
-      "url": "https://open.spotify.com/track/66BwWfwHYkoGSi6iUUj98I",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-13 16:32:59Z",
-      "played_at_local": "2026-11-13 13:32:59 -03",
-      "local_hour": 13,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Suicidal Dream",
-      "artist": "Silverchair",
-      "title": "Suicidal Dream",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
-      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-13 16:30:15Z",
-      "played_at_local": "2026-11-13 13:30:15 -03",
-      "local_hour": 13,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Leave Me Out",
-      "artist": "Silverchair",
-      "title": "Leave Me Out",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
-      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-13 16:27:02Z",
-      "played_at_local": "2026-11-13 13:27:02 -03",
-      "local_hour": 13,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Shade",
-      "artist": "Silverchair",
-      "title": "Shade",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
-      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-13 16:23:59Z",
-      "played_at_local": "2026-11-13 13:23:59 -03",
-      "local_hour": 13,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Limp Bizkit — Boiler",
-      "artist": "Limp Bizkit",
-      "title": "Boiler",
-      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
-      "uri": "spotify:track:1a3RarhRdrNSTEEERYEFJn",
-      "url": "https://open.spotify.com/track/1a3RarhRdrNSTEEERYEFJn",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-13 11:26:50Z",
-      "played_at_local": "2026-11-13 08:26:50 -03",
-      "local_hour": 8,
-      "weekday": 4,
-      "context_type": "album",
-      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
-      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-    },
-    {
-      "track": "Tad — Grease Box",
-      "artist": "Tad",
-      "title": "Grease Box",
-      "album": "Inhaler",
-      "uri": "spotify:track:1OCDCVzQVxVm2HceeEJTzm",
-      "url": "https://open.spotify.com/track/1OCDCVzQVxVm2HceeEJTzm",
-      "artist_ids": [
-        "2mncWLPUUFpNvBLkHzTsDO"
-      ],
-      "played_at_utc": "2026-11-11 21:23:22Z",
-      "played_at_local": "2026-11-11 18:23:22 -03",
-      "local_hour": 18,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Days Of The New — I Think",
-      "artist": "Days Of The New",
-      "title": "I Think",
-      "album": "Days Of The New II",
-      "uri": "spotify:track:5NPEFhJutKLBAkn7ecREHL",
-      "url": "https://open.spotify.com/track/5NPEFhJutKLBAkn7ecREHL",
-      "artist_ids": [
-        "07jc1IMGtecDZzOL9cP50t"
-      ],
-      "played_at_utc": "2026-11-11 19:33:59Z",
-      "played_at_local": "2026-11-11 16:33:59 -03",
-      "local_hour": 16,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Helmet — Renovation",
-      "artist": "Helmet",
-      "title": "Renovation",
-      "album": "Aftertaste",
-      "uri": "spotify:track:5PU3cvFLDI7sJagPLiB4lq",
-      "url": "https://open.spotify.com/track/5PU3cvFLDI7sJagPLiB4lq",
-      "artist_ids": [
-        "0qB0cTENhSUc0feov5qbg0"
-      ],
-      "played_at_utc": "2026-11-11 19:28:12Z",
-      "played_at_local": "2026-11-11 16:28:12 -03",
-      "local_hour": 16,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Like Suicide",
-      "artist": "Soundgarden",
-      "title": "Like Suicide",
-      "album": "Superunknown (20th Anniversary)",
-      "uri": "spotify:track:0vdnSGPeqDln5UHIcYYfS3",
-      "url": "https://open.spotify.com/track/0vdnSGPeqDln5UHIcYYfS3",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-11 19:25:20Z",
-      "played_at_local": "2026-11-11 16:25:20 -03",
-      "local_hour": 16,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — Boot Camp",
-      "artist": "Soundgarden",
-      "title": "Boot Camp",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:7xO4eCCMOLgrrAOXuja9MZ",
-      "url": "https://open.spotify.com/track/7xO4eCCMOLgrrAOXuja9MZ",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-11 19:18:19Z",
-      "played_at_local": "2026-11-11 16:18:19 -03",
-      "local_hour": 16,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-    },
-    {
-      "track": "Soundgarden — An Unkind",
-      "artist": "Soundgarden",
-      "title": "An Unkind",
-      "album": "Down On The Upside",
-      "uri": "spotify:track:16x4O6YrVAieeW0MbMmytH",
-      "url": "https://open.spotify.com/track/16x4O6YrVAieeW0MbMmytH",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-11 19:15:20Z",
-      "played_at_local": "2026-11-11 16:15:20 -03",
-      "local_hour": 16,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:1IVa98im1RfxYp6qeOIg2B",
-      "context_url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2753,25 +2757,25 @@
   "last_known_volume_percent": 90,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-11-18 17:20:38Z",
-    "week_window_utc": "2026-11-11 17:20:38Z → 2026-11-18 17:20:38Z",
-    "tracks_24h": 3,
-    "tracks_7d": 51,
-    "dominant_artist_24h": "Limp Bizkit",
-    "dominant_artist_7d": "Soundgarden",
-    "listening_pattern_24h": "Light activity",
-    "activity_status_24h": "LOW",
+    "captured_utc": "2026-11-19 00:30:44Z",
+    "week_window_utc": "2026-11-12 00:30:44Z → 2026-11-19 00:30:44Z",
+    "tracks_24h": 17,
+    "tracks_7d": 49,
+    "dominant_artist_24h": "Rage Against The Machine",
+    "dominant_artist_7d": "Silverchair",
+    "listening_pattern_24h": "Regular cadence",
+    "activity_status_24h": "MEDIUM",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "12:00",
+    "peak_hour_24h": "15:00",
     "peak_hour_7d": "15:00",
-    "heatmap_24h": "            █▄          ",
-    "heatmap_7d": "            ▁▂ █▄▂▁▁ ▄  ",
-    "sessions_24h": 2,
-    "sessions_7d": 12,
-    "avg_inter_play_gap_7d": "03:19:53",
-    "top_genres_24h": "alternative metal(2) | nu metal(2) | rap metal(2) | rap rock(2) | ambient jazz(1) | free jazz(1)",
-    "top_genres_7d": "grunge(30) | post-grunge(30) | alternative metal(14) | hard rock(13) | nu metal(12) | rap metal(12)"
+    "heatmap_24h": "            ▂▂▃█ ▂      ",
+    "heatmap_7d": "            ▁▃▁█ ▃ ▁ ▄  ",
+    "sessions_24h": 5,
+    "sessions_7d": 13,
+    "avg_inter_play_gap_7d": "02:41:41",
+    "top_genres_24h": "alternative metal(13) | nu metal(13) | rap metal(13) | rap rock(13) | ambient jazz(2) | free jazz(2)",
+    "top_genres_7d": "alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | post-grunge(17) | grunge(16)"
   },
   "last_known_device_captured_utc": "2026-11-14 20:47:09Z"
 }
