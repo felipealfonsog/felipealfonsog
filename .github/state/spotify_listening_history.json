@@ -1,8 +1,380 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-19 00:30:44Z",
+  "updated_utc": "2026-11-19 10:29:14Z",
   "events": [
+    {
+      "track": "AtomFlow — Blooming",
+      "artist": "AtomFlow",
+      "title": "Blooming",
+      "album": "Nature",
+      "uri": "spotify:track:2bvQLKsrXM0sr7jpvksbex",
+      "url": "https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex",
+      "artist_ids": [
+        "6849Nn34nIVJiIh28iff0C"
+      ],
+      "played_at_utc": "2026-11-19 06:25:31Z",
+      "played_at_local": "2026-11-19 03:25:31 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Retrosoft — Analogue Dreams",
+      "artist": "Retrosoft",
+      "title": "Analogue Dreams",
+      "album": "Analogue Dreams",
+      "uri": "spotify:track:0SaeSoVIx5xtfR4AbRD36K",
+      "url": "https://open.spotify.com/track/0SaeSoVIx5xtfR4AbRD36K",
+      "artist_ids": [
+        "1eLL2TZpQ3F8kzohiaGLhc"
+      ],
+      "played_at_utc": "2026-11-19 06:23:28Z",
+      "played_at_local": "2026-11-19 03:23:28 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Aurora Beach — Cliffside",
+      "artist": "Aurora Beach",
+      "title": "Cliffside",
+      "album": "Cliffside",
+      "uri": "spotify:track:039xzKjVgqdnmoUOCXuEI2",
+      "url": "https://open.spotify.com/track/039xzKjVgqdnmoUOCXuEI2",
+      "artist_ids": [
+        "3XT1lBo7jVfLcmdGQMAmHt"
+      ],
+      "played_at_utc": "2026-11-19 06:20:31Z",
+      "played_at_local": "2026-11-19 03:20:31 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Silverchair — Faultline",
+      "artist": "Silverchair",
+      "title": "Faultline",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
+      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-19 06:15:50Z",
+      "played_at_local": "2026-11-19 03:15:50 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Dinosaur Jr. — Start Choppin'",
+      "artist": "Dinosaur Jr.",
+      "title": "Start Choppin'",
+      "album": "Where You Been",
+      "uri": "spotify:track:7cIIr1uLfnkV7tBSTUBKKd",
+      "url": "https://open.spotify.com/track/7cIIr1uLfnkV7tBSTUBKKd",
+      "artist_ids": [
+        "267VY6GX5LyU5c9M85ECZQ"
+      ],
+      "played_at_utc": "2026-11-18 23:41:18Z",
+      "played_at_local": "2026-11-18 20:41:18 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "All Them Witches — Alabaster",
+      "artist": "All Them Witches",
+      "title": "Alabaster",
+      "album": "Sleeping Through The War",
+      "uri": "spotify:track:4K31Y5S5KSzV5DmNXdsEf9",
+      "url": "https://open.spotify.com/track/4K31Y5S5KSzV5DmNXdsEf9",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-11-18 23:35:41Z",
+      "played_at_local": "2026-11-18 20:35:41 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Like Swimming",
+      "artist": "Morphine",
+      "title": "Like Swimming",
+      "album": "Like Swimming",
+      "uri": "spotify:track:6XJdplt0PeXx0AB6O7YUcc",
+      "url": "https://open.spotify.com/track/6XJdplt0PeXx0AB6O7YUcc",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:28:48Z",
+      "played_at_local": "2026-11-18 20:28:48 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Miles Davis' Funeral",
+      "artist": "Morphine",
+      "title": "Miles Davis' Funeral",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:6aAgPsCxve2lO7isn3WX7S",
+      "url": "https://open.spotify.com/track/6aAgPsCxve2lO7isn3WX7S",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:24:51Z",
+      "played_at_local": "2026-11-18 20:24:51 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Sheila",
+      "artist": "Morphine",
+      "title": "Sheila",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:07ZCtnZ0YgVGltalbis7Th",
+      "url": "https://open.spotify.com/track/07ZCtnZ0YgVGltalbis7Th",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:23:10Z",
+      "played_at_local": "2026-11-18 20:23:10 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Let's Take a Trip Together",
+      "artist": "Morphine",
+      "title": "Let's Take a Trip Together",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:4TxHfNgeum23DHbz1dOZle",
+      "url": "https://open.spotify.com/track/4TxHfNgeum23DHbz1dOZle",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:20:21Z",
+      "played_at_local": "2026-11-18 20:20:21 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Mary Won't You Call My Name?",
+      "artist": "Morphine",
+      "title": "Mary Won't You Call My Name?",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:48kPLGivqiuY9OgI35CzKY",
+      "url": "https://open.spotify.com/track/48kPLGivqiuY9OgI35CzKY",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:17:21Z",
+      "played_at_local": "2026-11-18 20:17:21 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Cure for Pain",
+      "artist": "Morphine",
+      "title": "Cure for Pain",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:3hO9gaVixKDoYDrlTBrEWf",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:14:52Z",
+      "played_at_local": "2026-11-18 20:14:52 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Thursday",
+      "artist": "Morphine",
+      "title": "Thursday",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:5x5mOPCNYpaBvTdPpYtDLP",
+      "url": "https://open.spotify.com/track/5x5mOPCNYpaBvTdPpYtDLP",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:11:38Z",
+      "played_at_local": "2026-11-18 20:11:38 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — In Spite of Me",
+      "artist": "Morphine",
+      "title": "In Spite of Me",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:5wNn33j2VfP8WMZhojE3JC",
+      "url": "https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:08:12Z",
+      "played_at_local": "2026-11-18 20:08:12 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — A Head with Wings",
+      "artist": "Morphine",
+      "title": "A Head with Wings",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:0eMV5hwDwDuGULmjFcTZUD",
+      "url": "https://open.spotify.com/track/0eMV5hwDwDuGULmjFcTZUD",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:05:37Z",
+      "played_at_local": "2026-11-18 20:05:37 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Candy",
+      "artist": "Morphine",
+      "title": "Candy",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:4JbCuoQfzYVp0p93yd8SJQ",
+      "url": "https://open.spotify.com/track/4JbCuoQfzYVp0p93yd8SJQ",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:01:57Z",
+      "played_at_local": "2026-11-18 20:01:57 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — All Wrong",
+      "artist": "Morphine",
+      "title": "All Wrong",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:49Yd1W7vmTyGXosX6vSVWM",
+      "url": "https://open.spotify.com/track/49Yd1W7vmTyGXosX6vSVWM",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:58:42Z",
+      "played_at_local": "2026-11-18 19:58:42 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — I'm Free Now",
+      "artist": "Morphine",
+      "title": "I'm Free Now",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2LROxbCF0enMTjSEA8EeZl",
+      "url": "https://open.spotify.com/track/2LROxbCF0enMTjSEA8EeZl",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:55:02Z",
+      "played_at_local": "2026-11-18 19:55:02 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Buena",
+      "artist": "Morphine",
+      "title": "Buena",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2SSBJhvMsujY94GK5JAtKs",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:51:37Z",
+      "played_at_local": "2026-11-18 19:51:37 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 22:43:52Z",
+      "played_at_local": "2026-11-18 19:43:52 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
     {
       "track": "Silverchair — Israel's Son",
       "artist": "Silverchair",
@@ -15389,6 +15761,12 @@
       "name": "How To Get Into The Fierce And The Dead ",
       "uri": "spotify:playlist:3I3LpNuIoZF0uao5Ge6GlI",
       "url": "https://open.spotify.com/playlist/3I3LpNuIoZF0uao5Ge6GlI"
+    },
+    "6X7wz4cCUBR6p68mzM7mZ4": {
+      "id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "name": "Calming Sleep Music ",
+      "uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
     }
   }
 }

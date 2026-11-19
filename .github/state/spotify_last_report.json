@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-11-19 00:30:44Z",
+  "report_generated_utc": "2026-11-19 10:29:14Z",
   "status": "IDLE",
-  "last_track": "Silverchair — Israel's Son",
-  "last_played_utc": "2026-11-18 20:47:40Z",
+  "last_track": "AtomFlow — Blooming",
+  "last_played_utc": "2026-11-19 06:25:31Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1975,11 +1975,392 @@
       "post-grunge"
     ],
     "3QgSmABpItIdj908ek80n5": [],
-    "0AuW7OCyKfFrsMbtHrYgIV": []
+    "0AuW7OCyKfFrsMbtHrYgIV": [],
+    "6849Nn34nIVJiIh28iff0C": [],
+    "1eLL2TZpQ3F8kzohiaGLhc": [],
+    "3XT1lBo7jVfLcmdGQMAmHt": [],
+    "267VY6GX5LyU5c9M85ECZQ": [
+      "noise rock",
+      "grunge",
+      "alternative rock",
+      "power pop"
+    ]
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Silverchair — Israel's Son\nArtist                    : Silverchair\nTitle                     : Israel's Son\nAlbum                     : Frogstomp (Deluxe Edition) [Remastered]\nSpotify URI               : spotify:track:4gAV3sMEZn4lrfKPGARCqA\nSpotify URL               : https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-18 20:47:40Z\nPlayed at (local)         : 2026-11-18 17:47:40 -03\nLocal hour                : 17:00\nDaypart                   : AFTERNOON\nTime since play           : 03:43:05\nGap from previous play    : 00:05:18\n------------------------------------------------------------\nPrevious song             : Soundgarden — The Day I Tried To Live\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 7\nArtist plays (retained)   : 63\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03\nPrevious track #2         : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03\nPrevious track #3         : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03\nPrevious track #4         : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03\nPrevious track #5         : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03\nPrevious track #6         : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03\nPrevious track #7         : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03\nPrevious track #8         : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03\nPrevious track #9         : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03\nPrevious track #10        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03\nPrevious track #11        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03\nPrevious track #12        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03\nPrevious track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03\nPrevious track #14        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03\nPrevious track #15        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03\nPrevious track #16        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03\nPrevious track #17        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03\nPrevious track #18        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03\nPrevious track #19        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03\nPrevious track #20        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03\nPrevious track #21        : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03\nPrevious track #22        : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03\nPrevious track #23        : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03\nPrevious track #24        : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03\nPrevious track #25        : Silverchair — Slave | 2026-11-14 21:22:35 -03\nPrevious track #26        : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03\nPrevious track #27        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03\nPrevious track #28        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03\nPrevious track #29        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03\nPrevious track #30        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03\nPrevious track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03\nPrevious track #32        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03\nPrevious track #33        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03\nPrevious track #34        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03\nPrevious track #35        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03\nPrevious track #36        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03\nPrevious track #37        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03\nPrevious track #38        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03\nPrevious track #39        : Silverchair — Shade | 2026-11-14 15:47:05 -03\nPrevious track #40        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Homeland (TV Series) Jazz Collection\nContext observed (local)  : 2026-11-18 14:28:59 -03\nTrack observed in context : Tomasz Stanko Quartet — Trista\nSpotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi\nSpotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi\n------------------------------------------------------------\nPrevious playlist #1      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #3      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #5      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #8      : N/A | 2026-09-11 22:51:56 -03\nPrevious playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 49\nUnique tracks             : 37\nUnique artists            : 10\nReplay ratio              : ████░░░░░░░░░░░░░░  24.5%\nArtist diversity          : ████░░░░░░░░░░░░░░  20.4%\nDominant artist           : Silverchair\nDominant artist share     : █████░░░░░░░░░░░░░  26.5%\nArtist switch ratio       : ████████░░░░░░░░░░  41.7%\nLongest artist streak     : Silverchair × 11\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%\nAfternoon  12–18           : █████████████░░░░░   71.4%\nEvening    18–24           : █████░░░░░░░░░░░░░   26.5%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-13 11:26:50Z\nHistory last play (7d)    : 2026-11-18 20:47:40Z\nObserved time span        : 129:20:50\nMean inter-play gap       : 02:41:41\nMedian inter-play gap     : 00:05:12\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.38 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 15:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             ▂▂▃█ ▂      \nHeatmap (7d)              :             ▁▃▁█ ▃ ▁ ▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   ▅ ▂█ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :  ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▂\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▂▂▃█ ▂      \nThu                       :                         \nFri                       :         ▂    █          \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 17\nDominant artist           : Rage Against The Machine\nListening pattern         : Regular cadence\nDaily activity status     : MEDIUM\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-12 00:30:44Z → 2026-11-19 00:30:44Z\nTracks played (7d)        : 49\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 5\nSessions (7d)             : 13\nAvg inter-play gap        : 02:41:41\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(13) | nu metal(13) | rap metal(13) | rap rock(13) | ambient jazz(2) | free jazz(2)\nTop genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | post-grunge(17) | grunge(16)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Tomasz Stanko Quintet — Terminal 7 → Silverchair — Israel's Son\nPlayback timestamp Δ      : 2026-11-18 16:54:20Z → 2026-11-18 20:47:40Z\nState transition          : NO CHANGE\nTelemetry interval        : 07:10:07\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 806\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-18 17:47:40 -03\nEvents (24h)              : 17\nEvents (7d)               : 49\nEvents (30d)              : 308\nPlaylist contexts retained: 150\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-19 00:30:44Z",
-  "last_successful_report_utc": "2026-11-19 00:30:44Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : AtomFlow — Blooming\nArtist                    : AtomFlow\nTitle                     : Blooming\nAlbum                     : Nature\nSpotify URI               : spotify:track:2bvQLKsrXM0sr7jpvksbex\nSpotify URL               : https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-19 06:25:31Z\nPlayed at (local)         : 2026-11-19 03:25:31 -03\nLocal hour                : 03:00\nDaypart                   : NIGHT\nTime since play           : 04:03:43\nGap from previous play    : 00:02:03\n------------------------------------------------------------\nPrevious song             : Retrosoft — Analogue Dreams\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03\nPrevious track #2         : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03\nPrevious track #3         : Silverchair — Faultline | 2026-11-19 03:15:50 -03\nPrevious track #4         : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03\nPrevious track #5         : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03\nPrevious track #6         : Morphine — Like Swimming | 2026-11-18 20:28:48 -03\nPrevious track #7         : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03\nPrevious track #8         : Morphine — Sheila | 2026-11-18 20:23:10 -03\nPrevious track #9         : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03\nPrevious track #10        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03\nPrevious track #11        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03\nPrevious track #12        : Morphine — Thursday | 2026-11-18 20:11:38 -03\nPrevious track #13        : Morphine — In Spite of Me | 2026-11-18 20:08:12 -03\nPrevious track #14        : Morphine — A Head with Wings | 2026-11-18 20:05:37 -03\nPrevious track #15        : Morphine — Candy | 2026-11-18 20:01:57 -03\nPrevious track #16        : Morphine — All Wrong | 2026-11-18 19:58:42 -03\nPrevious track #17        : Morphine — I'm Free Now | 2026-11-18 19:55:02 -03\nPrevious track #18        : Morphine — Buena | 2026-11-18 19:51:37 -03\nPrevious track #19        : Rage Against The Machine — Bombtrack | 2026-11-18 19:43:52 -03\nPrevious track #20        : Silverchair — Israel's Son | 2026-11-18 17:47:40 -03\nPrevious track #21        : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03\nPrevious track #22        : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03\nPrevious track #23        : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03\nPrevious track #24        : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03\nPrevious track #25        : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03\nPrevious track #26        : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03\nPrevious track #27        : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03\nPrevious track #28        : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03\nPrevious track #29        : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03\nPrevious track #30        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03\nPrevious track #31        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03\nPrevious track #32        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03\nPrevious track #33        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03\nPrevious track #34        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03\nPrevious track #35        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03\nPrevious track #36        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03\nPrevious track #37        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03\nPrevious track #38        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03\nPrevious track #39        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03\nPrevious track #40        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Calming Sleep Music \nContext observed (local)  : 2026-11-19 03:25:31 -03\nTrack observed in context : AtomFlow — Blooming\nSpotify playlist URI      : spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4\nSpotify playlist URL      : https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03\nPrevious playlist #2      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #4      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #6      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #8      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #9      : N/A | 2026-09-11 22:51:56 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 69\nUnique tracks             : 55\nUnique artists            : 16\nReplay ratio              : ████░░░░░░░░░░░░░░  20.3%\nArtist diversity          : ████░░░░░░░░░░░░░░  23.2%\nDominant artist           : Silverchair\nDominant artist share     : ████░░░░░░░░░░░░░░  20.3%\nArtist switch ratio       : ███████░░░░░░░░░░░  41.2%\nLongest artist streak     : Morphine × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    5.8%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    1.4%\nAfternoon  12–18           : █████████░░░░░░░░░   50.7%\nEvening    18–24           : ████████░░░░░░░░░░   42.0%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-13 11:26:50Z\nHistory last play (7d)    : 2026-11-19 06:25:31Z\nObserved time span        : 138:58:41\nMean inter-play gap       : 02:02:38\nMedian inter-play gap     : 00:04:51\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.50 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 20:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :    ▃        ▁▁▂▅ ▁ ▃█   \nHeatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █▁▁▆ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▁▁▂▅ ▁ ▃█   \nThu                       :    █                    \nFri                       :         ▂    █          \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 37\nDominant artist           : Morphine\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-12 10:29:14Z → 2026-11-19 10:29:14Z\nTracks played (7d)        : 69\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 7\nSessions (7d)             : 15\nAvg inter-play gap        : 02:02:38\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rap rock(14) | grunge(4) | post-grunge(3)\nTop genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)\nArtist lookups (this run) : 4 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Silverchair — Israel's Son → AtomFlow — Blooming\nPlayback timestamp Δ      : 2026-11-18 20:47:40Z → 2026-11-19 06:25:31Z\nState transition          : NO CHANGE\nTelemetry interval        : 09:58:30\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 826\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-19 03:25:31 -03\nEvents (24h)              : 37\nEvents (7d)               : 69\nEvents (30d)              : 328\nPlaylist contexts retained: 153\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-19 10:29:14Z",
+  "last_successful_report_utc": "2026-11-19 10:29:14Z",
   "recent_playback_history": [
+    {
+      "track": "AtomFlow — Blooming",
+      "artist": "AtomFlow",
+      "title": "Blooming",
+      "album": "Nature",
+      "uri": "spotify:track:2bvQLKsrXM0sr7jpvksbex",
+      "url": "https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex",
+      "artist_ids": [
+        "6849Nn34nIVJiIh28iff0C"
+      ],
+      "played_at_utc": "2026-11-19 06:25:31Z",
+      "played_at_local": "2026-11-19 03:25:31 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Retrosoft — Analogue Dreams",
+      "artist": "Retrosoft",
+      "title": "Analogue Dreams",
+      "album": "Analogue Dreams",
+      "uri": "spotify:track:0SaeSoVIx5xtfR4AbRD36K",
+      "url": "https://open.spotify.com/track/0SaeSoVIx5xtfR4AbRD36K",
+      "artist_ids": [
+        "1eLL2TZpQ3F8kzohiaGLhc"
+      ],
+      "played_at_utc": "2026-11-19 06:23:28Z",
+      "played_at_local": "2026-11-19 03:23:28 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Aurora Beach — Cliffside",
+      "artist": "Aurora Beach",
+      "title": "Cliffside",
+      "album": "Cliffside",
+      "uri": "spotify:track:039xzKjVgqdnmoUOCXuEI2",
+      "url": "https://open.spotify.com/track/039xzKjVgqdnmoUOCXuEI2",
+      "artist_ids": [
+        "3XT1lBo7jVfLcmdGQMAmHt"
+      ],
+      "played_at_utc": "2026-11-19 06:20:31Z",
+      "played_at_local": "2026-11-19 03:20:31 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Silverchair — Faultline",
+      "artist": "Silverchair",
+      "title": "Faultline",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:18ihvfYz6uiieilnfl4XCs",
+      "url": "https://open.spotify.com/track/18ihvfYz6uiieilnfl4XCs",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-19 06:15:50Z",
+      "played_at_local": "2026-11-19 03:15:50 -03",
+      "local_hour": 3,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
+      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+    },
+    {
+      "track": "Dinosaur Jr. — Start Choppin'",
+      "artist": "Dinosaur Jr.",
+      "title": "Start Choppin'",
+      "album": "Where You Been",
+      "uri": "spotify:track:7cIIr1uLfnkV7tBSTUBKKd",
+      "url": "https://open.spotify.com/track/7cIIr1uLfnkV7tBSTUBKKd",
+      "artist_ids": [
+        "267VY6GX5LyU5c9M85ECZQ"
+      ],
+      "played_at_utc": "2026-11-18 23:41:18Z",
+      "played_at_local": "2026-11-18 20:41:18 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "All Them Witches — Alabaster",
+      "artist": "All Them Witches",
+      "title": "Alabaster",
+      "album": "Sleeping Through The War",
+      "uri": "spotify:track:4K31Y5S5KSzV5DmNXdsEf9",
+      "url": "https://open.spotify.com/track/4K31Y5S5KSzV5DmNXdsEf9",
+      "artist_ids": [
+        "29Wmfm1CojrjQ3aQP0FI65"
+      ],
+      "played_at_utc": "2026-11-18 23:35:41Z",
+      "played_at_local": "2026-11-18 20:35:41 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Like Swimming",
+      "artist": "Morphine",
+      "title": "Like Swimming",
+      "album": "Like Swimming",
+      "uri": "spotify:track:6XJdplt0PeXx0AB6O7YUcc",
+      "url": "https://open.spotify.com/track/6XJdplt0PeXx0AB6O7YUcc",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:28:48Z",
+      "played_at_local": "2026-11-18 20:28:48 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Miles Davis' Funeral",
+      "artist": "Morphine",
+      "title": "Miles Davis' Funeral",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:6aAgPsCxve2lO7isn3WX7S",
+      "url": "https://open.spotify.com/track/6aAgPsCxve2lO7isn3WX7S",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:24:51Z",
+      "played_at_local": "2026-11-18 20:24:51 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Sheila",
+      "artist": "Morphine",
+      "title": "Sheila",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:07ZCtnZ0YgVGltalbis7Th",
+      "url": "https://open.spotify.com/track/07ZCtnZ0YgVGltalbis7Th",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:23:10Z",
+      "played_at_local": "2026-11-18 20:23:10 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Let's Take a Trip Together",
+      "artist": "Morphine",
+      "title": "Let's Take a Trip Together",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:4TxHfNgeum23DHbz1dOZle",
+      "url": "https://open.spotify.com/track/4TxHfNgeum23DHbz1dOZle",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:20:21Z",
+      "played_at_local": "2026-11-18 20:20:21 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Mary Won't You Call My Name?",
+      "artist": "Morphine",
+      "title": "Mary Won't You Call My Name?",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:48kPLGivqiuY9OgI35CzKY",
+      "url": "https://open.spotify.com/track/48kPLGivqiuY9OgI35CzKY",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:17:21Z",
+      "played_at_local": "2026-11-18 20:17:21 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Cure for Pain",
+      "artist": "Morphine",
+      "title": "Cure for Pain",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:3hO9gaVixKDoYDrlTBrEWf",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:14:52Z",
+      "played_at_local": "2026-11-18 20:14:52 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Thursday",
+      "artist": "Morphine",
+      "title": "Thursday",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:5x5mOPCNYpaBvTdPpYtDLP",
+      "url": "https://open.spotify.com/track/5x5mOPCNYpaBvTdPpYtDLP",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:11:38Z",
+      "played_at_local": "2026-11-18 20:11:38 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — In Spite of Me",
+      "artist": "Morphine",
+      "title": "In Spite of Me",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:5wNn33j2VfP8WMZhojE3JC",
+      "url": "https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:08:12Z",
+      "played_at_local": "2026-11-18 20:08:12 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — A Head with Wings",
+      "artist": "Morphine",
+      "title": "A Head with Wings",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:0eMV5hwDwDuGULmjFcTZUD",
+      "url": "https://open.spotify.com/track/0eMV5hwDwDuGULmjFcTZUD",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:05:37Z",
+      "played_at_local": "2026-11-18 20:05:37 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Candy",
+      "artist": "Morphine",
+      "title": "Candy",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:4JbCuoQfzYVp0p93yd8SJQ",
+      "url": "https://open.spotify.com/track/4JbCuoQfzYVp0p93yd8SJQ",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 23:01:57Z",
+      "played_at_local": "2026-11-18 20:01:57 -03",
+      "local_hour": 20,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — All Wrong",
+      "artist": "Morphine",
+      "title": "All Wrong",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:49Yd1W7vmTyGXosX6vSVWM",
+      "url": "https://open.spotify.com/track/49Yd1W7vmTyGXosX6vSVWM",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:58:42Z",
+      "played_at_local": "2026-11-18 19:58:42 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — I'm Free Now",
+      "artist": "Morphine",
+      "title": "I'm Free Now",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2LROxbCF0enMTjSEA8EeZl",
+      "url": "https://open.spotify.com/track/2LROxbCF0enMTjSEA8EeZl",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:55:02Z",
+      "played_at_local": "2026-11-18 19:55:02 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Morphine — Buena",
+      "artist": "Morphine",
+      "title": "Buena",
+      "album": "Cure for Pain",
+      "uri": "spotify:track:2SSBJhvMsujY94GK5JAtKs",
+      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs",
+      "artist_ids": [
+        "3QgSmABpItIdj908ek80n5"
+      ],
+      "played_at_utc": "2026-11-18 22:51:37Z",
+      "played_at_local": "2026-11-18 19:51:37 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
+      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+    },
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-18 22:43:52Z",
+      "played_at_local": "2026-11-18 19:43:52 -03",
+      "local_hour": 19,
+      "weekday": 2,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
     {
       "track": "Silverchair — Israel's Son",
       "artist": "Silverchair",
@@ -2365,391 +2746,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
       "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Take It Home",
-      "artist": "Limp Bizkit",
-      "title": "Take It Home",
-      "album": "Results May Vary",
-      "uri": "spotify:track:2Q7bTLjfY2HmvAvCznkr31",
-      "url": "https://open.spotify.com/track/2Q7bTLjfY2HmvAvCznkr31",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:41:18Z",
-      "played_at_local": "2026-11-14 21:41:18 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Red Light - Green Light",
-      "artist": "Limp Bizkit",
-      "title": "Red Light - Green Light",
-      "album": "Results May Vary",
-      "uri": "spotify:track:4XSgarKBkdfFE3mygV0yY7",
-      "url": "https://open.spotify.com/track/4XSgarKBkdfFE3mygV0yY7",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:39:36Z",
-      "played_at_local": "2026-11-14 21:39:36 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Build A Bridge",
-      "artist": "Limp Bizkit",
-      "title": "Build A Bridge",
-      "album": "Results May Vary",
-      "uri": "spotify:track:4qWOEeCDVLZPXGzgxE8F7D",
-      "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:35:41Z",
-      "played_at_local": "2026-11-14 21:35:41 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Gimme The Mic",
-      "artist": "Limp Bizkit",
-      "title": "Gimme The Mic",
-      "album": "Results May Vary",
-      "uri": "spotify:track:2KuGuEVhHoQ0F1PVupQovc",
-      "url": "https://open.spotify.com/track/2KuGuEVhHoQ0F1PVupQovc",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:26:42Z",
-      "played_at_local": "2026-11-14 21:26:42 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Silverchair — Slave",
-      "artist": "Silverchair",
-      "title": "Slave",
-      "album": "Freak Show",
-      "uri": "spotify:track:7yUGMbFsUH5MuPNuq75MyP",
-      "url": "https://open.spotify.com/track/7yUGMbFsUH5MuPNuq75MyP",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-15 00:22:35Z",
-      "played_at_local": "2026-11-14 21:22:35 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
-      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-    },
-    {
-      "track": "Stone Temple Pilots — Plush",
-      "artist": "Stone Temple Pilots",
-      "title": "Plush",
-      "album": "Core",
-      "uri": "spotify:track:3jJZVeExYzVYiV6Y9Fl3DX",
-      "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX",
-      "artist_ids": [
-        "2UazAtjfzqBF0Nho2awK4z"
-      ],
-      "played_at_utc": "2026-11-15 00:18:44Z",
-      "played_at_local": "2026-11-14 21:18:44 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
-      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-    },
-    {
-      "track": "Rage Against The Machine — Bombtrack",
-      "artist": "Rage Against The Machine",
-      "title": "Bombtrack",
-      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
-      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-14 23:11:55Z",
-      "played_at_local": "2026-11-14 20:11:55 -03",
-      "local_hour": 20,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
-      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-    },
-    {
-      "track": "Helmet, House Of Pain — Just Another Victim",
-      "artist": "Helmet, House Of Pain",
-      "title": "Just Another Victim",
-      "album": "Unsung: The Best Of Helmet 1991-1997",
-      "uri": "spotify:track:4RLIujooyQaBKKLXPB5LnQ",
-      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ",
-      "artist_ids": [
-        "0qB0cTENhSUc0feov5qbg0",
-        "0AuW7OCyKfFrsMbtHrYgIV"
-      ],
-      "played_at_utc": "2026-11-14 22:38:52Z",
-      "played_at_local": "2026-11-14 19:38:52 -03",
-      "local_hour": 19,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:5mi7FKaWE5CtcOjdyxScA7",
-      "context_url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-    },
-    {
-      "track": "John Coltrane — Blue World",
-      "artist": "John Coltrane",
-      "title": "Blue World",
-      "album": "Blue World",
-      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
-      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-11-14 22:35:44Z",
-      "played_at_local": "2026-11-14 19:35:44 -03",
-      "local_hour": 19,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "artist": "Tomasz Stanko Quartet",
-      "title": "Trista",
-      "album": "Lontano",
-      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
-      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
-      "artist_ids": [
-        "1sP0KjKWioXmkh9vUKb1fP"
-      ],
-      "played_at_utc": "2026-11-14 21:03:23Z",
-      "played_at_local": "2026-11-14 18:03:23 -03",
-      "local_hour": 18,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "artist": "Tomasz Stanko Quintet",
-      "title": "Terminal 7",
-      "album": "Dark Eyes",
-      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
-      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
-      "artist_ids": [
-        "58Ieh2itn2s2DnnTA3mwTE"
-      ],
-      "played_at_utc": "2026-11-14 20:58:47Z",
-      "played_at_local": "2026-11-14 17:58:47 -03",
-      "local_hour": 17,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "John Coltrane — Blue World",
-      "artist": "John Coltrane",
-      "title": "Blue World",
-      "album": "Blue World",
-      "uri": "spotify:track:0RHEzMQT9Vw9GvSdVA5TLC",
-      "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC",
-      "artist_ids": [
-        "2hGh5VOeeqimQFxqXvfCUf"
-      ],
-      "played_at_utc": "2026-11-14 20:49:33Z",
-      "played_at_local": "2026-11-14 17:49:33 -03",
-      "local_hour": 17,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "artist": "Tomasz Stanko Quartet",
-      "title": "Trista",
-      "album": "Lontano",
-      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
-      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
-      "artist_ids": [
-        "1sP0KjKWioXmkh9vUKb1fP"
-      ],
-      "played_at_utc": "2026-11-14 20:43:29Z",
-      "played_at_local": "2026-11-14 17:43:29 -03",
-      "local_hour": 17,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "artist": "Tomasz Stanko Quintet",
-      "title": "Terminal 7",
-      "album": "Dark Eyes",
-      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
-      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
-      "artist_ids": [
-        "58Ieh2itn2s2DnnTA3mwTE"
-      ],
-      "played_at_utc": "2026-11-14 20:38:53Z",
-      "played_at_local": "2026-11-14 17:38:53 -03",
-      "local_hour": 17,
-      "weekday": 5,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Matchbox Twenty — Girl Like That",
-      "artist": "Matchbox Twenty",
-      "title": "Girl Like That",
-      "album": "Yourself or Someone Like You",
-      "uri": "spotify:track:1jif4tafd4C9QyLS9ENchU",
-      "url": "https://open.spotify.com/track/1jif4tafd4C9QyLS9ENchU",
-      "artist_ids": [
-        "3Ngh2zDBRPEriyxQDAMKd1"
-      ],
-      "played_at_utc": "2026-11-14 19:01:07Z",
-      "played_at_local": "2026-11-14 16:01:07 -03",
-      "local_hour": 16,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4vUXTcKz7tXxrNl84meN6i",
-      "context_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-    },
-    {
-      "track": "Matchbox Twenty — Push",
-      "artist": "Matchbox Twenty",
-      "title": "Push",
-      "album": "Yourself or Someone Like You",
-      "uri": "spotify:track:2KVwlelhxKUy8LVV6JypH3",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3",
-      "artist_ids": [
-        "3Ngh2zDBRPEriyxQDAMKd1"
-      ],
-      "played_at_utc": "2026-11-14 18:58:14Z",
-      "played_at_local": "2026-11-14 15:58:14 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4vUXTcKz7tXxrNl84meN6i",
-      "context_url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-    },
-    {
-      "track": "Silverchair — Suicidal Dream",
-      "artist": "Silverchair",
-      "title": "Suicidal Dream",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:3AZ5XoHdiFpiKMky6M1Gt9",
-      "url": "https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:53:21Z",
-      "played_at_local": "2026-11-14 15:53:21 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Leave Me Out",
-      "artist": "Silverchair",
-      "title": "Leave Me Out",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
-      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:50:08Z",
-      "played_at_local": "2026-11-14 15:50:08 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Shade",
-      "artist": "Silverchair",
-      "title": "Shade",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
-      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:47:05Z",
-      "played_at_local": "2026-11-14 15:47:05 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Silverchair — Pure Massacre",
-      "artist": "Silverchair",
-      "title": "Pure Massacre",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:7qCIP5KHYy9HuXbEEWzmC7",
-      "url": "https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-14 18:43:03Z",
-      "played_at_local": "2026-11-14 15:43:03 -03",
-      "local_hour": 15,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2757,25 +2753,25 @@
   "last_known_volume_percent": 90,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-11-19 00:30:44Z",
-    "week_window_utc": "2026-11-12 00:30:44Z → 2026-11-19 00:30:44Z",
-    "tracks_24h": 17,
-    "tracks_7d": 49,
-    "dominant_artist_24h": "Rage Against The Machine",
+    "captured_utc": "2026-11-19 10:29:14Z",
+    "week_window_utc": "2026-11-12 10:29:14Z → 2026-11-19 10:29:14Z",
+    "tracks_24h": 37,
+    "tracks_7d": 69,
+    "dominant_artist_24h": "Morphine",
     "dominant_artist_7d": "Silverchair",
-    "listening_pattern_24h": "Regular cadence",
-    "activity_status_24h": "MEDIUM",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
     "cadence_7d": "HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "15:00",
+    "peak_hour_24h": "20:00",
     "peak_hour_7d": "15:00",
-    "heatmap_24h": "            ▂▂▃█ ▂      ",
-    "heatmap_7d": "            ▁▃▁█ ▃ ▁ ▄  ",
-    "sessions_24h": 5,
-    "sessions_7d": 13,
-    "avg_inter_play_gap_7d": "02:41:41",
-    "top_genres_24h": "alternative metal(13) | nu metal(13) | rap metal(13) | rap rock(13) | ambient jazz(2) | free jazz(2)",
-    "top_genres_7d": "alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | post-grunge(17) | grunge(16)"
+    "heatmap_24h": "   ▃        ▁▁▂▅ ▁ ▃█   ",
+    "heatmap_7d": "   ▂        ▁▃▁█ ▃ ▃▆▄  ",
+    "sessions_24h": 7,
+    "sessions_7d": 15,
+    "avg_inter_play_gap_7d": "02:02:38",
+    "top_genres_24h": "alternative metal(14) | nu metal(14) | rap metal(14) | rap rock(14) | grunge(4) | post-grunge(3)",
+    "top_genres_7d": "alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)"
   },
   "last_known_device_captured_utc": "2026-11-14 20:47:09Z"
 }

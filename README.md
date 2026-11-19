@@ -1498,87 +1498,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Silverchair — Israel's Son
-Artist                    : Silverchair
-Title                     : Israel's Son
-Album                     : Frogstomp (Deluxe Edition) [Remastered]
-Spotify URI               : spotify:track:4gAV3sMEZn4lrfKPGARCqA
-Spotify URL               : https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA
+Track                     : AtomFlow — Blooming
+Artist                    : AtomFlow
+Title                     : Blooming
+Album                     : Nature
+Spotify URI               : spotify:track:2bvQLKsrXM0sr7jpvksbex
+Spotify URL               : https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-18 20:47:40Z
-Played at (local)         : 2026-11-18 17:47:40 -03
-Local hour                : 17:00
-Daypart                   : AFTERNOON
-Time since play           : 03:43:05
-Gap from previous play    : 00:05:18
+Played at (UTC)           : 2026-11-19 06:25:31Z
+Played at (local)         : 2026-11-19 03:25:31 -03
+Local hour                : 03:00
+Daypart                   : NIGHT
+Time since play           : 04:03:43
+Gap from previous play    : 00:02:03
 ------------------------------------------------------------
-Previous song             : Soundgarden — The Day I Tried To Live
+Previous song             : Retrosoft — Analogue Dreams
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 7
-Artist plays (retained)   : 63
+Track plays (retained)    : 1
+Artist plays (retained)   : 1
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03
-Previous track #2         : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03
-Previous track #3         : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03
-Previous track #4         : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03
-Previous track #5         : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03
-Previous track #6         : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03
-Previous track #7         : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03
-Previous track #8         : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03
-Previous track #9         : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03
-Previous track #10        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03
-Previous track #11        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03
-Previous track #12        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03
-Previous track #13        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03
-Previous track #14        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03
-Previous track #15        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03
-Previous track #16        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03
-Previous track #17        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03
-Previous track #18        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03
-Previous track #19        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
-Previous track #20        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
-Previous track #21        : Limp Bizkit — Take It Home | 2026-11-14 21:41:18 -03
-Previous track #22        : Limp Bizkit — Red Light - Green Light | 2026-11-14 21:39:36 -03
-Previous track #23        : Limp Bizkit — Build A Bridge | 2026-11-14 21:35:41 -03
-Previous track #24        : Limp Bizkit — Gimme The Mic | 2026-11-14 21:26:42 -03
-Previous track #25        : Silverchair — Slave | 2026-11-14 21:22:35 -03
-Previous track #26        : Stone Temple Pilots — Plush | 2026-11-14 21:18:44 -03
-Previous track #27        : Rage Against The Machine — Bombtrack | 2026-11-14 20:11:55 -03
-Previous track #28        : Helmet, House Of Pain — Just Another Victim | 2026-11-14 19:38:52 -03
-Previous track #29        : John Coltrane — Blue World | 2026-11-14 19:35:44 -03
-Previous track #30        : Tomasz Stanko Quartet — Trista | 2026-11-14 18:03:23 -03
-Previous track #31        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:58:47 -03
-Previous track #32        : John Coltrane — Blue World | 2026-11-14 17:49:33 -03
-Previous track #33        : Tomasz Stanko Quartet — Trista | 2026-11-14 17:43:29 -03
-Previous track #34        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-14 17:38:53 -03
-Previous track #35        : Matchbox Twenty — Girl Like That | 2026-11-14 16:01:07 -03
-Previous track #36        : Matchbox Twenty — Push | 2026-11-14 15:58:14 -03
-Previous track #37        : Silverchair — Suicidal Dream | 2026-11-14 15:53:21 -03
-Previous track #38        : Silverchair — Leave Me Out | 2026-11-14 15:50:08 -03
-Previous track #39        : Silverchair — Shade | 2026-11-14 15:47:05 -03
-Previous track #40        : Silverchair — Pure Massacre | 2026-11-14 15:43:03 -03
+Previous track #1         : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
+Previous track #2         : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
+Previous track #3         : Silverchair — Faultline | 2026-11-19 03:15:50 -03
+Previous track #4         : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
+Previous track #5         : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
+Previous track #6         : Morphine — Like Swimming | 2026-11-18 20:28:48 -03
+Previous track #7         : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03
+Previous track #8         : Morphine — Sheila | 2026-11-18 20:23:10 -03
+Previous track #9         : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03
+Previous track #10        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03
+Previous track #11        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03
+Previous track #12        : Morphine — Thursday | 2026-11-18 20:11:38 -03
+Previous track #13        : Morphine — In Spite of Me | 2026-11-18 20:08:12 -03
+Previous track #14        : Morphine — A Head with Wings | 2026-11-18 20:05:37 -03
+Previous track #15        : Morphine — Candy | 2026-11-18 20:01:57 -03
+Previous track #16        : Morphine — All Wrong | 2026-11-18 19:58:42 -03
+Previous track #17        : Morphine — I'm Free Now | 2026-11-18 19:55:02 -03
+Previous track #18        : Morphine — Buena | 2026-11-18 19:51:37 -03
+Previous track #19        : Rage Against The Machine — Bombtrack | 2026-11-18 19:43:52 -03
+Previous track #20        : Silverchair — Israel's Son | 2026-11-18 17:47:40 -03
+Previous track #21        : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03
+Previous track #22        : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03
+Previous track #23        : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03
+Previous track #24        : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03
+Previous track #25        : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03
+Previous track #26        : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03
+Previous track #27        : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03
+Previous track #28        : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03
+Previous track #29        : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03
+Previous track #30        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03
+Previous track #31        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03
+Previous track #32        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03
+Previous track #33        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03
+Previous track #34        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03
+Previous track #35        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03
+Previous track #36        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03
+Previous track #37        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03
+Previous track #38        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03
+Previous track #39        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
+Previous track #40        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-11-18 14:28:59 -03
-Track observed in context : Tomasz Stanko Quartet — Trista
-Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
-Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
+Last playlist             : Calming Sleep Music 
+Context observed (local)  : 2026-11-19 03:25:31 -03
+Track observed in context : AtomFlow — Blooming
+Spotify playlist URI      : spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4
+Spotify playlist URL      : https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-10-22 06:23:12 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
-Previous playlist #3      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #5      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #8      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03
+Previous playlist #2      : N/A | 2026-10-22 06:23:12 -03
+Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #4      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #6      : N/A | 2026-09-25 00:06:20 -03
+Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
+Previous playlist #8      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
+Previous playlist #9      : N/A | 2026-09-11 22:51:56 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1591,55 +1591,55 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 49
-Unique tracks             : 37
-Unique artists            : 10
-Replay ratio              : ████░░░░░░░░░░░░░░  24.5%
-Artist diversity          : ████░░░░░░░░░░░░░░  20.4%
+Observed events           : 69
+Unique tracks             : 55
+Unique artists            : 16
+Replay ratio              : ████░░░░░░░░░░░░░░  20.3%
+Artist diversity          : ████░░░░░░░░░░░░░░  23.2%
 Dominant artist           : Silverchair
-Dominant artist share     : █████░░░░░░░░░░░░░  26.5%
-Artist switch ratio       : ████████░░░░░░░░░░  41.7%
-Longest artist streak     : Silverchair × 11
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.3%
+Artist switch ratio       : ███████░░░░░░░░░░░  41.2%
+Longest artist streak     : Morphine × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ░░░░░░░░░░░░░░░░░░    0.0%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    2.0%
-Afternoon  12–18           : █████████████░░░░░   71.4%
-Evening    18–24           : █████░░░░░░░░░░░░░   26.5%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.8%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.4%
+Afternoon  12–18           : █████████░░░░░░░░░   50.7%
+Evening    18–24           : ████████░░░░░░░░░░   42.0%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-11-13 11:26:50Z
-History last play (7d)    : 2026-11-18 20:47:40Z
-Observed time span        : 129:20:50
-Mean inter-play gap       : 02:41:41
-Median inter-play gap     : 00:05:12
+History last play (7d)    : 2026-11-19 06:25:31Z
+Observed time span        : 138:58:41
+Mean inter-play gap       : 02:02:38
+Median inter-play gap     : 00:04:51
 Longest inactivity gap    : 44:54:59
-Listening intensity       : 0.38 tracks/hour
+Listening intensity       : 0.50 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 15:00
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :             ▂▂▃█ ▂      
-Heatmap (7d)              :             ▁▃▁█ ▃ ▁ ▄  
+Heatmap (24h)             :    ▃        ▁▁▂▅ ▁ ▃█   
+Heatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   ▅ ▂█ 
+Activity (Mon→Sun)        :   █▁▁▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▂
+Activity trend (30d)      : ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
 Mon                       :                █        
 Tue                       :                         
-Wed                       :             ▂▂▃█ ▂      
-Thu                       :                         
+Wed                       :             ▁▁▂▅ ▁ ▃█   
+Thu                       :    █                    
 Fri                       :         ▂    █          
 Sat                       :                ▇▁▄▁▂▁█  
 Sun                       :                         
@@ -1647,47 +1647,47 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 17
-Dominant artist           : Rage Against The Machine
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 37
+Dominant artist           : Morphine
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-12 00:30:44Z → 2026-11-19 00:30:44Z
-Tracks played (7d)        : 49
+Week window (UTC)         : 2026-11-12 10:29:14Z → 2026-11-19 10:29:14Z
+Tracks played (7d)        : 69
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 5
-Sessions (7d)             : 13
-Avg inter-play gap        : 02:41:41
+Sessions (24h)            : 7
+Sessions (7d)             : 15
+Avg inter-play gap        : 02:02:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(13) | nu metal(13) | rap metal(13) | rap rock(13) | ambient jazz(2) | free jazz(2)
-Top genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | post-grunge(17) | grunge(16)
-Artist lookups (this run) : 0 (cached)
+Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rap rock(14) | grunge(4) | post-grunge(3)
+Top genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)
+Artist lookups (this run) : 4 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Tomasz Stanko Quintet — Terminal 7 → Silverchair — Israel's Son
-Playback timestamp Δ      : 2026-11-18 16:54:20Z → 2026-11-18 20:47:40Z
+Track transition          : Silverchair — Israel's Son → AtomFlow — Blooming
+Playback timestamp Δ      : 2026-11-18 20:47:40Z → 2026-11-19 06:25:31Z
 State transition          : NO CHANGE
-Telemetry interval        : 07:10:07
+Telemetry interval        : 09:58:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 806
+Events retained           : 826
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-18 17:47:40 -03
-Events (24h)              : 17
-Events (7d)               : 49
-Events (30d)              : 308
-Playlist contexts retained: 150
+Newest retained event     : 2026-11-19 03:25:31 -03
+Events (24h)              : 37
+Events (7d)               : 69
+Events (30d)              : 328
+Playlist contexts retained: 153
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-19 00:30:44Z
+Report generated (UTC)    : 2026-11-19 10:29:14Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
