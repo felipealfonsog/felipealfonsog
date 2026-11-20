@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-19 06:25:31Z
 Played at (local)         : 2026-11-19 03:25:31 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 14:22:03
+Time since play           : 21:03:56
 Gap from previous play    : 00:02:03
 ------------------------------------------------------------
 Previous song             : Retrosoft — Analogue Dreams
@@ -1622,16 +1622,16 @@ Listening intensity       : 0.50 tracks/hour
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : 03:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :    ▃             ▁ ▃█   
+Heatmap (24h)             :    █                    
 Heatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   █▁▁▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ 
+Activity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,14 +1647,14 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 21
-Dominant artist           : Morphine
-Listening pattern         : Regular cadence
-Daily activity status     : MEDIUM
+Tracks played (last 24h)  : 4
+Dominant artist           : AtomFlow
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-12 20:47:33Z → 2026-11-19 20:47:33Z
+Week window (UTC)         : 2026-11-13 03:29:27Z → 2026-11-20 03:29:27Z
 Tracks played (7d)        : 69
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
@@ -1662,13 +1662,13 @@ Cadence classification    : HIGH
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 3
+Sessions (24h)            : 1
 Sessions (7d)             : 15
 Avg inter-play gap        : 02:02:38
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(3) | post-grunge(2) | alternative metal(1) | alternative rock(1) | blues rock(1) | neo-psychedelic(1)
+Top genres (24h)          : grunge(1) | post-grunge(1)
 Top genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
@@ -1677,14 +1677,14 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 10:18:20
+Telemetry interval        : 06:41:54
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 826
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-19 03:25:31 -03
-Events (24h)              : 21
+Events (24h)              : 4
 Events (7d)               : 69
 Events (30d)              : 328
 Playlist contexts retained: 153
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-19 20:47:33Z
+Report generated (UTC)    : 2026-11-20 03:29:27Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
