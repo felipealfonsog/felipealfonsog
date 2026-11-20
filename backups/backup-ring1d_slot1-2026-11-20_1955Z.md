@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-19_2024Z
+ snapshot_utc : 2026-11-20_1955Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-19T07:11:53+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-20T06:59:41+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 446 ms
-TTFB................ 445 ms
+LATENCY............. 200 ms
+TTFB................ 199 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 41d
+TLS_EXPIRY.......... 40d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -732,9 +732,9 @@ REFPOL.............. MISS
 PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-19T11:22:31Z
+LAST_PROBE_UTC...... 2026-11-20T11:12:21Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -789,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444051
-longitude      : -70.650625
-altitude       : 141 m
-gps_accuracy   : ±6.9 m
-heading        : 207°
-speed          : 2.6 km/h
+latitude       : -33.443691
+longitude      : -70.650434
+altitude       : 69 m
+gps_accuracy   : ±6.6 m
+heading        : 162°
+speed          : 8.7 km/h
 status         : walking
 phase          : morning
-local_time     : 11:54
+local_time     : 11:35
 timezone       : America/Santiago
-signal         : stable
-updated_utc    : 2026-11-19 14:54:21 UTC
+signal         : nominal
+updated_utc    : 2026-11-20 14:35:17 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-19 07:35:17Z
+DSN snapshot (UTC)       : 2026-11-20 07:26:27Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.90e9 km | 173.158 AU
-Heliocentric distance    : 172.398 AU
-Relative speed           : 39.140 km/s
+Earth distance           : 25.91e9 km | 173.172 AU
+Heliocentric distance    : 172.408 AU
+Relative speed           : 38.975 km/s
 ------------------------------------------------------------
-One-way light time       : 24:00:06
-Round-trip latency       : 48:00:13
+One-way light time       : 24:00:14
+Round-trip latency       : 48:00:27
 ------------------------------------------------------------
-Δ distance (since last)  : +989,660 km
-Mission age              : 49 years, 87 days
+Δ distance (since last)  : +951,610 km
+Mission age              : 49 years, 88 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.69e9 km | 144.970 AU
-Heliocentric distance    : 144.514 AU
-Relative speed           : 40.715 km/s
+Earth distance           : 21.69e9 km | 144.989 AU
+Heliocentric distance    : 144.523 AU
+Relative speed           : 40.647 km/s
 ------------------------------------------------------------
-One-way light time       : 20:05:41
-Round-trip latency       : 40:11:21
+One-way light time       : 20:05:50
+Round-trip latency       : 40:11:41
 ------------------------------------------------------------
-Δ distance (since last)  : +1.336e6 km
-Mission age              : 49 years, 103 days
+Δ distance (since last)  : +1.296e6 km
+Mission age              : 49 years, 104 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-19 07:35:23Z
+Report generated (UTC)   : 2026-11-20 07:26:31Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1516,7 +1516,7 @@ Played at (UTC)           : 2026-11-19 06:25:31Z
 Played at (local)         : 2026-11-19 03:25:31 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 04:03:43
+Time since play           : 30:44:26
 Gap from previous play    : 00:02:03
 ------------------------------------------------------------
 Previous song             : Retrosoft — Analogue Dreams
@@ -1598,47 +1598,47 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 69
-Unique tracks             : 55
+Observed events           : 68
+Unique tracks             : 54
 Unique artists            : 16
-Replay ratio              : ████░░░░░░░░░░░░░░  20.3%
-Artist diversity          : ████░░░░░░░░░░░░░░  23.2%
+Replay ratio              : ████░░░░░░░░░░░░░░  20.6%
+Artist diversity          : ████░░░░░░░░░░░░░░  23.5%
 Dominant artist           : Silverchair
-Dominant artist share     : ████░░░░░░░░░░░░░░  20.3%
-Artist switch ratio       : ███████░░░░░░░░░░░  41.2%
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.6%
+Artist switch ratio       : ███████░░░░░░░░░░░  40.3%
 Longest artist streak     : Morphine × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.8%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.4%
-Afternoon  12–18           : █████████░░░░░░░░░   50.7%
-Evening    18–24           : ████████░░░░░░░░░░   42.0%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.9%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Afternoon  12–18           : █████████░░░░░░░░░   51.5%
+Evening    18–24           : ████████░░░░░░░░░░   42.6%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-13 11:26:50Z
+History first play (7d)   : 2026-11-13 16:23:59Z
 History last play (7d)    : 2026-11-19 06:25:31Z
-Observed time span        : 138:58:41
-Mean inter-play gap       : 02:02:38
-Median inter-play gap     : 00:04:51
+Observed time span        : 134:01:32
+Mean inter-play gap       : 02:00:01
+Median inter-play gap     : 00:04:49
 Longest inactivity gap    : 44:54:59
-Listening intensity       : 0.50 tracks/hour
+Listening intensity       : 0.51 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 20:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :    ▃        ▁▁▂▅ ▁ ▃█   
+Heatmap (24h)             : N/A
 Heatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   █▁▁▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ 
+Activity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄  
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,52 +1647,52 @@ Mon                       :                █
 Tue                       :                         
 Wed                       :             ▁▁▂▅ ▁ ▃█   
 Thu                       :    █                    
-Fri                       :         ▂    █          
+Fri                       :              █          
 Sat                       :                ▇▁▄▁▂▁█  
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 37
-Dominant artist           : Morphine
-Listening pattern         : Sustained operational tempo
-Daily activity status     : HIGH
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-12 10:29:14Z → 2026-11-19 10:29:14Z
-Tracks played (7d)        : 69
+Week window (UTC)         : 2026-11-13 13:09:56Z → 2026-11-20 13:09:56Z
+Tracks played (7d)        : 68
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 7
-Sessions (7d)             : 15
-Avg inter-play gap        : 02:02:38
+Sessions (24h)            : N/A
+Sessions (7d)             : 14
+Avg inter-play gap        : 02:00:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : alternative metal(14) | nu metal(14) | rap metal(14) | rap rock(14) | grunge(4) | post-grunge(3)
-Top genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)
-Artist lookups (this run) : 4 (cached)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | grunge(18) | post-grunge(18)
+Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Silverchair — Israel's Son → AtomFlow — Blooming
-Playback timestamp Δ      : 2026-11-18 20:47:40Z → 2026-11-19 06:25:31Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 09:58:30
+Telemetry interval        : 09:40:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 826
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-19 03:25:31 -03
-Events (24h)              : 37
-Events (7d)               : 69
+Events (24h)              : 0
+Events (7d)               : 68
 Events (30d)              : 328
 Playlist contexts retained: 153
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-19 10:29:14Z
+Report generated (UTC)    : 2026-11-20 13:09:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2161,7 +2161,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 19/11/2026 15:06:43 UTC
+Last updated     : 20/11/2026 14:47:35 UTC
 
 ```
 <!--END_SECTION:wakastats-->
