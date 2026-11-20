@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-19 06:25:31Z
 Played at (local)         : 2026-11-19 03:25:31 -03
 Local hour                : 03:00
 Daypart                   : NIGHT
-Time since play           : 21:03:56
+Time since play           : 30:44:26
 Gap from previous play    : 00:02:03
 ------------------------------------------------------------
 Previous song             : Retrosoft — Analogue Dreams
@@ -1591,40 +1591,40 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 69
-Unique tracks             : 55
+Observed events           : 68
+Unique tracks             : 54
 Unique artists            : 16
-Replay ratio              : ████░░░░░░░░░░░░░░  20.3%
-Artist diversity          : ████░░░░░░░░░░░░░░  23.2%
+Replay ratio              : ████░░░░░░░░░░░░░░  20.6%
+Artist diversity          : ████░░░░░░░░░░░░░░  23.5%
 Dominant artist           : Silverchair
-Dominant artist share     : ████░░░░░░░░░░░░░░  20.3%
-Artist switch ratio       : ███████░░░░░░░░░░░  41.2%
+Dominant artist share     : ████░░░░░░░░░░░░░░  20.6%
+Artist switch ratio       : ███████░░░░░░░░░░░  40.3%
 Longest artist streak     : Morphine × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.8%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.4%
-Afternoon  12–18           : █████████░░░░░░░░░   50.7%
-Evening    18–24           : ████████░░░░░░░░░░   42.0%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.9%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Afternoon  12–18           : █████████░░░░░░░░░   51.5%
+Evening    18–24           : ████████░░░░░░░░░░   42.6%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-13 11:26:50Z
+History first play (7d)   : 2026-11-13 16:23:59Z
 History last play (7d)    : 2026-11-19 06:25:31Z
-Observed time span        : 138:58:41
-Mean inter-play gap       : 02:02:38
-Median inter-play gap     : 00:04:51
+Observed time span        : 134:01:32
+Mean inter-play gap       : 02:00:01
+Median inter-play gap     : 00:04:49
 Longest inactivity gap    : 44:54:59
-Listening intensity       : 0.50 tracks/hour
+Listening intensity       : 0.51 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : N/A
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :    █                    
+Heatmap (24h)             : N/A
 Heatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
@@ -1640,36 +1640,36 @@ Mon                       :                █
 Tue                       :                         
 Wed                       :             ▁▁▂▅ ▁ ▃█   
 Thu                       :    █                    
-Fri                       :         ▂    █          
+Fri                       :              █          
 Sat                       :                ▇▁▄▁▂▁█  
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : AtomFlow
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-13 03:29:27Z → 2026-11-20 03:29:27Z
-Tracks played (7d)        : 69
+Week window (UTC)         : 2026-11-13 13:09:56Z → 2026-11-20 13:09:56Z
+Tracks played (7d)        : 68
 Dominant artist           : Silverchair
 Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 15
-Avg inter-play gap        : 02:02:38
+Sessions (24h)            : N/A
+Sessions (7d)             : 14
+Avg inter-play gap        : 02:00:01
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)
+Top genres (24h)          : N/A
+Top genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | grunge(18) | post-grunge(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,15 +1677,15 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:41:54
+Telemetry interval        : 09:40:30
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
 Events retained           : 826
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-19 03:25:31 -03
-Events (24h)              : 4
-Events (7d)               : 69
+Events (24h)              : 0
+Events (7d)               : 68
 Events (30d)              : 328
 Playlist contexts retained: 153
 Storage mode              : PERSISTENT LOCAL JOURNAL
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-20 03:29:27Z
+Report generated (UTC)    : 2026-11-20 13:09:56Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
