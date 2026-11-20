@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-11-20 13:09:56Z",
+  "report_generated_utc": "2026-11-20 21:52:12Z",
   "status": "IDLE",
-  "last_track": "AtomFlow — Blooming",
-  "last_played_utc": "2026-11-19 06:25:31Z",
+  "last_track": "Rage Against The Machine — Bombtrack",
+  "last_played_utc": "2026-11-20 19:22:43Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1984,11 +1984,654 @@
       "grunge",
       "alternative rock",
       "power pop"
-    ]
+    ],
+    "58etTNn7xmsQZhjnfjpAXL": [
+      "funk rock",
+      "grunge"
+    ],
+    "02NfyD6AlLA12crYzw5YcR": [
+      "funk rock",
+      "grunge"
+    ],
+    "41ZgpkCgDfKPg0f59pnSNg": []
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : AtomFlow — Blooming\nArtist                    : AtomFlow\nTitle                     : Blooming\nAlbum                     : Nature\nSpotify URI               : spotify:track:2bvQLKsrXM0sr7jpvksbex\nSpotify URL               : https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-19 06:25:31Z\nPlayed at (local)         : 2026-11-19 03:25:31 -03\nLocal hour                : 03:00\nDaypart                   : NIGHT\nTime since play           : 30:44:26\nGap from previous play    : 00:02:03\n------------------------------------------------------------\nPrevious song             : Retrosoft — Analogue Dreams\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 1\nArtist plays (retained)   : 1\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03\nPrevious track #2         : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03\nPrevious track #3         : Silverchair — Faultline | 2026-11-19 03:15:50 -03\nPrevious track #4         : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03\nPrevious track #5         : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03\nPrevious track #6         : Morphine — Like Swimming | 2026-11-18 20:28:48 -03\nPrevious track #7         : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03\nPrevious track #8         : Morphine — Sheila | 2026-11-18 20:23:10 -03\nPrevious track #9         : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03\nPrevious track #10        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03\nPrevious track #11        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03\nPrevious track #12        : Morphine — Thursday | 2026-11-18 20:11:38 -03\nPrevious track #13        : Morphine — In Spite of Me | 2026-11-18 20:08:12 -03\nPrevious track #14        : Morphine — A Head with Wings | 2026-11-18 20:05:37 -03\nPrevious track #15        : Morphine — Candy | 2026-11-18 20:01:57 -03\nPrevious track #16        : Morphine — All Wrong | 2026-11-18 19:58:42 -03\nPrevious track #17        : Morphine — I'm Free Now | 2026-11-18 19:55:02 -03\nPrevious track #18        : Morphine — Buena | 2026-11-18 19:51:37 -03\nPrevious track #19        : Rage Against The Machine — Bombtrack | 2026-11-18 19:43:52 -03\nPrevious track #20        : Silverchair — Israel's Son | 2026-11-18 17:47:40 -03\nPrevious track #21        : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03\nPrevious track #22        : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03\nPrevious track #23        : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03\nPrevious track #24        : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03\nPrevious track #25        : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03\nPrevious track #26        : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03\nPrevious track #27        : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03\nPrevious track #28        : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03\nPrevious track #29        : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03\nPrevious track #30        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03\nPrevious track #31        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03\nPrevious track #32        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03\nPrevious track #33        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03\nPrevious track #34        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03\nPrevious track #35        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03\nPrevious track #36        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03\nPrevious track #37        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03\nPrevious track #38        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03\nPrevious track #39        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03\nPrevious track #40        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : Calming Sleep Music \nContext observed (local)  : 2026-11-19 03:25:31 -03\nTrack observed in context : AtomFlow — Blooming\nSpotify playlist URI      : spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4\nSpotify playlist URL      : https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4\n------------------------------------------------------------\nPrevious playlist #1      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03\nPrevious playlist #2      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #3      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #4      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #6      : N/A | 2026-09-25 00:06:20 -03\nPrevious playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03\nPrevious playlist #8      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03\nPrevious playlist #9      : N/A | 2026-09-11 22:51:56 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 68\nUnique tracks             : 54\nUnique artists            : 16\nReplay ratio              : ████░░░░░░░░░░░░░░  20.6%\nArtist diversity          : ████░░░░░░░░░░░░░░  23.5%\nDominant artist           : Silverchair\nDominant artist share     : ████░░░░░░░░░░░░░░  20.6%\nArtist switch ratio       : ███████░░░░░░░░░░░  40.3%\nLongest artist streak     : Morphine × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    5.9%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : █████████░░░░░░░░░   51.5%\nEvening    18–24           : ████████░░░░░░░░░░   42.6%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-13 16:23:59Z\nHistory last play (7d)    : 2026-11-19 06:25:31Z\nObserved time span        : 134:01:32\nMean inter-play gap       : 02:00:01\nMedian inter-play gap     : 00:04:49\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.51 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : N/A\nPeak hour (7d)            : 15:00\nHeatmap (24h)             : N/A\nHeatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █▁▁▆ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄  \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▁▁▂▅ ▁ ▃█   \nThu                       :    █                    \nFri                       :              █          \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 0\nDominant artist           : N/A\nListening pattern         : No activity\nDaily activity status     : NONE\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-13 13:09:56Z → 2026-11-20 13:09:56Z\nTracks played (7d)        : 68\nDominant artist           : Silverchair\nCadence classification    : HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : N/A\nSessions (7d)             : 14\nAvg inter-play gap        : 02:00:01\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : N/A\nTop genres (7d)           : alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | grunge(18) | post-grunge(18)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : NO CHANGE\nPlayback timestamp Δ      : NO CHANGE\nState transition          : NO CHANGE\nTelemetry interval        : 09:40:30\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 826\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-19 03:25:31 -03\nEvents (24h)              : 0\nEvents (7d)               : 68\nEvents (30d)              : 328\nPlaylist contexts retained: 153\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-20 13:09:56Z",
-  "last_successful_report_utc": "2026-11-20 13:09:56Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Rage Against The Machine — Bombtrack\nArtist                    : Rage Against The Machine\nTitle                     : Bombtrack\nAlbum                     : Rage Against The Machine\nSpotify URI               : spotify:track:6ZU9RJIZ0fNaFuQM57bDIA\nSpotify URL               : https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-20 19:22:43Z\nPlayed at (local)         : 2026-11-20 16:22:43 -03\nLocal hour                : 16:00\nDaypart                   : AFTERNOON\nTime since play           : 02:29:29\nGap from previous play    : 00:04:13\n------------------------------------------------------------\nPrevious song             : Kyuss — Demon Cleaner\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 3\nArtist plays (retained)   : 36\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03\nPrevious track #2         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03\nPrevious track #3         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03\nPrevious track #4         : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03\nPrevious track #5         : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03\nPrevious track #6         : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03\nPrevious track #7         : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03\nPrevious track #8         : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03\nPrevious track #9         : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03\nPrevious track #10        : Helmet — Unsung | 2026-11-20 14:39:12 -03\nPrevious track #11        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03\nPrevious track #12        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03\nPrevious track #13        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03\nPrevious track #14        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03\nPrevious track #15        : Silverchair — Shade | 2026-11-20 13:49:56 -03\nPrevious track #16        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03\nPrevious track #17        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03\nPrevious track #18        : Second Coming — Soft | 2026-11-20 13:33:31 -03\nPrevious track #19        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03\nPrevious track #20        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03\nPrevious track #21        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03\nPrevious track #22        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03\nPrevious track #23        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03\nPrevious track #24        : Tad — Grease Box | 2026-11-20 13:05:40 -03\nPrevious track #25        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03\nPrevious track #26        : Helmet — Give It | 2026-11-20 12:57:11 -03\nPrevious track #27        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03\nPrevious track #28        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03\nPrevious track #29        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03\nPrevious track #30        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03\nPrevious track #31        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03\nPrevious track #32        : Silverchair — Faultline | 2026-11-19 03:15:50 -03\nPrevious track #33        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03\nPrevious track #34        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03\nPrevious track #35        : Morphine — Like Swimming | 2026-11-18 20:28:48 -03\nPrevious track #36        : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03\nPrevious track #37        : Morphine — Sheila | 2026-11-18 20:23:10 -03\nPrevious track #38        : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03\nPrevious track #39        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03\nPrevious track #40        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-11-20 16:18:30 -03\nTrack observed in context : Kyuss — Demon Cleaner\nSpotify playlist URI      : spotify:playlist:37i9dQZF1E4u5s5XLtXt3b\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b\n------------------------------------------------------------\nPrevious playlist #1      : Calming Sleep Music  | 2026-11-20 13:17:41 -03\nPrevious playlist #2      : N/A | 2026-11-20 13:17:11 -03\nPrevious playlist #3      : Calming Sleep Music  | 2026-11-19 03:25:31 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03\nPrevious playlist #5      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #7      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #9      : N/A | 2026-09-25 00:06:20 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 93\nUnique tracks             : 79\nUnique artists            : 30\nReplay ratio              : ███░░░░░░░░░░░░░░░  15.1%\nArtist diversity          : ██████░░░░░░░░░░░░  32.3%\nDominant artist           : Rage Against The Machine\nDominant artist share     : ███░░░░░░░░░░░░░░░  15.1%\nArtist switch ratio       : ███████████░░░░░░░  60.9%\nLongest artist streak     : Morphine × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    4.3%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : ████████████░░░░░░   64.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   31.2%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-14 18:29:19Z\nHistory last play (7d)    : 2026-11-20 19:22:43Z\nObserved time span        : 144:53:24\nMean inter-play gap       : 01:34:30\nMedian inter-play gap     : 00:04:46\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.64 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 13:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             ▂█▄▃▁       \nHeatmap (7d)              :    ▁        ▂▅▃█▁▂ ▂▅▃  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █▁▇▆ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▃\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▁▁▂▅ ▁ ▃█   \nThu                       :    █                    \nFri                       :             ▂█▄▃▁       \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 29\nDominant artist           : Mother Love Bone\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-13 21:52:12Z → 2026-11-20 21:52:12Z\nTracks played (7d)        : 93\nDominant artist           : Rage Against The Machine\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 16\nAvg inter-play gap        : 01:34:30\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(26) | post-grunge(20) | funk rock(7) | alternative metal(5) | noise rock(5) | groove metal(4)\nTop genres (7d)           : grunge(40) | post-grunge(34) | alternative metal(29) | nu metal(24) | rap metal(24) | rap rock(24)\nArtist lookups (this run) : 3 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : AtomFlow — Blooming → Rage Against The Machine — Bombtrack\nPlayback timestamp Δ      : 2026-11-19 06:25:31Z → 2026-11-20 19:22:43Z\nState transition          : NO CHANGE\nTelemetry interval        : 08:42:16\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 855\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-20 16:22:43 -03\nEvents (24h)              : 29\nEvents (7d)               : 93\nEvents (30d)              : 352\nPlaylist contexts retained: 181\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-20 21:52:12Z",
+  "last_successful_report_utc": "2026-11-20 21:52:12Z",
   "recent_playback_history": [
+    {
+      "track": "Rage Against The Machine — Bombtrack",
+      "artist": "Rage Against The Machine",
+      "title": "Bombtrack",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
+      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-20 19:22:43Z",
+      "played_at_local": "2026-11-20 16:22:43 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Kyuss — Demon Cleaner",
+      "artist": "Kyuss",
+      "title": "Demon Cleaner",
+      "album": "Welcome to Sky Valley",
+      "uri": "spotify:track:3HzOTfm6FVu4qXRDDdT3t0",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0",
+      "artist_ids": [
+        "3HCpwNmFp2rvjkdjTs4uxs"
+      ],
+      "played_at_utc": "2026-11-20 19:18:30Z",
+      "played_at_local": "2026-11-20 16:18:30 -03",
+      "local_hour": 16,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Gruntruck — Crazy Love",
+      "artist": "Gruntruck",
+      "title": "Crazy Love",
+      "album": "Push",
+      "uri": "spotify:track:50f5BoytJN3FrlUtDgltO5",
+      "url": "https://open.spotify.com/track/50f5BoytJN3FrlUtDgltO5",
+      "artist_ids": [
+        "40akJv6gxzx8uyRg3vBRuX"
+      ],
+      "played_at_utc": "2026-11-20 18:19:59Z",
+      "played_at_local": "2026-11-20 15:19:59 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Helmet — Exactly What You Wanted",
+      "artist": "Helmet",
+      "title": "Exactly What You Wanted",
+      "album": "Aftertaste",
+      "uri": "spotify:track:1xl9a6GICzJisksmdrljt2",
+      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-11-20 18:14:27Z",
+      "played_at_local": "2026-11-20 15:14:27 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mother Love Bone — Hold Your Head Up",
+      "artist": "Mother Love Bone",
+      "title": "Hold Your Head Up",
+      "album": "On Earth As It Is: The Complete Works",
+      "uri": "spotify:track:79FCUoYORpePrAP9F1xEtY",
+      "url": "https://open.spotify.com/track/79FCUoYORpePrAP9F1xEtY",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-11-20 18:11:02Z",
+      "played_at_local": "2026-11-20 15:11:02 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Silverchair — Leave Me Out",
+      "artist": "Silverchair",
+      "title": "Leave Me Out",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:1BDBs8P8JpqsuO9cWyfPlN",
+      "url": "https://open.spotify.com/track/1BDBs8P8JpqsuO9cWyfPlN",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-20 18:05:46Z",
+      "played_at_local": "2026-11-20 15:05:46 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Porno for Pyros — Pets",
+      "artist": "Porno for Pyros",
+      "title": "Pets",
+      "album": "Porno For Pyros",
+      "uri": "spotify:track:5kcQEPksJHTOLQ4In5oGN2",
+      "url": "https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2",
+      "artist_ids": [
+        "58etTNn7xmsQZhjnfjpAXL"
+      ],
+      "played_at_utc": "2026-11-20 18:02:46Z",
+      "played_at_local": "2026-11-20 15:02:46 -03",
+      "local_hour": 15,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Gruntruck — Machine Action",
+      "artist": "Gruntruck",
+      "title": "Machine Action",
+      "album": "Push",
+      "uri": "spotify:track:1e78sNPCgJjuuOO61wXLbd",
+      "url": "https://open.spotify.com/track/1e78sNPCgJjuuOO61wXLbd",
+      "artist_ids": [
+        "40akJv6gxzx8uyRg3vBRuX"
+      ],
+      "played_at_utc": "2026-11-20 17:53:14Z",
+      "played_at_local": "2026-11-20 14:53:14 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mad Season — Lifeless Dead",
+      "artist": "Mad Season",
+      "title": "Lifeless Dead",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:1VRgs7pDXFcWARLa17HE9n",
+      "url": "https://open.spotify.com/track/1VRgs7pDXFcWARLa17HE9n",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-11-20 17:46:59Z",
+      "played_at_local": "2026-11-20 14:46:59 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mother Love Bone — These R No Blues",
+      "artist": "Mother Love Bone",
+      "title": "These R No Blues",
+      "album": "On Earth As It Is: The Complete Works",
+      "uri": "spotify:track:4Ee3XZ0bsVwDuKcb6Rsth2",
+      "url": "https://open.spotify.com/track/4Ee3XZ0bsVwDuKcb6Rsth2",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-11-20 17:42:15Z",
+      "played_at_local": "2026-11-20 14:42:15 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Helmet — Unsung",
+      "artist": "Helmet",
+      "title": "Unsung",
+      "album": "Meantime",
+      "uri": "spotify:track:0z25tUQgEI4cIyNZ1TgWig",
+      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-11-20 17:39:12Z",
+      "played_at_local": "2026-11-20 14:39:12 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Soundgarden — Birth Ritual",
+      "artist": "Soundgarden",
+      "title": "Birth Ritual",
+      "album": "Telephantasm",
+      "uri": "spotify:track:0NI4NnOb5B20mYTJqqJlb6",
+      "url": "https://open.spotify.com/track/0NI4NnOb5B20mYTJqqJlb6",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-20 17:08:40Z",
+      "played_at_local": "2026-11-20 14:08:40 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Local H — High-Fiving MF",
+      "artist": "Local H",
+      "title": "High-Fiving MF",
+      "album": "As Good As Dead",
+      "uri": "spotify:track:1FYtUAJCY4cETakYJaxfZI",
+      "url": "https://open.spotify.com/track/1FYtUAJCY4cETakYJaxfZI",
+      "artist_ids": [
+        "415JrPfN7ukaTu8JV8BLE8"
+      ],
+      "played_at_utc": "2026-11-20 17:02:38Z",
+      "played_at_local": "2026-11-20 14:02:38 -03",
+      "local_hour": 14,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mad Season — Locomotive",
+      "artist": "Mad Season",
+      "title": "Locomotive",
+      "album": "Above (Deluxe Edition)",
+      "uri": "spotify:track:3XHCh9F789Jl3gzv3C7VI3",
+      "url": "https://open.spotify.com/track/3XHCh9F789Jl3gzv3C7VI3",
+      "artist_ids": [
+        "0T7JQxpy1Li93vLNirbv0Z"
+      ],
+      "played_at_utc": "2026-11-20 16:57:14Z",
+      "played_at_local": "2026-11-20 13:57:14 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Helmet — Biscuits For Smut",
+      "artist": "Helmet",
+      "title": "Biscuits For Smut",
+      "album": "Betty",
+      "uri": "spotify:track:18hQBshq6PncOwt4LRCA05",
+      "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-11-20 16:52:45Z",
+      "played_at_local": "2026-11-20 13:52:45 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Silverchair — Shade",
+      "artist": "Silverchair",
+      "title": "Shade",
+      "album": "Frogstomp (Deluxe Edition) [Remastered]",
+      "uri": "spotify:track:2keOybXUjBXImmAjk7UapM",
+      "url": "https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-20 16:49:56Z",
+      "played_at_local": "2026-11-20 13:49:56 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Soundgarden — Pretty Noose",
+      "artist": "Soundgarden",
+      "title": "Pretty Noose",
+      "album": "Down On The Upside",
+      "uri": "spotify:track:6ZzeXWwDvMzrgCWt9RwBj1",
+      "url": "https://open.spotify.com/track/6ZzeXWwDvMzrgCWt9RwBj1",
+      "artist_ids": [
+        "5xUf6j4upBrXZPg6AI4MRK"
+      ],
+      "played_at_utc": "2026-11-20 16:45:57Z",
+      "played_at_local": "2026-11-20 13:45:57 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mother Love Bone — Chloe Dancer/Crown Of Thorns",
+      "artist": "Mother Love Bone",
+      "title": "Chloe Dancer/Crown Of Thorns",
+      "album": "Mother Love Bone",
+      "uri": "spotify:track:6u5PNKpwoJrMEnCY0hTkAi",
+      "url": "https://open.spotify.com/track/6u5PNKpwoJrMEnCY0hTkAi",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-11-20 16:41:49Z",
+      "played_at_local": "2026-11-20 13:41:49 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Second Coming — Soft",
+      "artist": "Second Coming",
+      "title": "Soft",
+      "album": "Second Coming",
+      "uri": "spotify:track:0zc2JjdYfEMxDvqPtmmuAa",
+      "url": "https://open.spotify.com/track/0zc2JjdYfEMxDvqPtmmuAa",
+      "artist_ids": [
+        "5psDPxNx45I4JKzZ1ARbu2"
+      ],
+      "played_at_utc": "2026-11-20 16:33:31Z",
+      "played_at_local": "2026-11-20 13:33:31 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Jane's Addiction — Then She Did...",
+      "artist": "Jane's Addiction",
+      "title": "Then She Did...",
+      "album": "Ritual De Lo Habitual",
+      "uri": "spotify:track:6Y8eB9Qcami03h8TcKnh0V",
+      "url": "https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V",
+      "artist_ids": [
+        "02NfyD6AlLA12crYzw5YcR"
+      ],
+      "played_at_utc": "2026-11-20 16:29:21Z",
+      "played_at_local": "2026-11-20 13:29:21 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Seven Mary Three — Cumbersome",
+      "artist": "Seven Mary Three",
+      "title": "Cumbersome",
+      "album": "American Standard",
+      "uri": "spotify:track:6u1yKoh00WaoSpNp46RzKF",
+      "url": "https://open.spotify.com/track/6u1yKoh00WaoSpNp46RzKF",
+      "artist_ids": [
+        "2zsLaQhHFdQPdFXqG1nRmM"
+      ],
+      "played_at_utc": "2026-11-20 16:21:04Z",
+      "played_at_local": "2026-11-20 13:21:04 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Purple Holiday — Light Rays",
+      "artist": "Purple Holiday",
+      "title": "Light Rays",
+      "album": "Light Rays",
+      "uri": "spotify:track:4DOtLT8ootj7e5cOLIJn6h",
+      "url": "https://open.spotify.com/track/4DOtLT8ootj7e5cOLIJn6h",
+      "artist_ids": [
+        "41ZgpkCgDfKPg0f59pnSNg"
+      ],
+      "played_at_utc": "2026-11-20 16:17:41Z",
+      "played_at_local": "2026-11-20 13:17:41 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "context_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_id": "6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_name": "Calming Sleep Music ",
+      "playlist_uri": "spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4",
+      "playlist_url": "https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4"
+    },
+    {
+      "track": "Days Of The New — Where I Stand",
+      "artist": "Days Of The New",
+      "title": "Where I Stand",
+      "album": "Days Of The New",
+      "uri": "spotify:track:5rrb7jvZ3AIknpVLOfRxpx",
+      "url": "https://open.spotify.com/track/5rrb7jvZ3AIknpVLOfRxpx",
+      "artist_ids": [
+        "07jc1IMGtecDZzOL9cP50t"
+      ],
+      "played_at_utc": "2026-11-20 16:17:11Z",
+      "played_at_local": "2026-11-20 13:17:11 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mother Love Bone — Capricorn Sister - 2025 Remaster",
+      "artist": "Mother Love Bone",
+      "title": "Capricorn Sister - 2025 Remaster",
+      "album": "Shine (2025 Remaster)",
+      "uri": "spotify:track:1BNZxoPDxYvkTjqrsu1uVc",
+      "url": "https://open.spotify.com/track/1BNZxoPDxYvkTjqrsu1uVc",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-11-20 16:11:36Z",
+      "played_at_local": "2026-11-20 13:11:36 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Tad — Grease Box",
+      "artist": "Tad",
+      "title": "Grease Box",
+      "album": "Inhaler",
+      "uri": "spotify:track:1OCDCVzQVxVm2HceeEJTzm",
+      "url": "https://open.spotify.com/track/1OCDCVzQVxVm2HceeEJTzm",
+      "artist_ids": [
+        "2mncWLPUUFpNvBLkHzTsDO"
+      ],
+      "played_at_utc": "2026-11-20 16:05:40Z",
+      "played_at_local": "2026-11-20 13:05:40 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Jerry Cantrell — Angel Eyes",
+      "artist": "Jerry Cantrell",
+      "title": "Angel Eyes",
+      "album": "Degradation Trip",
+      "uri": "spotify:track:6zaeABSzNXAhBx5ht3Benw",
+      "url": "https://open.spotify.com/track/6zaeABSzNXAhBx5ht3Benw",
+      "artist_ids": [
+        "5HUFo8AH9ZILmlyKFfEMNP"
+      ],
+      "played_at_utc": "2026-11-20 16:01:51Z",
+      "played_at_local": "2026-11-20 13:01:51 -03",
+      "local_hour": 13,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Helmet — Give It",
+      "artist": "Helmet",
+      "title": "Give It",
+      "album": "Meantime",
+      "uri": "spotify:track:6rVleAFgtmJ04Omk6Mmon5",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5",
+      "artist_ids": [
+        "0qB0cTENhSUc0feov5qbg0"
+      ],
+      "played_at_utc": "2026-11-20 15:57:11Z",
+      "played_at_local": "2026-11-20 12:57:11 -03",
+      "local_hour": 12,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Silverchair — Abuse Me",
+      "artist": "Silverchair",
+      "title": "Abuse Me",
+      "album": "Freak Show",
+      "uri": "spotify:track:6lgsxp4M1RmnkivCqp6kPa",
+      "url": "https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa",
+      "artist_ids": [
+        "4iudEcmuPlYNdbP3e1bdn1"
+      ],
+      "played_at_utc": "2026-11-20 15:52:58Z",
+      "played_at_local": "2026-11-20 12:52:58 -03",
+      "local_hour": 12,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
+    {
+      "track": "Mother Love Bone — Crown Of Thorns",
+      "artist": "Mother Love Bone",
+      "title": "Crown Of Thorns",
+      "album": "Mother Love Bone",
+      "uri": "spotify:track:2dLBo6rg8B2OuhuCETN9Dd",
+      "url": "https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd",
+      "artist_ids": [
+        "3XR64HmFo4OvexUUNW7TP0"
+      ],
+      "played_at_utc": "2026-11-20 15:49:01Z",
+      "played_at_local": "2026-11-20 12:49:01 -03",
+      "local_hour": 12,
+      "weekday": 4,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "context_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_id": "37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_name": "N/A",
+      "playlist_uri": "spotify:playlist:37i9dQZF1E4u5s5XLtXt3b",
+      "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b"
+    },
     {
       "track": "AtomFlow — Blooming",
       "artist": "AtomFlow",
@@ -2216,536 +2859,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
       "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Thursday",
-      "artist": "Morphine",
-      "title": "Thursday",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:5x5mOPCNYpaBvTdPpYtDLP",
-      "url": "https://open.spotify.com/track/5x5mOPCNYpaBvTdPpYtDLP",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:11:38Z",
-      "played_at_local": "2026-11-18 20:11:38 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — In Spite of Me",
-      "artist": "Morphine",
-      "title": "In Spite of Me",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:5wNn33j2VfP8WMZhojE3JC",
-      "url": "https://open.spotify.com/track/5wNn33j2VfP8WMZhojE3JC",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:08:12Z",
-      "played_at_local": "2026-11-18 20:08:12 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — A Head with Wings",
-      "artist": "Morphine",
-      "title": "A Head with Wings",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:0eMV5hwDwDuGULmjFcTZUD",
-      "url": "https://open.spotify.com/track/0eMV5hwDwDuGULmjFcTZUD",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:05:37Z",
-      "played_at_local": "2026-11-18 20:05:37 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Candy",
-      "artist": "Morphine",
-      "title": "Candy",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:4JbCuoQfzYVp0p93yd8SJQ",
-      "url": "https://open.spotify.com/track/4JbCuoQfzYVp0p93yd8SJQ",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:01:57Z",
-      "played_at_local": "2026-11-18 20:01:57 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — All Wrong",
-      "artist": "Morphine",
-      "title": "All Wrong",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:49Yd1W7vmTyGXosX6vSVWM",
-      "url": "https://open.spotify.com/track/49Yd1W7vmTyGXosX6vSVWM",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 22:58:42Z",
-      "played_at_local": "2026-11-18 19:58:42 -03",
-      "local_hour": 19,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — I'm Free Now",
-      "artist": "Morphine",
-      "title": "I'm Free Now",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:2LROxbCF0enMTjSEA8EeZl",
-      "url": "https://open.spotify.com/track/2LROxbCF0enMTjSEA8EeZl",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 22:55:02Z",
-      "played_at_local": "2026-11-18 19:55:02 -03",
-      "local_hour": 19,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Buena",
-      "artist": "Morphine",
-      "title": "Buena",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:2SSBJhvMsujY94GK5JAtKs",
-      "url": "https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 22:51:37Z",
-      "played_at_local": "2026-11-18 19:51:37 -03",
-      "local_hour": 19,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Rage Against The Machine — Bombtrack",
-      "artist": "Rage Against The Machine",
-      "title": "Bombtrack",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
-      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 22:43:52Z",
-      "played_at_local": "2026-11-18 19:43:52 -03",
-      "local_hour": 19,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Silverchair — Israel's Son",
-      "artist": "Silverchair",
-      "title": "Israel's Son",
-      "album": "Frogstomp (Deluxe Edition) [Remastered]",
-      "uri": "spotify:track:4gAV3sMEZn4lrfKPGARCqA",
-      "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA",
-      "artist_ids": [
-        "4iudEcmuPlYNdbP3e1bdn1"
-      ],
-      "played_at_utc": "2026-11-18 20:47:40Z",
-      "played_at_local": "2026-11-18 17:47:40 -03",
-      "local_hour": 17,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4kp8sfeCDUMm4JKRdrD3aC",
-      "context_url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-    },
-    {
-      "track": "Soundgarden — The Day I Tried To Live",
-      "artist": "Soundgarden",
-      "title": "The Day I Tried To Live",
-      "album": "Superunknown (20th Anniversary)",
-      "uri": "spotify:track:4YugO7rO57FSmvj4UkyTXx",
-      "url": "https://open.spotify.com/track/4YugO7rO57FSmvj4UkyTXx",
-      "artist_ids": [
-        "5xUf6j4upBrXZPg6AI4MRK"
-      ],
-      "played_at_utc": "2026-11-18 20:42:22Z",
-      "played_at_local": "2026-11-18 17:42:22 -03",
-      "local_hour": 17,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Freedom",
-      "artist": "Rage Against The Machine",
-      "title": "Freedom",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:1zVE9JBBy8j0KmlbM8Xwhi",
-      "url": "https://open.spotify.com/track/1zVE9JBBy8j0KmlbM8Xwhi",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:42:52Z",
-      "played_at_local": "2026-11-18 15:42:52 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Township Rebellion",
-      "artist": "Rage Against The Machine",
-      "title": "Township Rebellion",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:0WK0EqiidP6WEDOHK34HEe",
-      "url": "https://open.spotify.com/track/0WK0EqiidP6WEDOHK34HEe",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:36:46Z",
-      "played_at_local": "2026-11-18 15:36:46 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Fistful of Steel",
-      "artist": "Rage Against The Machine",
-      "title": "Fistful of Steel",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:3YEk8mVdMI7rxtfimlUd1G",
-      "url": "https://open.spotify.com/track/3YEk8mVdMI7rxtfimlUd1G",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:31:22Z",
-      "played_at_local": "2026-11-18 15:31:22 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Wake Up",
-      "artist": "Rage Against The Machine",
-      "title": "Wake Up",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:6zbHSDJjgrNdfIxPyGfPBt",
-      "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:25:52Z",
-      "played_at_local": "2026-11-18 15:25:52 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Know Your Enemy",
-      "artist": "Rage Against The Machine",
-      "title": "Know Your Enemy",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:1IDAJagxB9AQjjYXaiDK1j",
-      "url": "https://open.spotify.com/track/1IDAJagxB9AQjjYXaiDK1j",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:19:48Z",
-      "played_at_local": "2026-11-18 15:19:48 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Bullet In the Head",
-      "artist": "Rage Against The Machine",
-      "title": "Bullet In the Head",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:11cxKUEgnVAlesUKt4e3br",
-      "url": "https://open.spotify.com/track/11cxKUEgnVAlesUKt4e3br",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:14:52Z",
-      "played_at_local": "2026-11-18 15:14:52 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Settle for Nothing",
-      "artist": "Rage Against The Machine",
-      "title": "Settle for Nothing",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:2vuDdXqekkDCSdawJyUpT6",
-      "url": "https://open.spotify.com/track/2vuDdXqekkDCSdawJyUpT6",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:09:43Z",
-      "played_at_local": "2026-11-18 15:09:43 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Take the Power Back",
-      "artist": "Rage Against The Machine",
-      "title": "Take the Power Back",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:3tTL7jlSkowXidYeafFtwG",
-      "url": "https://open.spotify.com/track/3tTL7jlSkowXidYeafFtwG",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 18:04:54Z",
-      "played_at_local": "2026-11-18 15:04:54 -03",
-      "local_hour": 15,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Killing In the Name",
-      "artist": "Rage Against The Machine",
-      "title": "Killing In the Name",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
-      "url": "https://open.spotify.com/track/3FUS56gKr9mVBmzvlnodlh",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 17:59:17Z",
-      "played_at_local": "2026-11-18 14:59:17 -03",
-      "local_hour": 14,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Rage Against The Machine — Bombtrack",
-      "artist": "Rage Against The Machine",
-      "title": "Bombtrack",
-      "album": "Rage Against The Machine",
-      "uri": "spotify:track:6ZU9RJIZ0fNaFuQM57bDIA",
-      "url": "https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-18 17:54:03Z",
-      "played_at_local": "2026-11-18 14:54:03 -03",
-      "local_hour": 14,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
-      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
-    },
-    {
-      "track": "Tomasz Stanko Quartet — Trista",
-      "artist": "Tomasz Stanko Quartet",
-      "title": "Trista",
-      "album": "Lontano",
-      "uri": "spotify:track:4371532zjTS1Llm2ZBxyEn",
-      "url": "https://open.spotify.com/track/4371532zjTS1Llm2ZBxyEn",
-      "artist_ids": [
-        "1sP0KjKWioXmkh9vUKb1fP"
-      ],
-      "played_at_utc": "2026-11-18 17:28:59Z",
-      "played_at_local": "2026-11-18 14:28:59 -03",
-      "local_hour": 14,
-      "weekday": 2,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Tomasz Stanko Quintet — Terminal 7",
-      "artist": "Tomasz Stanko Quintet",
-      "title": "Terminal 7",
-      "album": "Dark Eyes",
-      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
-      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
-      "artist_ids": [
-        "58Ieh2itn2s2DnnTA3mwTE"
-      ],
-      "played_at_utc": "2026-11-18 16:54:20Z",
-      "played_at_local": "2026-11-18 13:54:20 -03",
-      "local_hour": 13,
-      "weekday": 2,
-      "context_type": "playlist",
-      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_name": "Homeland (TV Series) Jazz Collection",
-      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
-      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
-    },
-    {
-      "track": "Limp Bizkit — Down Another Day",
-      "artist": "Limp Bizkit",
-      "title": "Down Another Day",
-      "album": "Results May Vary",
-      "uri": "spotify:track:080ZWiLptfVvc1UUUPldaZ",
-      "url": "https://open.spotify.com/track/080ZWiLptfVvc1UUUPldaZ",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-18 16:44:24Z",
-      "played_at_local": "2026-11-18 13:44:24 -03",
-      "local_hour": 13,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Almost Over",
-      "artist": "Limp Bizkit",
-      "title": "Almost Over",
-      "album": "Results May Vary",
-      "uri": "spotify:track:043Re81uRxCx2Nw6LfAheU",
-      "url": "https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-18 15:20:01Z",
-      "played_at_local": "2026-11-18 12:20:01 -03",
-      "local_hour": 12,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Let Me Down",
-      "artist": "Limp Bizkit",
-      "title": "Let Me Down",
-      "album": "Results May Vary",
-      "uri": "spotify:track:7A4AgpQe7c3R2QQNUwXeQN",
-      "url": "https://open.spotify.com/track/7A4AgpQe7c3R2QQNUwXeQN",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-18 15:12:35Z",
-      "played_at_local": "2026-11-18 12:12:35 -03",
-      "local_hour": 12,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Rage Against The Machine — Bombtrack",
-      "artist": "Rage Against The Machine",
-      "title": "Bombtrack",
-      "album": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-      "uri": "spotify:track:2rBHnIxbhkMGLpqmsNX91M",
-      "url": "https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M",
-      "artist_ids": [
-        "2d0hyoQ5ynDBnkvAbJKORj"
-      ],
-      "played_at_utc": "2026-11-16 18:17:36Z",
-      "played_at_local": "2026-11-16 15:17:36 -03",
-      "local_hour": 15,
-      "weekday": 0,
-      "context_type": "album",
-      "context_uri": "spotify:album:4Io5vWtmV1rFj4yirKb4y4",
-      "context_url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-    },
-    {
-      "track": "Limp Bizkit — Lonely World",
-      "artist": "Limp Bizkit",
-      "title": "Lonely World",
-      "album": "Results May Vary",
-      "uri": "spotify:track:77AbmFudFBhF5a4Vcmwqtu",
-      "url": "https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:55:04Z",
-      "played_at_local": "2026-11-14 21:55:04 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — Let Me Down",
-      "artist": "Limp Bizkit",
-      "title": "Let Me Down",
-      "album": "Results May Vary",
-      "uri": "spotify:track:7A4AgpQe7c3R2QQNUwXeQN",
-      "url": "https://open.spotify.com/track/7A4AgpQe7c3R2QQNUwXeQN",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:49:57Z",
-      "played_at_local": "2026-11-14 21:49:57 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-    },
-    {
-      "track": "Limp Bizkit — The Only One",
-      "artist": "Limp Bizkit",
-      "title": "The Only One",
-      "album": "Results May Vary",
-      "uri": "spotify:track:2x6vOJSQWa5AZMP4rphrcB",
-      "url": "https://open.spotify.com/track/2x6vOJSQWa5AZMP4rphrcB",
-      "artist_ids": [
-        "165ZgPlLkK7bf5bDoFc6Sb"
-      ],
-      "played_at_utc": "2026-11-15 00:45:41Z",
-      "played_at_local": "2026-11-14 21:45:41 -03",
-      "local_hour": 21,
-      "weekday": 5,
-      "context_type": "album",
-      "context_uri": "spotify:album:3oUoQ0UH7Rv06x1kpSjS36",
-      "context_url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2753,25 +2866,25 @@
   "last_known_volume_percent": 90,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-11-20 13:09:56Z",
-    "week_window_utc": "2026-11-13 13:09:56Z → 2026-11-20 13:09:56Z",
-    "tracks_24h": 0,
-    "tracks_7d": 68,
-    "dominant_artist_24h": "N/A",
-    "dominant_artist_7d": "Silverchair",
-    "listening_pattern_24h": "No activity",
-    "activity_status_24h": "NONE",
-    "cadence_7d": "HIGH",
+    "captured_utc": "2026-11-20 21:52:12Z",
+    "week_window_utc": "2026-11-13 21:52:12Z → 2026-11-20 21:52:12Z",
+    "tracks_24h": 29,
+    "tracks_7d": 93,
+    "dominant_artist_24h": "Mother Love Bone",
+    "dominant_artist_7d": "Rage Against The Machine",
+    "listening_pattern_24h": "Sustained operational tempo",
+    "activity_status_24h": "HIGH",
+    "cadence_7d": "VERY HIGH",
     "local_timezone": "America/Santiago",
-    "peak_hour_24h": "N/A",
+    "peak_hour_24h": "13:00",
     "peak_hour_7d": "15:00",
-    "heatmap_24h": "N/A",
-    "heatmap_7d": "   ▂        ▁▃▁█ ▃ ▃▆▄  ",
-    "sessions_24h": "N/A",
-    "sessions_7d": 14,
-    "avg_inter_play_gap_7d": "02:00:01",
-    "top_genres_24h": "N/A",
-    "top_genres_7d": "alternative metal(24) | nu metal(23) | rap metal(23) | rap rock(23) | grunge(18) | post-grunge(18)"
+    "heatmap_24h": "            ▂█▄▃▁       ",
+    "heatmap_7d": "   ▁        ▂▅▃█▁▂ ▂▅▃  ",
+    "sessions_24h": 3,
+    "sessions_7d": 16,
+    "avg_inter_play_gap_7d": "01:34:30",
+    "top_genres_24h": "grunge(26) | post-grunge(20) | funk rock(7) | alternative metal(5) | noise rock(5) | groove metal(4)",
+    "top_genres_7d": "grunge(40) | post-grunge(34) | alternative metal(29) | nu metal(24) | rap metal(24) | rap rock(24)"
   },
   "last_known_device_captured_utc": "2026-11-14 20:47:09Z"
 }
