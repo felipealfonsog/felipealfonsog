@@ -1,8 +1,62 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-20 21:52:12Z",
+  "updated_utc": "2026-11-21 03:16:38Z",
   "events": [
+    {
+      "track": "Linkin Park — By Myself",
+      "artist": "Linkin Park",
+      "title": "By Myself",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:6UzeOH4bRPzKTo2wCXMZmC",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-11-20 23:53:10Z",
+      "played_at_local": "2026-11-20 20:53:10 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6zbHSDJjgrNdfIxPyGfPBt",
+      "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-20 23:47:23Z",
+      "played_at_local": "2026-11-20 20:47:23 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Killing In the Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In the Name",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
+      "url": "https://open.spotify.com/track/3FUS56gKr9mVBmzvlnodlh",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-20 20:51:46Z",
+      "played_at_local": "2026-11-20 17:51:46 -03",
+      "local_hour": 17,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
     {
       "track": "Rage Against The Machine — Bombtrack",
       "artist": "Rage Against The Machine",

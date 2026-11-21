@@ -1,8 +1,8 @@
 {
-  "report_generated_utc": "2026-11-20 21:52:12Z",
+  "report_generated_utc": "2026-11-21 03:16:38Z",
   "status": "IDLE",
-  "last_track": "Rage Against The Machine — Bombtrack",
-  "last_played_utc": "2026-11-20 19:22:43Z",
+  "last_track": "Linkin Park — By Myself",
+  "last_played_utc": "2026-11-20 23:53:10Z",
   "sitrep": "AMBER",
   "artist_genre_cache": {
     "2MvVPVskst6WSd1JWA5311": [
@@ -1995,9 +1995,63 @@
     ],
     "41ZgpkCgDfKPg0f59pnSNg": []
   },
-  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Rage Against The Machine — Bombtrack\nArtist                    : Rage Against The Machine\nTitle                     : Bombtrack\nAlbum                     : Rage Against The Machine\nSpotify URI               : spotify:track:6ZU9RJIZ0fNaFuQM57bDIA\nSpotify URL               : https://open.spotify.com/track/6ZU9RJIZ0fNaFuQM57bDIA\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-20 19:22:43Z\nPlayed at (local)         : 2026-11-20 16:22:43 -03\nLocal hour                : 16:00\nDaypart                   : AFTERNOON\nTime since play           : 02:29:29\nGap from previous play    : 00:04:13\n------------------------------------------------------------\nPrevious song             : Kyuss — Demon Cleaner\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 3\nArtist plays (retained)   : 36\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03\nPrevious track #2         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03\nPrevious track #3         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03\nPrevious track #4         : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03\nPrevious track #5         : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03\nPrevious track #6         : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03\nPrevious track #7         : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03\nPrevious track #8         : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03\nPrevious track #9         : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03\nPrevious track #10        : Helmet — Unsung | 2026-11-20 14:39:12 -03\nPrevious track #11        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03\nPrevious track #12        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03\nPrevious track #13        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03\nPrevious track #14        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03\nPrevious track #15        : Silverchair — Shade | 2026-11-20 13:49:56 -03\nPrevious track #16        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03\nPrevious track #17        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03\nPrevious track #18        : Second Coming — Soft | 2026-11-20 13:33:31 -03\nPrevious track #19        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03\nPrevious track #20        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03\nPrevious track #21        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03\nPrevious track #22        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03\nPrevious track #23        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03\nPrevious track #24        : Tad — Grease Box | 2026-11-20 13:05:40 -03\nPrevious track #25        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03\nPrevious track #26        : Helmet — Give It | 2026-11-20 12:57:11 -03\nPrevious track #27        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03\nPrevious track #28        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03\nPrevious track #29        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03\nPrevious track #30        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03\nPrevious track #31        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03\nPrevious track #32        : Silverchair — Faultline | 2026-11-19 03:15:50 -03\nPrevious track #33        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03\nPrevious track #34        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03\nPrevious track #35        : Morphine — Like Swimming | 2026-11-18 20:28:48 -03\nPrevious track #36        : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03\nPrevious track #37        : Morphine — Sheila | 2026-11-18 20:23:10 -03\nPrevious track #38        : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03\nPrevious track #39        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03\nPrevious track #40        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-11-20 16:18:30 -03\nTrack observed in context : Kyuss — Demon Cleaner\nSpotify playlist URI      : spotify:playlist:37i9dQZF1E4u5s5XLtXt3b\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b\n------------------------------------------------------------\nPrevious playlist #1      : Calming Sleep Music  | 2026-11-20 13:17:41 -03\nPrevious playlist #2      : N/A | 2026-11-20 13:17:11 -03\nPrevious playlist #3      : Calming Sleep Music  | 2026-11-19 03:25:31 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03\nPrevious playlist #5      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #7      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #9      : N/A | 2026-09-25 00:06:20 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 93\nUnique tracks             : 79\nUnique artists            : 30\nReplay ratio              : ███░░░░░░░░░░░░░░░  15.1%\nArtist diversity          : ██████░░░░░░░░░░░░  32.3%\nDominant artist           : Rage Against The Machine\nDominant artist share     : ███░░░░░░░░░░░░░░░  15.1%\nArtist switch ratio       : ███████████░░░░░░░  60.9%\nLongest artist streak     : Morphine × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    4.3%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : ████████████░░░░░░   64.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   31.2%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-14 18:29:19Z\nHistory last play (7d)    : 2026-11-20 19:22:43Z\nObserved time span        : 144:53:24\nMean inter-play gap       : 01:34:30\nMedian inter-play gap     : 00:04:46\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.64 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 13:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             ▂█▄▃▁       \nHeatmap (7d)              :    ▁        ▂▅▃█▁▂ ▂▅▃  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █▁▇▆ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▃\nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▁▁▂▅ ▁ ▃█   \nThu                       :    █                    \nFri                       :             ▂█▄▃▁       \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 29\nDominant artist           : Mother Love Bone\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-13 21:52:12Z → 2026-11-20 21:52:12Z\nTracks played (7d)        : 93\nDominant artist           : Rage Against The Machine\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 3\nSessions (7d)             : 16\nAvg inter-play gap        : 01:34:30\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(26) | post-grunge(20) | funk rock(7) | alternative metal(5) | noise rock(5) | groove metal(4)\nTop genres (7d)           : grunge(40) | post-grunge(34) | alternative metal(29) | nu metal(24) | rap metal(24) | rap rock(24)\nArtist lookups (this run) : 3 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : AtomFlow — Blooming → Rage Against The Machine — Bombtrack\nPlayback timestamp Δ      : 2026-11-19 06:25:31Z → 2026-11-20 19:22:43Z\nState transition          : NO CHANGE\nTelemetry interval        : 08:42:16\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 855\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-20 16:22:43 -03\nEvents (24h)              : 29\nEvents (7d)               : 93\nEvents (30d)              : 352\nPlaylist contexts retained: 181\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-20 21:52:12Z",
-  "last_successful_report_utc": "2026-11-20 21:52:12Z",
+  "last_successful_report": "SPOTIFY TELEMETRY — CLI FEED (Spotify ©)\n------------------------------------------------------------\nTelemetry source          : Spotify Developer Platform — Playback Telemetry ©\nAcquisition mode          : OAuth2 / automated workflow\nSnapshot type             : Historical playback telemetry + live signal\nObservation window        : 00:30:00\n------------------------------------------------------------\nLAST PLAYED SONG\n------------------------------------------------------------\nTrack                     : Linkin Park — By Myself\nArtist                    : Linkin Park\nTitle                     : By Myself\nAlbum                     : Hybrid Theory (Bonus Edition)\nSpotify URI               : spotify:track:6UzeOH4bRPzKTo2wCXMZmC\nSpotify URL               : https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC\n------------------------------------------------------------\nPlayed at (UTC)           : 2026-11-20 23:53:10Z\nPlayed at (local)         : 2026-11-20 20:53:10 -03\nLocal hour                : 20:00\nDaypart                   : EVENING\nTime since play           : 03:23:29\nGap from previous play    : 00:05:47\n------------------------------------------------------------\nPrevious song             : Rage Against The Machine — Wake Up\nSame artist as previous   : NO\nSame track as previous    : NO\nTrack plays (retained)    : 4\nArtist plays (retained)   : 22\nHistorical source         : Spotify recently-played + persistent journal\n------------------------------------------------------------\nRECENT PLAYBACK HISTORY\n------------------------------------------------------------\nPrevious track #1         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03\nPrevious track #2         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03\nPrevious track #3         : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03\nPrevious track #4         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03\nPrevious track #5         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03\nPrevious track #6         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03\nPrevious track #7         : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03\nPrevious track #8         : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03\nPrevious track #9         : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03\nPrevious track #10        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03\nPrevious track #11        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03\nPrevious track #12        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03\nPrevious track #13        : Helmet — Unsung | 2026-11-20 14:39:12 -03\nPrevious track #14        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03\nPrevious track #15        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03\nPrevious track #16        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03\nPrevious track #17        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03\nPrevious track #18        : Silverchair — Shade | 2026-11-20 13:49:56 -03\nPrevious track #19        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03\nPrevious track #20        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03\nPrevious track #21        : Second Coming — Soft | 2026-11-20 13:33:31 -03\nPrevious track #22        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03\nPrevious track #23        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03\nPrevious track #24        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03\nPrevious track #25        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03\nPrevious track #26        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03\nPrevious track #27        : Tad — Grease Box | 2026-11-20 13:05:40 -03\nPrevious track #28        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03\nPrevious track #29        : Helmet — Give It | 2026-11-20 12:57:11 -03\nPrevious track #30        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03\nPrevious track #31        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03\nPrevious track #32        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03\nPrevious track #33        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03\nPrevious track #34        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03\nPrevious track #35        : Silverchair — Faultline | 2026-11-19 03:15:50 -03\nPrevious track #36        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03\nPrevious track #37        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03\nPrevious track #38        : Morphine — Like Swimming | 2026-11-18 20:28:48 -03\nPrevious track #39        : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03\nPrevious track #40        : Morphine — Sheila | 2026-11-18 20:23:10 -03\n------------------------------------------------------------\nLAST KNOWN PLAYLISTS\n------------------------------------------------------------\nLast playlist             : N/A\nContext observed (local)  : 2026-11-20 16:18:30 -03\nTrack observed in context : Kyuss — Demon Cleaner\nSpotify playlist URI      : spotify:playlist:37i9dQZF1E4u5s5XLtXt3b\nSpotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b\n------------------------------------------------------------\nPrevious playlist #1      : Calming Sleep Music  | 2026-11-20 13:17:41 -03\nPrevious playlist #2      : N/A | 2026-11-20 13:17:11 -03\nPrevious playlist #3      : Calming Sleep Music  | 2026-11-19 03:25:31 -03\nPrevious playlist #4      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03\nPrevious playlist #5      : N/A | 2026-10-22 06:23:12 -03\nPrevious playlist #6      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03\nPrevious playlist #7      : N/A | 2026-09-26 21:36:29 -03\nPrevious playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03\nPrevious playlist #9      : N/A | 2026-09-25 00:06:20 -03\n------------------------------------------------------------\nLAST KNOWN PLAYBACK CONTEXT\n------------------------------------------------------------\nLast known device type    : Computer\nLast known device name    : Felipe’s MacBook Air Silicon\nLast known volume         : 90%\nVolume telemetry          : OK\nVolume bar                : ▁▁▂▃▃▄▅▅▆▇▇\nContext observed (UTC)    : 2026-11-14 20:47:09Z\n------------------------------------------------------------\nPLAYBACK BEHAVIOUR ANALYTICS (7d history)\n------------------------------------------------------------\nObserved events           : 96\nUnique tracks             : 80\nUnique artists            : 31\nReplay ratio              : ███░░░░░░░░░░░░░░░  16.7%\nArtist diversity          : ██████░░░░░░░░░░░░  32.3%\nDominant artist           : Rage Against The Machine\nDominant artist share     : ███░░░░░░░░░░░░░░░  16.7%\nArtist switch ratio       : ███████████░░░░░░░  60.0%\nLongest artist streak     : Morphine × 13\n------------------------------------------------------------\nDAYPART DISTRIBUTION (7d history)\n------------------------------------------------------------\nNight      00–06           : █░░░░░░░░░░░░░░░░░    4.2%\nMorning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%\nAfternoon  12–18           : ███████████░░░░░░░   63.5%\nEvening    18–24           : ██████░░░░░░░░░░░░   32.3%\nDominant period           : AFTERNOON\n------------------------------------------------------------\nTEMPORAL PLAYBACK ANALYSIS (7d history)\n------------------------------------------------------------\nHistory first play (7d)   : 2026-11-14 18:29:19Z\nHistory last play (7d)    : 2026-11-20 23:53:10Z\nObserved time span        : 149:23:51\nMean inter-play gap       : 01:34:21\nMedian inter-play gap     : 00:04:53\nLongest inactivity gap    : 44:54:59\nListening intensity       : 0.64 tracks/hour\n------------------------------------------------------------\nLISTENING HOURS (local time)\n------------------------------------------------------------\nLocal timezone            : America/Santiago\nPeak hour (24h)           : 13:00\nPeak hour (7d)            : 15:00\nHeatmap (24h)             :             ▂█▄▃▁▁  ▁   \nHeatmap (7d)              :    ▁        ▂▅▃█▁▃ ▂▅▃  \n------------------------------------------------------------\nWEEK ACTIVITY (7d history)\n------------------------------------------------------------\nActivity (Mon→Sun)        :   █▁█▆ \nDay order                 : Mon Tue Wed Thu Fri Sat Sun\nActivity trend (30d)      :       ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄ \nTrend order               : oldest → newest\n------------------------------------------------------------\nWEEKLY HOUR MATRIX (7d history)\n------------------------------------------------------------\nMon                       :                █        \nTue                       :                         \nWed                       :             ▁▁▂▅ ▁ ▃█   \nThu                       :    █                    \nFri                       :             ▂█▄▃▁▁  ▁   \nSat                       :                ▇▁▄▁▂▁█  \nSun                       :                         \nHour axis                 : 00      06      12      18     23\n------------------------------------------------------------\nDAILY SPOTIFY SITREP\n------------------------------------------------------------\nTracks played (last 24h)  : 32\nDominant artist           : Mother Love Bone\nListening pattern         : Sustained operational tempo\nDaily activity status     : HIGH\n------------------------------------------------------------\nWEEKLY CADENCE SUMMARY\n------------------------------------------------------------\nWeek window (UTC)         : 2026-11-14 03:16:38Z → 2026-11-21 03:16:38Z\nTracks played (7d)        : 96\nDominant artist           : Rage Against The Machine\nCadence classification    : VERY HIGH\n------------------------------------------------------------\nSESSION ESTIMATES (inferred)\n------------------------------------------------------------\nSession gap threshold     : 25 minutes\nSessions (24h)            : 5\nSessions (7d)             : 18\nAvg inter-play gap        : 01:34:21\n------------------------------------------------------------\nGENRE INTEL (inferred)\n------------------------------------------------------------\nTop genres (24h)          : grunge(26) | post-grunge(20) | alternative metal(8) | funk rock(7) | noise rock(5) | groove metal(4)\nTop genres (7d)           : grunge(40) | post-grunge(34) | alternative metal(32) | nu metal(27) | rap metal(27) | rap rock(26)\nArtist lookups (this run) : 0 (cached)\n------------------------------------------------------------\nCHANGE TELEMETRY\n------------------------------------------------------------\nTrack transition          : Rage Against The Machine — Bombtrack → Linkin Park — By Myself\nPlayback timestamp Δ      : 2026-11-20 19:22:43Z → 2026-11-20 23:53:10Z\nState transition          : NO CHANGE\nTelemetry interval        : 05:24:27\n------------------------------------------------------------\nHISTORICAL DATA COVERAGE\n------------------------------------------------------------\nEvents retained           : 858\nOldest retained event     : 2026-08-13 11:54:14 -04\nNewest retained event     : 2026-11-20 20:53:10 -03\nEvents (24h)              : 32\nEvents (7d)               : 96\nEvents (30d)              : 350\nPlaylist contexts retained: 181\nStorage mode              : PERSISTENT LOCAL JOURNAL\nDeduplication             : played_at + track URI\n------------------------------------------------------------\nAPI / AUTHORIZATION TELEMETRY\n------------------------------------------------------------\nAPI response class        : 204 NO CONTENT\nAPI condition             : NORMAL\nAuthorization scope       : PLAYBACK_STATE | NOW_PLAYING | RECENT_ACTIVITY\nPlayer endpoint           : 204 NO CONTENT\n------------------------------------------------------------\nDATA INTEGRITY\n------------------------------------------------------------\nData integrity            : OK\nConfidence level          : HIGH\n------------------------------------------------------------\nAUTHORIZATION WATCH\n------------------------------------------------------------\nClient ID state           : CONFIGURED\nClient secret state       : CONFIGURED\nRefresh token state       : PASSING\nUser action required      : NO\nSecret to update          : NONE\nRecovery repository       : felipealfonsog/felipealfonsog.github.io\nRecovery workflow         : update-spotify-callback.yml\nCallback page             : https://felipealfonsog.github.io/spotify-callback.html\nRecovery procedure        : NOT REQUIRED\n------------------------------------------------------------\nReport generated (UTC)    : 2026-11-21 03:16:38Z",
+  "last_successful_report_utc": "2026-11-21 03:16:38Z",
   "recent_playback_history": [
+    {
+      "track": "Linkin Park — By Myself",
+      "artist": "Linkin Park",
+      "title": "By Myself",
+      "album": "Hybrid Theory (Bonus Edition)",
+      "uri": "spotify:track:6UzeOH4bRPzKTo2wCXMZmC",
+      "url": "https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC",
+      "artist_ids": [
+        "6XyY86QOPPrYVGvF9ch6wz"
+      ],
+      "played_at_utc": "2026-11-20 23:53:10Z",
+      "played_at_local": "2026-11-20 20:53:10 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Wake Up",
+      "artist": "Rage Against The Machine",
+      "title": "Wake Up",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:6zbHSDJjgrNdfIxPyGfPBt",
+      "url": "https://open.spotify.com/track/6zbHSDJjgrNdfIxPyGfPBt",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-20 23:47:23Z",
+      "played_at_local": "2026-11-20 20:47:23 -03",
+      "local_hour": 20,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
+    {
+      "track": "Rage Against The Machine — Killing In the Name",
+      "artist": "Rage Against The Machine",
+      "title": "Killing In the Name",
+      "album": "Rage Against The Machine",
+      "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
+      "url": "https://open.spotify.com/track/3FUS56gKr9mVBmzvlnodlh",
+      "artist_ids": [
+        "2d0hyoQ5ynDBnkvAbJKORj"
+      ],
+      "played_at_utc": "2026-11-20 20:51:46Z",
+      "played_at_local": "2026-11-20 17:51:46 -03",
+      "local_hour": 17,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
     {
       "track": "Rage Against The Machine — Bombtrack",
       "artist": "Rage Against The Machine",
@@ -2805,60 +2859,6 @@
       "context_type": "album",
       "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
       "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Let's Take a Trip Together",
-      "artist": "Morphine",
-      "title": "Let's Take a Trip Together",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:4TxHfNgeum23DHbz1dOZle",
-      "url": "https://open.spotify.com/track/4TxHfNgeum23DHbz1dOZle",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:20:21Z",
-      "played_at_local": "2026-11-18 20:20:21 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Mary Won't You Call My Name?",
-      "artist": "Morphine",
-      "title": "Mary Won't You Call My Name?",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:48kPLGivqiuY9OgI35CzKY",
-      "url": "https://open.spotify.com/track/48kPLGivqiuY9OgI35CzKY",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:17:21Z",
-      "played_at_local": "2026-11-18 20:17:21 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-    },
-    {
-      "track": "Morphine — Cure for Pain",
-      "artist": "Morphine",
-      "title": "Cure for Pain",
-      "album": "Cure for Pain",
-      "uri": "spotify:track:3hO9gaVixKDoYDrlTBrEWf",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf",
-      "artist_ids": [
-        "3QgSmABpItIdj908ek80n5"
-      ],
-      "played_at_utc": "2026-11-18 23:14:52Z",
-      "played_at_local": "2026-11-18 20:14:52 -03",
-      "local_hour": 20,
-      "weekday": 2,
-      "context_type": "album",
-      "context_uri": "spotify:album:0FocpOyE7RnaNsiaEhSbp6",
-      "context_url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
     }
   ],
   "last_known_device_type": "Computer",
@@ -2866,10 +2866,10 @@
   "last_known_volume_percent": 90,
   "last_known_volume_telemetry": "OK",
   "historical_listening_snapshot": {
-    "captured_utc": "2026-11-20 21:52:12Z",
-    "week_window_utc": "2026-11-13 21:52:12Z → 2026-11-20 21:52:12Z",
-    "tracks_24h": 29,
-    "tracks_7d": 93,
+    "captured_utc": "2026-11-21 03:16:38Z",
+    "week_window_utc": "2026-11-14 03:16:38Z → 2026-11-21 03:16:38Z",
+    "tracks_24h": 32,
+    "tracks_7d": 96,
     "dominant_artist_24h": "Mother Love Bone",
     "dominant_artist_7d": "Rage Against The Machine",
     "listening_pattern_24h": "Sustained operational tempo",
@@ -2878,13 +2878,13 @@
     "local_timezone": "America/Santiago",
     "peak_hour_24h": "13:00",
     "peak_hour_7d": "15:00",
-    "heatmap_24h": "            ▂█▄▃▁       ",
-    "heatmap_7d": "   ▁        ▂▅▃█▁▂ ▂▅▃  ",
-    "sessions_24h": 3,
-    "sessions_7d": 16,
-    "avg_inter_play_gap_7d": "01:34:30",
-    "top_genres_24h": "grunge(26) | post-grunge(20) | funk rock(7) | alternative metal(5) | noise rock(5) | groove metal(4)",
-    "top_genres_7d": "grunge(40) | post-grunge(34) | alternative metal(29) | nu metal(24) | rap metal(24) | rap rock(24)"
+    "heatmap_24h": "            ▂█▄▃▁▁  ▁   ",
+    "heatmap_7d": "   ▁        ▂▅▃█▁▃ ▂▅▃  ",
+    "sessions_24h": 5,
+    "sessions_7d": 18,
+    "avg_inter_play_gap_7d": "01:34:21",
+    "top_genres_24h": "grunge(26) | post-grunge(20) | alternative metal(8) | funk rock(7) | noise rock(5) | groove metal(4)",
+    "top_genres_7d": "grunge(40) | post-grunge(34) | alternative metal(32) | nu metal(27) | rap metal(27) | rap rock(26)"
   },
   "last_known_device_captured_utc": "2026-11-14 20:47:09Z"
 }
