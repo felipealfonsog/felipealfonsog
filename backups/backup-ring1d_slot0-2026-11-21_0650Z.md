@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-20_0655Z
+ snapshot_utc : 2026-11-21_0650Z
  ring_days    : 1
  slot         : 0/2
  period_hours : 12
@@ -543,7 +543,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-19T20:26:42+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-20T19:58:55+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -713,13 +713,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 446 ms
-TTFB................ 445 ms
+LATENCY............. 200 ms
+TTFB................ 199 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 41d
+TLS_EXPIRY.......... 40d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -732,9 +732,9 @@ REFPOL.............. MISS
 PERMPOL............. MISS
 ROBOTS.............. PRESENT
 SECURITYTXT......... ABSENT
-TOR_BROWSER_COMPAT.. PASS
+TOR_BROWSER_COMPAT.. FAIL
 TOR_FETCH_MODE...... SOCKS5
-TOR_EXIT_RESULT..... SUCCESS
+TOR_EXIT_RESULT..... TIMEOUT_OR_DENY
 ONION_STATUS........ NOT_PRESENT
 ONION_LOCATION...... ABSENT
 SERVER_HINT......... Application-fronted
@@ -748,7 +748,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-19T11:22:31Z
+LAST_PROBE_UTC...... 2026-11-20T11:12:21Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -789,18 +789,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : urban_sector
-latitude       : -33.444298
-longitude      : -70.651104
-altitude       : 110 m
-gps_accuracy   : ±3.6 m
-heading        : 239°
+latitude       : -33.444278
+longitude      : -70.650520
+altitude       : 149 m
+gps_accuracy   : ±4.1 m
+heading        : 150°
 speed          : 0.3 km/h
-status         : stationary
-phase          : evening
-local_time     : 21:00
+status         : low_movement
+phase          : overnight
+local_time     : 01:47
 timezone       : America/Santiago
 signal         : nominal
-updated_utc    : 2026-11-20 00:00:12 UTC
+updated_utc    : 2026-11-21 04:47:38 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -919,7 +919,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-19 20:45:24Z
+DSN snapshot (UTC)       : 2026-11-20 20:29:11Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -930,15 +930,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.91e9 km | 173.165 AU
-Heliocentric distance    : 172.403 AU
-Relative speed           : 39.049 km/s
+Earth distance           : 25.91e9 km | 173.180 AU
+Heliocentric distance    : 172.413 AU
+Relative speed           : 38.885 km/s
 ------------------------------------------------------------
-One-way light time       : 24:00:10
-Round-trip latency       : 48:00:21
+One-way light time       : 24:00:17
+Round-trip latency       : 48:00:35
 ------------------------------------------------------------
-Δ distance (since last)  : +1.182e6 km
-Mission age              : 49 years, 87 days
+Δ distance (since last)  : +1.153e6 km
+Mission age              : 49 years, 88 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -949,19 +949,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.69e9 km | 144.981 AU
-Heliocentric distance    : 144.519 AU
-Relative speed           : 40.678 km/s
+Earth distance           : 21.69e9 km | 145.000 AU
+Heliocentric distance    : 144.527 AU
+Relative speed           : 40.608 km/s
 ------------------------------------------------------------
-One-way light time       : 20:05:46
-Round-trip latency       : 40:11:32
+One-way light time       : 20:05:56
+Round-trip latency       : 40:11:51
 ------------------------------------------------------------
-Δ distance (since last)  : +1.604e6 km
-Mission age              : 49 years, 103 days
+Δ distance (since last)  : +1.578e6 km
+Mission age              : 49 years, 104 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-19 20:45:30Z
+Report generated (UTC)   : 2026-11-20 20:29:14Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1505,87 +1505,87 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : AtomFlow — Blooming
-Artist                    : AtomFlow
-Title                     : Blooming
-Album                     : Nature
-Spotify URI               : spotify:track:2bvQLKsrXM0sr7jpvksbex
-Spotify URL               : https://open.spotify.com/track/2bvQLKsrXM0sr7jpvksbex
+Track                     : Linkin Park — By Myself
+Artist                    : Linkin Park
+Title                     : By Myself
+Album                     : Hybrid Theory (Bonus Edition)
+Spotify URI               : spotify:track:6UzeOH4bRPzKTo2wCXMZmC
+Spotify URL               : https://open.spotify.com/track/6UzeOH4bRPzKTo2wCXMZmC
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-19 06:25:31Z
-Played at (local)         : 2026-11-19 03:25:31 -03
-Local hour                : 03:00
-Daypart                   : NIGHT
-Time since play           : 21:03:56
-Gap from previous play    : 00:02:03
+Played at (UTC)           : 2026-11-20 23:53:10Z
+Played at (local)         : 2026-11-20 20:53:10 -03
+Local hour                : 20:00
+Daypart                   : EVENING
+Time since play           : 03:23:29
+Gap from previous play    : 00:05:47
 ------------------------------------------------------------
-Previous song             : Retrosoft — Analogue Dreams
+Previous song             : Rage Against The Machine — Wake Up
 Same artist as previous   : NO
 Same track as previous    : NO
-Track plays (retained)    : 1
-Artist plays (retained)   : 1
+Track plays (retained)    : 4
+Artist plays (retained)   : 22
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
-Previous track #2         : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
-Previous track #3         : Silverchair — Faultline | 2026-11-19 03:15:50 -03
-Previous track #4         : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
-Previous track #5         : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
-Previous track #6         : Morphine — Like Swimming | 2026-11-18 20:28:48 -03
-Previous track #7         : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03
-Previous track #8         : Morphine — Sheila | 2026-11-18 20:23:10 -03
-Previous track #9         : Morphine — Let's Take a Trip Together | 2026-11-18 20:20:21 -03
-Previous track #10        : Morphine — Mary Won't You Call My Name? | 2026-11-18 20:17:21 -03
-Previous track #11        : Morphine — Cure for Pain | 2026-11-18 20:14:52 -03
-Previous track #12        : Morphine — Thursday | 2026-11-18 20:11:38 -03
-Previous track #13        : Morphine — In Spite of Me | 2026-11-18 20:08:12 -03
-Previous track #14        : Morphine — A Head with Wings | 2026-11-18 20:05:37 -03
-Previous track #15        : Morphine — Candy | 2026-11-18 20:01:57 -03
-Previous track #16        : Morphine — All Wrong | 2026-11-18 19:58:42 -03
-Previous track #17        : Morphine — I'm Free Now | 2026-11-18 19:55:02 -03
-Previous track #18        : Morphine — Buena | 2026-11-18 19:51:37 -03
-Previous track #19        : Rage Against The Machine — Bombtrack | 2026-11-18 19:43:52 -03
-Previous track #20        : Silverchair — Israel's Son | 2026-11-18 17:47:40 -03
-Previous track #21        : Soundgarden — The Day I Tried To Live | 2026-11-18 17:42:22 -03
-Previous track #22        : Rage Against The Machine — Freedom | 2026-11-18 15:42:52 -03
-Previous track #23        : Rage Against The Machine — Township Rebellion | 2026-11-18 15:36:46 -03
-Previous track #24        : Rage Against The Machine — Fistful of Steel | 2026-11-18 15:31:22 -03
-Previous track #25        : Rage Against The Machine — Wake Up | 2026-11-18 15:25:52 -03
-Previous track #26        : Rage Against The Machine — Know Your Enemy | 2026-11-18 15:19:48 -03
-Previous track #27        : Rage Against The Machine — Bullet In the Head | 2026-11-18 15:14:52 -03
-Previous track #28        : Rage Against The Machine — Settle for Nothing | 2026-11-18 15:09:43 -03
-Previous track #29        : Rage Against The Machine — Take the Power Back | 2026-11-18 15:04:54 -03
-Previous track #30        : Rage Against The Machine — Killing In the Name | 2026-11-18 14:59:17 -03
-Previous track #31        : Rage Against The Machine — Bombtrack | 2026-11-18 14:54:03 -03
-Previous track #32        : Tomasz Stanko Quartet — Trista | 2026-11-18 14:28:59 -03
-Previous track #33        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-18 13:54:20 -03
-Previous track #34        : Limp Bizkit — Down Another Day | 2026-11-18 13:44:24 -03
-Previous track #35        : Limp Bizkit — Almost Over | 2026-11-18 12:20:01 -03
-Previous track #36        : Limp Bizkit — Let Me Down | 2026-11-18 12:12:35 -03
-Previous track #37        : Rage Against The Machine — Bombtrack | 2026-11-16 15:17:36 -03
-Previous track #38        : Limp Bizkit — Lonely World | 2026-11-14 21:55:04 -03
-Previous track #39        : Limp Bizkit — Let Me Down | 2026-11-14 21:49:57 -03
-Previous track #40        : Limp Bizkit — The Only One | 2026-11-14 21:45:41 -03
+Previous track #1         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
+Previous track #2         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
+Previous track #3         : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
+Previous track #4         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
+Previous track #5         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
+Previous track #6         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
+Previous track #7         : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
+Previous track #8         : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
+Previous track #9         : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
+Previous track #10        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
+Previous track #11        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
+Previous track #12        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
+Previous track #13        : Helmet — Unsung | 2026-11-20 14:39:12 -03
+Previous track #14        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
+Previous track #15        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
+Previous track #16        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
+Previous track #17        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
+Previous track #18        : Silverchair — Shade | 2026-11-20 13:49:56 -03
+Previous track #19        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
+Previous track #20        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
+Previous track #21        : Second Coming — Soft | 2026-11-20 13:33:31 -03
+Previous track #22        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
+Previous track #23        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
+Previous track #24        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
+Previous track #25        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
+Previous track #26        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
+Previous track #27        : Tad — Grease Box | 2026-11-20 13:05:40 -03
+Previous track #28        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
+Previous track #29        : Helmet — Give It | 2026-11-20 12:57:11 -03
+Previous track #30        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
+Previous track #31        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
+Previous track #32        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
+Previous track #33        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
+Previous track #34        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
+Previous track #35        : Silverchair — Faultline | 2026-11-19 03:15:50 -03
+Previous track #36        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
+Previous track #37        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
+Previous track #38        : Morphine — Like Swimming | 2026-11-18 20:28:48 -03
+Previous track #39        : Morphine — Miles Davis' Funeral | 2026-11-18 20:24:51 -03
+Previous track #40        : Morphine — Sheila | 2026-11-18 20:23:10 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
-Last playlist             : Calming Sleep Music 
-Context observed (local)  : 2026-11-19 03:25:31 -03
-Track observed in context : AtomFlow — Blooming
-Spotify playlist URI      : spotify:playlist:6X7wz4cCUBR6p68mzM7mZ4
-Spotify playlist URL      : https://open.spotify.com/playlist/6X7wz4cCUBR6p68mzM7mZ4
+Last playlist             : N/A
+Context observed (local)  : 2026-11-20 16:18:30 -03
+Track observed in context : Kyuss — Demon Cleaner
+Spotify playlist URI      : spotify:playlist:37i9dQZF1E4u5s5XLtXt3b
+Spotify playlist URL      : https://open.spotify.com/playlist/37i9dQZF1E4u5s5XLtXt3b
 ------------------------------------------------------------
-Previous playlist #1      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03
-Previous playlist #2      : N/A | 2026-10-22 06:23:12 -03
-Previous playlist #3      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
-Previous playlist #4      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #6      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #8      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #9      : N/A | 2026-09-11 22:51:56 -03
+Previous playlist #1      : Calming Sleep Music  | 2026-11-20 13:17:41 -03
+Previous playlist #2      : N/A | 2026-11-20 13:17:11 -03
+Previous playlist #3      : Calming Sleep Music  | 2026-11-19 03:25:31 -03
+Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03
+Previous playlist #5      : N/A | 2026-10-22 06:23:12 -03
+Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #7      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #8      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
+Previous playlist #9      : N/A | 2026-09-25 00:06:20 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
@@ -1598,47 +1598,47 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 69
-Unique tracks             : 55
-Unique artists            : 16
-Replay ratio              : ████░░░░░░░░░░░░░░  20.3%
-Artist diversity          : ████░░░░░░░░░░░░░░  23.2%
-Dominant artist           : Silverchair
-Dominant artist share     : ████░░░░░░░░░░░░░░  20.3%
-Artist switch ratio       : ███████░░░░░░░░░░░  41.2%
+Observed events           : 96
+Unique tracks             : 80
+Unique artists            : 31
+Replay ratio              : ███░░░░░░░░░░░░░░░  16.7%
+Artist diversity          : ██████░░░░░░░░░░░░  32.3%
+Dominant artist           : Rage Against The Machine
+Dominant artist share     : ███░░░░░░░░░░░░░░░  16.7%
+Artist switch ratio       : ███████████░░░░░░░  60.0%
 Longest artist streak     : Morphine × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.8%
-Morning    06–12           : ░░░░░░░░░░░░░░░░░░    1.4%
-Afternoon  12–18           : █████████░░░░░░░░░   50.7%
-Evening    18–24           : ████████░░░░░░░░░░   42.0%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    4.2%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Afternoon  12–18           : ███████████░░░░░░░   63.5%
+Evening    18–24           : ██████░░░░░░░░░░░░   32.3%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-13 11:26:50Z
-History last play (7d)    : 2026-11-19 06:25:31Z
-Observed time span        : 138:58:41
-Mean inter-play gap       : 02:02:38
-Median inter-play gap     : 00:04:51
+History first play (7d)   : 2026-11-14 18:29:19Z
+History last play (7d)    : 2026-11-20 23:53:10Z
+Observed time span        : 149:23:51
+Mean inter-play gap       : 01:34:21
+Median inter-play gap     : 00:04:53
 Longest inactivity gap    : 44:54:59
-Listening intensity       : 0.50 tracks/hour
+Listening intensity       : 0.64 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 03:00
+Peak hour (24h)           : 13:00
 Peak hour (7d)            : 15:00
-Heatmap (24h)             :    █                    
-Heatmap (7d)              :    ▂        ▁▃▁█ ▃ ▃▆▄  
+Heatmap (24h)             :             ▂█▄▃▁▁  ▁   
+Heatmap (7d)              :    ▁        ▂▅▃█▁▃ ▂▅▃  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :   █▁▁▆ 
+Activity (Mon→Sun)        :   █▁█▆ 
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      : ▁      ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄  
+Activity trend (30d)      :       ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄ 
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1647,54 +1647,54 @@ Mon                       :                █
 Tue                       :                         
 Wed                       :             ▁▁▂▅ ▁ ▃█   
 Thu                       :    █                    
-Fri                       :         ▂    █          
+Fri                       :             ▂█▄▃▁▁  ▁   
 Sat                       :                ▇▁▄▁▂▁█  
 Sun                       :                         
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 4
-Dominant artist           : AtomFlow
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 32
+Dominant artist           : Mother Love Bone
+Listening pattern         : Sustained operational tempo
+Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-13 03:29:27Z → 2026-11-20 03:29:27Z
-Tracks played (7d)        : 69
-Dominant artist           : Silverchair
-Cadence classification    : HIGH
+Week window (UTC)         : 2026-11-14 03:16:38Z → 2026-11-21 03:16:38Z
+Tracks played (7d)        : 96
+Dominant artist           : Rage Against The Machine
+Cadence classification    : VERY HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 15
-Avg inter-play gap        : 02:02:38
+Sessions (24h)            : 5
+Sessions (7d)             : 18
+Avg inter-play gap        : 01:34:21
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(1) | post-grunge(1)
-Top genres (7d)           : alternative metal(25) | nu metal(24) | rap metal(24) | rap rock(24) | grunge(18) | post-grunge(18)
+Top genres (24h)          : grunge(26) | post-grunge(20) | alternative metal(8) | funk rock(7) | noise rock(5) | groove metal(4)
+Top genres (7d)           : grunge(40) | post-grunge(34) | alternative metal(32) | nu metal(27) | rap metal(27) | rap rock(26)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Rage Against The Machine — Bombtrack → Linkin Park — By Myself
+Playback timestamp Δ      : 2026-11-20 19:22:43Z → 2026-11-20 23:53:10Z
 State transition          : NO CHANGE
-Telemetry interval        : 06:41:54
+Telemetry interval        : 05:24:27
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 826
+Events retained           : 858
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-19 03:25:31 -03
-Events (24h)              : 4
-Events (7d)               : 69
-Events (30d)              : 328
-Playlist contexts retained: 153
+Newest retained event     : 2026-11-20 20:53:10 -03
+Events (24h)              : 32
+Events (7d)               : 96
+Events (30d)              : 350
+Playlist contexts retained: 181
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1722,7 +1722,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-20 03:29:27Z
+Report generated (UTC)    : 2026-11-21 03:16:38Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2080,7 +2080,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 19 November 2026
+From: 04 December 2023 - To: 20 November 2026
 
 Total Time       : 1,076 hrs 11 mins
 Mostly coding in : Other
@@ -2161,7 +2161,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 20/11/2026 00:12:42 UTC
+Last updated     : 21/11/2026 05:19:44 UTC
 
 ```
 <!--END_SECTION:wakastats-->
