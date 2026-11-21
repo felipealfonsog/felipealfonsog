@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-20 23:53:10Z
 Played at (local)         : 2026-11-20 20:53:10 -03
 Local hour                : 20:00
 Daypart                   : EVENING
-Time since play           : 03:23:29
+Time since play           : 12:54:53
 Gap from previous play    : 00:05:47
 ------------------------------------------------------------
 Previous song             : Rage Against The Machine — Wake Up
@@ -1654,7 +1654,7 @@ Daily activity status     : HIGH
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-14 03:16:38Z → 2026-11-21 03:16:38Z
+Week window (UTC)         : 2026-11-14 12:48:02Z → 2026-11-21 12:48:02Z
 Tracks played (7d)        : 96
 Dominant artist           : Rage Against The Machine
 Cadence classification    : VERY HIGH
@@ -1674,10 +1674,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Rage Against The Machine — Bombtrack → Linkin Park — By Myself
-Playback timestamp Δ      : 2026-11-20 19:22:43Z → 2026-11-20 23:53:10Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 05:24:27
+Telemetry interval        : 09:31:25
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1686,7 +1686,7 @@ Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-20 20:53:10 -03
 Events (24h)              : 32
 Events (7d)               : 96
-Events (30d)              : 350
+Events (30d)              : 342
 Playlist contexts retained: 181
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-21 03:16:38Z
+Report generated (UTC)    : 2026-11-21 12:48:02Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
