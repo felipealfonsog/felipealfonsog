@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-22 07:09:49Z
 Played at (local)         : 2026-11-22 04:09:49 -03
 Local hour                : 04:00
 Daypart                   : NIGHT
-Time since play           : 10:43:33
+Time since play           : 16:29:38
 Gap from previous play    : 30:58:09
 ------------------------------------------------------------
 Previous song             : Limp Bizkit — Nookie
@@ -1654,7 +1654,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-15 17:53:21Z → 2026-11-22 17:53:21Z
+Week window (UTC)         : 2026-11-15 23:39:26Z → 2026-11-22 23:39:26Z
 Tracks played (7d)        : 72
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 07:57:32
+Telemetry interval        : 05:46:06
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-22 17:53:21Z
+Report generated (UTC)    : 2026-11-22 23:39:26Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
