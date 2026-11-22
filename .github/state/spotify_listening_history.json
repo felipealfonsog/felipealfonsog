@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-22 02:19:22Z",
+  "updated_utc": "2026-11-22 09:55:50Z",
   "events": [
+    {
+      "track": "Tomasz Stanko Quintet — Terminal 7",
+      "artist": "Tomasz Stanko Quintet",
+      "title": "Terminal 7",
+      "album": "Dark Eyes",
+      "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+      "url": "https://open.spotify.com/track/2qPNrEIImCaJ47KCKXBFAh",
+      "artist_ids": [
+        "58Ieh2itn2s2DnnTA3mwTE"
+      ],
+      "played_at_utc": "2026-11-22 07:09:49Z",
+      "played_at_local": "2026-11-22 04:09:49 -03",
+      "local_hour": 4,
+      "weekday": 6,
+      "context_type": "playlist",
+      "context_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "context_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_id": "7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_name": "Homeland (TV Series) Jazz Collection",
+      "playlist_uri": "spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi",
+      "playlist_url": "https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi"
+    },
+    {
+      "track": "Limp Bizkit — Nookie",
+      "artist": "Limp Bizkit",
+      "title": "Nookie",
+      "album": "Significant Other",
+      "uri": "spotify:track:1TEZWG1FdjzDdercCguTwj",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj",
+      "artist_ids": [
+        "165ZgPlLkK7bf5bDoFc6Sb"
+      ],
+      "played_at_utc": "2026-11-21 00:11:40Z",
+      "played_at_local": "2026-11-20 21:11:40 -03",
+      "local_hour": 21,
+      "weekday": 4,
+      "context_type": "album",
+      "context_uri": "spotify:album:4LaRYkT4oy47wEuQgkLBul",
+      "context_url": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
+    },
     {
       "track": "Linkin Park — By Myself",
       "artist": "Linkin Park",
