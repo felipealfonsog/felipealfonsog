@@ -1,8 +1,26 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-22 23:39:26Z",
+  "updated_utc": "2026-11-23 07:52:20Z",
   "events": [
+    {
+      "track": "Radiohead — Paranoid Android",
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "album": "OK Computer",
+      "uri": "spotify:track:6LgJvl0Xdtc73RJ1mmpotq",
+      "url": "https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ],
+      "played_at_utc": "2026-11-22 08:41:10Z",
+      "played_at_local": "2026-11-22 05:41:10 -03",
+      "local_hour": 5,
+      "weekday": 6,
+      "context_type": "album",
+      "context_uri": "spotify:album:6dVIqQ8qmQ5GBnJ9shOYGE",
+      "context_url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+    },
     {
       "track": "Tomasz Stanko Quintet — Terminal 7",
       "artist": "Tomasz Stanko Quintet",
