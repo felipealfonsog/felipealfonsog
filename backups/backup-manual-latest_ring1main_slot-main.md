@@ -89,6 +89,9 @@ Integrity, transparency, and coherence shape both my work and my personal journe
 
 If you harbor aspirations in business, entrepreneurship, consultancy, research, or collaboration, do not hesitate to reach out. Should you be in [Santiago](https://en.wikipedia.org/wiki/Santiago), I would be delighted to engage in a thoughtful conversation over coffee ☕️ 💬 or online. You can find my contact information [here](https://github.com/felipealfonsog#how-to-reach-me), visit my [LinkedIn](https://linkedin.com/in/felipealfonsog), my [X (Twitter)](https://twitter.com/felipealfonsog), at [felipe.gnlz.cl](https://felipe.gnlz.cl/) — [gnlz.cl](https://gnlz.cl/), [here](https://freeshell.de/~felipe/), my [Telegram](https://t.me/felipealfonsog) or just 📨 [email-me](mailto:felipe.alfonso.glz@gmail.com). 
 
+∴ L ∴ I ∴ F ∴
+
+
 <!-- 
 https://www.paypal.com/donate/?hosted_button_id=3DBTCL6RZ2HN8
 
@@ -536,7 +539,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-08T05:50:21+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-24T09:42:06+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -706,13 +709,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 189 ms
-TTFB................ 188 ms
+LATENCY............. 226 ms
+TTFB................ 225 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 53d
+TLS_EXPIRY.......... 35d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -741,7 +744,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-07T09:50:09Z
+LAST_PROBE_UTC...... 2026-11-24T13:28:17Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -781,19 +784,19 @@ Presence Vector Telemetry — Remote Node
 ────────────────────────────────────────────
 region         : Santiago, Chile
 zone           : Santiago Centro
-location       : urban_sector
-latitude       : -33.443865
-longitude      : -70.650691
-altitude       : 81 m
-gps_accuracy   : ±5.8 m
-heading        : 0°
-speed          : 0.1 km/h
-status         : low_movement
-phase          : overnight
-local_time     : 00:21
+location       : transit_corridor
+latitude       : -33.446460
+longitude      : -70.661895
+altitude       : 47 m
+gps_accuracy   : ±8.0 m
+heading        : 246°
+speed          : 0.8 km/h
+status         : stationary
+phase          : workday
+local_time     : 13:42
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-11-08 03:21:57 UTC
+updated_utc    : 2026-11-24 16:42:27 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -912,7 +915,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-08 06:14:22Z
+DSN snapshot (UTC)       : 2026-11-24 10:01:44Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -923,15 +926,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.88e9 km | 172.984 AU
-Heliocentric distance    : 172.290 AU
-Relative speed           : 40.820 km/s
+Earth distance           : 25.91e9 km | 173.228 AU
+Heliocentric distance    : 172.448 AU
+Relative speed           : 38.278 km/s
 ------------------------------------------------------------
-One-way light time       : 23:58:40
-Round-trip latency       : 47:57:19
+One-way light time       : 24:00:42
+Round-trip latency       : 48:01:24
 ------------------------------------------------------------
-Δ distance (since last)  : +875,779 km
-Mission age              : 49 years, 76 days
+Δ distance (since last)  : +833,205 km
+Mission age              : 49 years, 92 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -942,19 +945,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.65e9 km | 144.746 AU
-Heliocentric distance    : 144.418 AU
-Relative speed           : 41.329 km/s
+Earth distance           : 21.70e9 km | 145.068 AU
+Heliocentric distance    : 144.558 AU
+Relative speed           : 40.345 km/s
 ------------------------------------------------------------
-One-way light time       : 20:03:49
-Round-trip latency       : 40:07:38
+One-way light time       : 20:06:30
+Round-trip latency       : 40:12:59
 ------------------------------------------------------------
-Δ distance (since last)  : +1.081e6 km
-Mission age              : 49 years, 92 days
+Δ distance (since last)  : +1.179e6 km
+Mission age              : 49 years, 108 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-08 06:14:26Z
+Report generated (UTC)   : 2026-11-24 10:01:46Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1498,178 +1501,178 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Soundgarden — Overfloater
-Artist                    : Soundgarden
-Title                     : Overfloater
-Album                     : Down On The Upside
-Spotify URI               : spotify:track:1U8v17QBWhtJqLmJxk4Sr6
-Spotify URL               : https://open.spotify.com/track/1U8v17QBWhtJqLmJxk4Sr6
+Track                     : Radiohead — Paranoid Android
+Artist                    : Radiohead
+Title                     : Paranoid Android
+Album                     : OK Computer
+Spotify URI               : spotify:track:6LgJvl0Xdtc73RJ1mmpotq
+Spotify URL               : https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-07 10:27:24Z
-Played at (local)         : 2026-11-07 07:27:24 -03
-Local hour                : 07:00
-Daypart                   : MORNING
-Time since play           : 15:03:01
-Gap from previous play    : 00:05:08
+Played at (UTC)           : 2026-11-22 08:41:10Z
+Played at (local)         : 2026-11-22 05:41:10 -03
+Local hour                : 05:00
+Daypart                   : NIGHT
+Time since play           : 57:15:00
+Gap from previous play    : 01:31:21
 ------------------------------------------------------------
-Previous song             : Soundgarden — Switch Opens
-Same artist as previous   : YES
+Previous song             : Tomasz Stanko Quintet — Terminal 7
+Same artist as previous   : NO
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 19
+Artist plays (retained)   : 9
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Soundgarden — Switch Opens | 2026-11-07 07:22:16 -03
-Previous track #2         : Soundgarden — No Attention | 2026-11-07 07:18:23 -03
-Previous track #3         : Soundgarden — Tighter & Tighter | 2026-11-07 07:13:56 -03
-Previous track #4         : Soundgarden — Never The Machine Forever | 2026-11-07 07:07:50 -03
-Previous track #5         : Soundgarden — Applebite | 2026-11-07 07:04:13 -03
-Previous track #6         : Soundgarden — Never Named | 2026-11-07 06:59:04 -03
-Previous track #7         : Soundgarden — Burden In My Hand | 2026-11-07 06:56:36 -03
-Previous track #8         : Soundgarden — Blow Up The Outside World | 2026-11-07 06:51:46 -03
-Previous track #9         : Oasis — Slide Away - Remastered | 2026-11-04 18:58:54 -03
-Previous track #10        : Oasis — Supersonic - Remastered | 2026-11-04 17:56:29 -03
-Previous track #11        : Oasis — Supersonic - Remastered | 2026-11-04 17:48:44 -03
-Previous track #12        : Soundgarden — Dusty | 2026-11-04 17:38:34 -03
-Previous track #13        : Soundgarden — Dusty | 2026-11-04 05:45:01 -03
-Previous track #14        : Soundgarden — Zero Chance | 2026-11-04 05:36:46 -03
-Previous track #15        : Soundgarden — Rhinosaur | 2026-11-04 05:32:27 -03
-Previous track #16        : Soundgarden — Pretty Noose | 2026-11-04 05:29:13 -03
-Previous track #17        : Days Of The New — Shelf In The Room | 2026-11-04 05:24:17 -03
-Previous track #18        : Mad Season — Locomotive | 2026-11-04 05:10:28 -03
-Previous track #19        : Tomasz Stanko Quintet — Terminal 7 | 2026-11-04 02:51:32 -03
-Previous track #20        : Oasis — Columbia - Remastered White Label Demo | 2026-11-02 10:07:12 -03
-Previous track #21        : Oasis — Married with Children - Remastered | 2026-11-02 09:51:56 -03
-Previous track #22        : Oasis — Slide Away - Remastered | 2026-11-02 09:48:41 -03
-Previous track #23        : Oasis — Digsy's Dinner - Remastered | 2026-11-02 09:42:08 -03
-Previous track #24        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 09:39:36 -03
-Previous track #25        : Oasis — Bring It on Down - Remastered | 2026-11-02 09:34:47 -03
-Previous track #26        : Oasis — Supersonic - Remastered | 2026-11-02 09:30:29 -03
-Previous track #27        : Oasis — Supersonic - Remastered | 2026-11-02 09:25:37 -03
-Previous track #28        : Oasis — Supersonic - Remastered | 2026-11-02 08:05:56 -03
-Previous track #29        : Oasis — Cigarettes & Alcohol - Remastered | 2026-11-02 07:33:00 -03
-Previous track #30        : Oasis — Bring It on Down - Remastered | 2026-11-02 07:25:40 -03
-Previous track #31        : Oasis — Supersonic - Remastered | 2026-11-02 07:21:17 -03
-Previous track #32        : Oasis — Supersonic - Remastered | 2026-11-02 07:09:42 -03
-Previous track #33        : Oasis — Supersonic - Remastered | 2026-10-31 20:27:38 -03
-Previous track #34        : Oasis — Supersonic - Remastered | 2026-10-31 19:54:19 -03
-Previous track #35        : Oasis — Supersonic - Remastered | 2026-10-31 19:25:47 -03
-Previous track #36        : Oasis — Take Me Away - Remastered | 2026-10-31 18:26:40 -03
-Previous track #37        : Oasis — I Will Believe - Remastered Live | 2026-10-31 18:26:09 -03
-Previous track #38        : Oasis — Sad Song - Remastered | 2026-10-31 18:22:20 -03
-Previous track #39        : Oasis — Cigarettes & Alcohol - Remastered Demo | 2026-10-31 18:17:51 -03
-Previous track #40        : Oasis — Columbia - Remastered White Label Demo | 2026-10-31 18:13:13 -03
+Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-22 04:09:49 -03
+Previous track #2         : Limp Bizkit — Nookie | 2026-11-20 21:11:40 -03
+Previous track #3         : Linkin Park — By Myself | 2026-11-20 20:53:10 -03
+Previous track #4         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
+Previous track #5         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
+Previous track #6         : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
+Previous track #7         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
+Previous track #8         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
+Previous track #9         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
+Previous track #10        : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
+Previous track #11        : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
+Previous track #12        : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
+Previous track #13        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
+Previous track #14        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
+Previous track #15        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
+Previous track #16        : Helmet — Unsung | 2026-11-20 14:39:12 -03
+Previous track #17        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
+Previous track #18        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
+Previous track #19        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
+Previous track #20        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
+Previous track #21        : Silverchair — Shade | 2026-11-20 13:49:56 -03
+Previous track #22        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
+Previous track #23        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
+Previous track #24        : Second Coming — Soft | 2026-11-20 13:33:31 -03
+Previous track #25        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
+Previous track #26        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
+Previous track #27        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
+Previous track #28        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
+Previous track #29        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
+Previous track #30        : Tad — Grease Box | 2026-11-20 13:05:40 -03
+Previous track #31        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
+Previous track #32        : Helmet — Give It | 2026-11-20 12:57:11 -03
+Previous track #33        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
+Previous track #34        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
+Previous track #35        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
+Previous track #36        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
+Previous track #37        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
+Previous track #38        : Silverchair — Faultline | 2026-11-19 03:15:50 -03
+Previous track #39        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
+Previous track #40        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
 Last playlist             : Homeland (TV Series) Jazz Collection
-Context observed (local)  : 2026-11-04 02:51:32 -03
+Context observed (local)  : 2026-11-22 04:09:49 -03
 Track observed in context : Tomasz Stanko Quintet — Terminal 7
 Spotify playlist URI      : spotify:playlist:7JXlBtb1ZZOWAJEGMtZzvi
 Spotify playlist URL      : https://open.spotify.com/playlist/7JXlBtb1ZZOWAJEGMtZzvi
 ------------------------------------------------------------
-Previous playlist #1      : N/A | 2026-10-22 06:23:12 -03
-Previous playlist #2      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
-Previous playlist #3      : N/A | 2026-09-26 21:36:29 -03
-Previous playlist #4      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
-Previous playlist #5      : N/A | 2026-09-25 00:06:20 -03
-Previous playlist #6      : Homeland (TV Series) Jazz Collection | 2026-09-24 04:03:15 -03
-Previous playlist #7      : How To Get Into The Fierce And The Dead  | 2026-09-17 14:36:15 -03
-Previous playlist #8      : N/A | 2026-09-11 22:51:56 -03
-Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-11 14:43:00 -03
+Previous playlist #1      : N/A | 2026-11-20 16:18:30 -03
+Previous playlist #2      : Calming Sleep Music  | 2026-11-20 13:17:41 -03
+Previous playlist #3      : N/A | 2026-11-20 13:17:11 -03
+Previous playlist #4      : Calming Sleep Music  | 2026-11-19 03:25:31 -03
+Previous playlist #5      : Homeland (TV Series) Jazz Collection | 2026-11-18 14:28:59 -03
+Previous playlist #6      : N/A | 2026-10-22 06:23:12 -03
+Previous playlist #7      : Homeland (TV Series) Jazz Collection | 2026-10-21 13:07:48 -03
+Previous playlist #8      : N/A | 2026-09-26 21:36:29 -03
+Previous playlist #9      : Homeland (TV Series) Jazz Collection | 2026-09-26 11:18:05 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYBACK CONTEXT
 ------------------------------------------------------------
 Last known device type    : Computer
 Last known device name    : Felipe’s MacBook Air Silicon
-Last known volume         : 100%
+Last known volume         : 90%
 Volume telemetry          : OK
-Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇█
-Context observed (UTC)    : 2026-10-31 18:37:57Z
+Volume bar                : ▁▁▂▃▃▄▅▅▆▇▇
+Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 33
-Unique tracks             : 23
-Unique artists            : 5
-Replay ratio              : █████░░░░░░░░░░░░░  30.3%
-Artist diversity          : ███░░░░░░░░░░░░░░░  15.2%
-Dominant artist           : Oasis
-Dominant artist share     : █████████░░░░░░░░░  48.5%
-Artist switch ratio       : ███░░░░░░░░░░░░░░░  18.8%
-Longest artist streak     : Oasis × 13
+Observed events           : 72
+Unique tracks             : 67
+Unique artists            : 28
+Replay ratio              : █░░░░░░░░░░░░░░░░░  6.9%
+Artist diversity          : ███████░░░░░░░░░░░  38.9%
+Dominant artist           : Rage Against The Machine
+Dominant artist share     : ████░░░░░░░░░░░░░░  19.4%
+Artist switch ratio       : ████████████░░░░░░  64.8%
+Longest artist streak     : Morphine × 13
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : ████░░░░░░░░░░░░░░   21.2%
-Morning    06–12           : ████████████░░░░░░   66.7%
-Afternoon  12–18           : ██░░░░░░░░░░░░░░░░    9.1%
-Evening    18–24           : █░░░░░░░░░░░░░░░░░    3.0%
-Dominant period           : MORNING
+Night      00–06           : █░░░░░░░░░░░░░░░░░    8.3%
+Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
+Afternoon  12–18           : ████████████░░░░░░   65.3%
+Evening    18–24           : █████░░░░░░░░░░░░░   26.4%
+Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-02 10:09:42Z
-History last play (7d)    : 2026-11-07 10:27:24Z
-Observed time span        : 120:17:42
-Mean inter-play gap       : 03:45:33
-Median inter-play gap     : 00:05:38
-Longest inactivity gap    : 59:52:52
-Listening intensity       : 0.27 tracks/hour
+History first play (7d)   : 2026-11-18 15:12:35Z
+History last play (7d)    : 2026-11-22 08:41:10Z
+Observed time span        : 89:28:35
+Mean inter-play gap       : 01:15:37
+Median inter-play gap     : 00:05:16
+Longest inactivity gap    : 33:23:30
+Listening intensity       : 0.80 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : 07:00
-Peak hour (7d)            : 07:00
-Heatmap (24h)             :       ▄█                
-Heatmap (7d)              :   ▁  ▅▂█▁▆▁      ▂▁     
+Peak hour (24h)           : N/A
+Peak hour (7d)            : 13:00
+Heatmap (24h)             : N/A
+Heatmap (7d)              :    ▂▁▁      ▃█▅▇▁▂ ▂▇▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        : █ ▇  ▆ 
+Activity (Mon→Sun)        :   █▁█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▆          ▁▁      ▄█▅ ▁ ▁  ▁
+Activity trend (30d)      :    ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
 ------------------------------------------------------------
-Mon                       :        ▅▁█▁             
+Mon                       :                         
 Tue                       :                         
-Wed                       :   ▁  █           ▄▁     
-Thu                       :                         
-Fri                       :                         
-Sat                       :       ▄█                
-Sun                       :                         
+Wed                       :             ▁▁▂▅ ▁ ▃█   
+Thu                       :    █                    
+Fri                       :             ▂█▄▃▁▁  ▁▁  
+Sat                       :                         
+Sun                       :     ██                  
 Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 9
-Dominant artist           : Soundgarden
-Listening pattern         : Light activity
-Daily activity status     : LOW
+Tracks played (last 24h)  : 0
+Dominant artist           : N/A
+Listening pattern         : No activity
+Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-01 01:30:24Z → 2026-11-08 01:30:24Z
-Tracks played (7d)        : 33
-Dominant artist           : Oasis
-Cadence classification    : MEDIUM
+Week window (UTC)         : 2026-11-17 17:56:09Z → 2026-11-24 17:56:09Z
+Tracks played (7d)        : 72
+Dominant artist           : Rage Against The Machine
+Cadence classification    : HIGH
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap        : 03:45:33
+Sessions (24h)            : N/A
+Sessions (7d)             : 14
+Avg inter-play gap        : 01:15:37
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : grunge(9) | hard rock(9) | post-grunge(9)
-Top genres (7d)           : britpop(16) | grunge(16) | post-grunge(16) | hard rock(14) | ambient jazz(1) | free jazz(1)
+Top genres (24h)          : N/A
+Top genres (7d)           : grunge(30) | alternative metal(23) | post-grunge(23) | nu metal(19) | rap metal(19) | rap rock(18)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1677,17 +1680,17 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 03:31:15
+Telemetry interval        : 13:05:02
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 709
+Events retained           : 861
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-07 07:27:24 -03
-Events (24h)              : 9
-Events (7d)               : 33
-Events (30d)              : 272
-Playlist contexts retained: 141
+Newest retained event     : 2026-11-22 05:41:10 -03
+Events (24h)              : 0
+Events (7d)               : 72
+Events (30d)              : 338
+Playlist contexts retained: 182
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
 ------------------------------------------------------------
@@ -1715,7 +1718,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-08 01:30:24Z
+Report generated (UTC)    : 2026-11-24 17:56:09Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2073,31 +2076,31 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 07 November 2026
+From: 04 December 2023 - To: 24 November 2026
 
-Total Time       : 1,075 hrs 41 mins
+Total Time       : 1,076 hrs 11 mins
 Mostly coding in : Other
-Daily average    : 1 hrs 0 mins
+Daily average    : 59 mins
 Best day         : 2026-10-30 — 20 hrs 25 mins
 Time zone        : America/Santiago
 Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          990 hrs 17 mins ●●●●●●●●●●●●●●●●●●●●●●●◔○○  92.06 %
-Bash           177 hrs 11 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.47 %
+Other          1,037 hrs 16 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  96.38 %
+Bash           177 hrs 34 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
 Python         142 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.22 %
 HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
 PHP            109 hrs 13 mins ●●◔○○○○○○○○○○○○○○○○○○○○○○○  10.15 %
-Markdown       80 hrs 52 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.52 %
-C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.11 %
+Markdown       80 hrs 52 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.51 %
+C              76 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   7.10 %
 Text           40 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.76 %
 C++            39 hrs 59 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.72 %
-YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.55 %
+YAML           38 hrs 8 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.54 %
 INI            36 hrs 23 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.38 %
 JavaScript     35 hrs 50 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.33 %
 CSS            22 hrs 4 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
-Common Lisp    21 hrs 57 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.04 %
+Common Lisp    22 hrs 3 mins  ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.05 %
 TeX            13 hrs 34 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.26 %
 Apache Config  12 hrs 7 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.13 %
 Vim Script     12 hrs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.12 %
@@ -2112,49 +2115,49 @@ apache         4 hrs          ○○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,347 hrs 30 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.47 %
+Mac            1,394 hrs 59 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.44 %
 
 EDITORS - APPS
 --------------
-Firefox        688 hrs 50 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  64.04 %
-VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.32 %
-Vim            338 hrs 19 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
-Terminal       64 hrs 39 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
-Spotify        60 hrs 41 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.64 %
-‎WhatsApp      40 hrs 34 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   3.77 %
+Firefox        710 hrs 43 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.04 %
+VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.29 %
+Vim            338 hrs 28 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
+Spotify        73 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.82 %
+Terminal       64 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
+‎WhatsApp      46 hrs 12 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.29 %
+Acrobat        28 hrs 30 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.65 %
 Pages          28 hrs 24 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.64 %
-Acrobat        26 hrs 52 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.50 %
-Termius        24 hrs 13 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.25 %
+Termius        24 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
 Dia            22 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.09 %
-FileZilla      20 hrs 1 min   ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.86 %
+FileZilla      20 hrs 5 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.87 %
 TeXstudio      14 hrs 55 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.39 %
+Chrome         13 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.22 %
 Notes          12 hrs 30 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.16 %
-Codex Vscode   11 hrs 56 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.11 %
+Codex Vscode   12 hrs 4 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.12 %
 TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
-Chrome         9 hrs 37 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.89 %
 Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-Preview        6 hrs 1 min    ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.56 %
-Zoom           4 hrs 34 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.43 %
+Preview        6 hrs 5 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
+Zoom           5 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
 Skim           4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
-TorBrowser     2 hrs 25 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.23 %
+TorBrowser     2 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.27 %
 Cyberduck      1 hr 19 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.12 %
 TeXShop        51 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.08 %
 Textmate       44 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.07 %
-Telegram       21 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.03 %
+Telegram       23 mins        ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.04 %
 
 CATEGORIES
 ----------
-Coding         1,284 hrs 10 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       686 hrs 56 mins ●●●●●●●●●●●●●●●●◔○○○○○○○○○  63.86 %
-Meeting        49 hrs 9 mins  ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.57 %
-AI Coding      28 hrs 27 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.65 %
+Coding         1,299 hrs 31 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       712 hrs 20 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.19 %
+Meeting        55 hrs 42 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.18 %
+AI Coding      28 hrs 38 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.66 %
 Writing Docs   17 hrs 14 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 08/11/2026 04:00:24 UTC
+Last updated     : 24/11/2026 16:53:06 UTC
 
 ```
 <!--END_SECTION:wakastats-->
