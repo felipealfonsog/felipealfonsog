@@ -1509,7 +1509,7 @@ Played at (UTC)           : 2026-11-22 08:41:10Z
 Played at (local)         : 2026-11-22 05:41:10 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 35:38:57
+Time since play           : 44:09:59
 Gap from previous play    : 01:31:21
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quintet — Terminal 7
@@ -1631,7 +1631,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   █▁█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :     ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄   
+Activity trend (30d)      :    ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄    
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1654,7 +1654,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-16 20:20:06Z → 2026-11-23 20:20:06Z
+Week window (UTC)         : 2026-11-17 04:51:08Z → 2026-11-24 04:51:08Z
 Tracks played (7d)        : 72
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1677,7 +1677,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 12:27:47
+Telemetry interval        : 08:31:03
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1715,7 +1715,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-23 20:20:06Z
+Report generated (UTC)    : 2026-11-24 04:51:08Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
