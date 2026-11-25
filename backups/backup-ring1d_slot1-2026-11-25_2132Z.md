@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-24_2215Z
+ snapshot_utc : 2026-11-25_2132Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -546,7 +546,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-24T09:42:06+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-25T08:16:10+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -716,13 +716,13 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 226 ms
-TTFB................ 225 ms
+LATENCY............. 244 ms
+TTFB................ 243 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
 TLS_POSTURE......... ACCEPTABLE
-TLS_EXPIRY.......... 35d
+TLS_EXPIRY.......... 34d
 EDGE_SIGNAL......... PRESENT
 ORIGIN_EXPOSURE..... EDGE MASKED
 DNS_FOOTPRINT....... CLEAN
@@ -751,7 +751,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-24T13:28:17Z
+LAST_PROBE_UTC...... 2026-11-25T12:26:16Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -792,18 +792,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446460
-longitude      : -70.661895
-altitude       : 47 m
-gps_accuracy   : ±8.0 m
-heading        : 246°
-speed          : 0.8 km/h
-status         : stationary
+latitude       : -33.446093
+longitude      : -70.661570
+altitude       : 15 m
+gps_accuracy   : ±4.0 m
+heading        : 20°
+speed          : 3.7 km/h
+status         : walking
 phase          : workday
-local_time     : 13:42
+local_time     : 13:27
 timezone       : America/Santiago
 signal         : stable
-updated_utc    : 2026-11-24 16:42:27 UTC
+updated_utc    : 2026-11-25 16:27:05 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -922,7 +922,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-24 10:01:44Z
+DSN snapshot (UTC)       : 2026-11-25 08:46:39Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -933,15 +933,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.91e9 km | 173.228 AU
-Heliocentric distance    : 172.448 AU
-Relative speed           : 38.278 km/s
+Earth distance           : 25.92e9 km | 173.241 AU
+Heliocentric distance    : 172.457 AU
+Relative speed           : 38.114 km/s
 ------------------------------------------------------------
-One-way light time       : 24:00:42
-Round-trip latency       : 48:01:24
+One-way light time       : 24:00:48
+Round-trip latency       : 48:01:36
 ------------------------------------------------------------
-Δ distance (since last)  : +833,205 km
-Mission age              : 49 years, 92 days
+Δ distance (since last)  : +834,153 km
+Mission age              : 49 years, 93 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -952,19 +952,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.70e9 km | 145.068 AU
-Heliocentric distance    : 144.558 AU
-Relative speed           : 40.345 km/s
+Earth distance           : 21.70e9 km | 145.086 AU
+Heliocentric distance    : 144.567 AU
+Relative speed           : 40.271 km/s
 ------------------------------------------------------------
-One-way light time       : 20:06:30
-Round-trip latency       : 40:12:59
+One-way light time       : 20:06:38
+Round-trip latency       : 40:13:17
 ------------------------------------------------------------
-Δ distance (since last)  : +1.179e6 km
-Mission age              : 49 years, 108 days
+Δ distance (since last)  : +1.191e6 km
+Mission age              : 49 years, 109 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-24 10:01:46Z
+Report generated (UTC)   : 2026-11-25 08:46:43Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1519,7 +1519,7 @@ Played at (UTC)           : 2026-11-22 08:41:10Z
 Played at (local)         : 2026-11-22 05:41:10 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 57:15:00
+Time since play           : 77:54:42
 Gap from previous play    : 01:31:21
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quintet — Terminal 7
@@ -1641,7 +1641,7 @@ WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
 Activity (Mon→Sun)        :   █▁█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :    ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄    
+Activity trend (30d)      :   ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄     
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1664,7 +1664,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-17 17:56:09Z → 2026-11-24 17:56:09Z
+Week window (UTC)         : 2026-11-18 14:35:51Z → 2026-11-25 14:35:51Z
 Tracks played (7d)        : 72
 Dominant artist           : Rage Against The Machine
 Cadence classification    : HIGH
@@ -1687,7 +1687,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 13:05:02
+Telemetry interval        : 12:00:06
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1725,7 +1725,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-24 17:56:09Z
+Report generated (UTC)    : 2026-11-25 14:35:51Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2164,7 +2164,7 @@ Building       0 secs         ○○○○○○○○○○○○○○○○�
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 24/11/2026 16:53:06 UTC
+Last updated     : 25/11/2026 16:41:20 UTC
 
 ```
 <!--END_SECTION:wakastats-->
