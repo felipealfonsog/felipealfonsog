@@ -1512,7 +1512,7 @@ Played at (UTC)           : 2026-11-22 08:41:10Z
 Played at (local)         : 2026-11-22 05:41:10 -03
 Local hour                : 05:00
 Daypart                   : NIGHT
-Time since play           : 98:22:39
+Time since play           : 109:01:25
 Gap from previous play    : 01:31:21
 ------------------------------------------------------------
 Previous song             : Tomasz Stanko Quintet — Terminal 7
@@ -1657,7 +1657,7 @@ Daily activity status     : NONE
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-19 11:03:49Z → 2026-11-26 11:03:49Z
+Week window (UTC)         : 2026-11-19 21:42:35Z → 2026-11-26 21:42:35Z
 Tracks played (7d)        : 35
 Dominant artist           : Mother Love Bone
 Cadence classification    : MEDIUM
@@ -1680,7 +1680,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 10:32:44
+Telemetry interval        : 10:38:46
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1718,7 +1718,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-26 11:03:49Z
+Report generated (UTC)    : 2026-11-26 21:42:35Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
