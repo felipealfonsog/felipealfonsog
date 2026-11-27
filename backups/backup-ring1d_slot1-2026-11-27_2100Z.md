@@ -1,5 +1,5 @@
 <!--
- snapshot_utc : 2026-11-26_2120Z
+ snapshot_utc : 2026-11-27_2100Z
  ring_days    : 1
  slot         : 1/2
  period_hours : 12
@@ -546,7 +546,7 @@ ICONOS INICIALES INLINE SVG1
 ```text
 # Goodreads Telemetry
 # Structured shelf telemetry derived from Goodreads RSS with validated caching continuity.
-# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-26T08:01:38+00:00 | source=goodreads_rss
+# status=source_unavailable_using_cache | mode=cache | sync=2026-10-27T17:55:20+00:00 | last_update=2026-11-27T08:07:44+00:00 | source=goodreads_rss
 
 [currently_reading] shelf=currently-reading books=30 limit=30
 01. Complete Works of Lucius Annaeus Seneca. Illustrated: Tragedies. Epistles. Essays. Seneca's Letters from a Stoic and others — Seneca
@@ -716,8 +716,8 @@ TARGET.............. gnlz.cl
 PROFILE............. FULL-SPECTRUM
 STATUS.............. ONLINE
 HTTP................ 200 OK
-LATENCY............. 238 ms
-TTFB................ 238 ms
+LATENCY............. 206 ms
+TTFB................ 205 ms
 UPTIME_24H.......... 100.000%
 UPTIME_7D........... 99.987%
 UPTIME_30D.......... 99.982%
@@ -751,7 +751,7 @@ BOT_RATIO........... 11.8%
 CACHE_SIGNAL........ ACTIVE
 CONTENT_LENGTH...... 10 KB
 ANOMALY_SIGNAL...... NONE
-LAST_PROBE_UTC...... 2026-11-26T12:07:49Z
+LAST_PROBE_UTC...... 2026-11-27T11:56:56Z
 DATA_STATE.......... LIVE
 PROBE_CONFIDENCE.... HIGH
 ```
@@ -792,18 +792,18 @@ Presence Vector Telemetry — Remote Node
 region         : Santiago, Chile
 zone           : Santiago Centro
 location       : transit_corridor
-latitude       : -33.446413
-longitude      : -70.661717
-altitude       : 143 m
-gps_accuracy   : ±6.5 m
-heading        : 180°
-speed          : 7.0 km/h
-status         : meeting
+latitude       : -33.446346
+longitude      : -70.661664
+altitude       : 146 m
+gps_accuracy   : ±4.5 m
+heading        : 28°
+speed          : 6.0 km/h
+status         : walking
 phase          : workday
-local_time     : 13:00
+local_time     : 12:49
 timezone       : America/Santiago
-signal         : strong
-updated_utc    : 2026-11-26 16:00:11 UTC
+signal         : stable
+updated_utc    : 2026-11-27 15:49:42 UTC
 ```
 <!-- telemetry-presence:end -->
 
@@ -922,7 +922,7 @@ A reminder that we are star-stuff — and that the universe can be understood, m
 VOYAGER TELEMETRY — CLI FEED (NASA/JPL)
 ------------------------------------------------------------
 DSN endpoint (source)    : https://eyes.jpl.nasa.gov/dsn/data/dsn.xml
-DSN snapshot (UTC)       : 2026-11-26 08:32:14Z
+DSN snapshot (UTC)       : 2026-11-27 08:45:15Z
 ------------------------------------------------------------
 Target                   : VOYAGER 1
 SITREP                   : AMBER
@@ -933,15 +933,15 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 25.92e9 km | 173.254 AU
-Heliocentric distance    : 172.467 AU
-Relative speed           : 37.941 km/s
+Earth distance           : 25.92e9 km | 173.266 AU
+Heliocentric distance    : 172.476 AU
+Relative speed           : 37.763 km/s
 ------------------------------------------------------------
-One-way light time       : 24:00:54
-Round-trip latency       : 48:01:49
+One-way light time       : 24:01:01
+Round-trip latency       : 48:02:02
 ------------------------------------------------------------
-Δ distance (since last)  : +860,706 km
-Mission age              : 49 years, 94 days
+Δ distance (since last)  : +872,189 km
+Mission age              : 49 years, 95 days
 ------------------------------------------------------------
 Target                   : VOYAGER 2
 SITREP                   : AMBER
@@ -952,19 +952,19 @@ Downlink                 : INACTIVE
 Uplink                   : INACTIVE
 Signal (power/freq)      : N/A
 ------------------------------------------------------------
-Earth distance           : 21.71e9 km | 145.104 AU
-Heliocentric distance    : 144.575 AU
-Relative speed           : 40.193 km/s
+Earth distance           : 21.71e9 km | 145.123 AU
+Heliocentric distance    : 144.584 AU
+Relative speed           : 40.113 km/s
 ------------------------------------------------------------
-One-way light time       : 20:06:48
-Round-trip latency       : 40:13:35
+One-way light time       : 20:06:57
+Round-trip latency       : 40:13:54
 ------------------------------------------------------------
-Δ distance (since last)  : +1.241e6 km
-Mission age              : 49 years, 110 days
+Δ distance (since last)  : +1.271e6 km
+Mission age              : 49 years, 111 days
 ------------------------------------------------------------
 Interstellar data (ref)  : >65,000,000,000 bits returned (historical NASA milestone)
 ------------------------------------------------------------
-Report generated (UTC)   : 2026-11-26 08:32:18Z
+Report generated (UTC)   : 2026-11-27 08:45:19Z
 ```
 
 <!-- VOYAGER:END -->
@@ -1508,69 +1508,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Radiohead — Paranoid Android
+Track                     : Radiohead — There, There
 Artist                    : Radiohead
-Title                     : Paranoid Android
-Album                     : OK Computer
-Spotify URI               : spotify:track:6LgJvl0Xdtc73RJ1mmpotq
-Spotify URL               : https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq
+Title                     : There, There
+Album                     : Hail To the Thief
+Spotify URI               : spotify:track:5h4y42RUKwYKYWgutNwvKP
+Spotify URL               : https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-22 08:41:10Z
-Played at (local)         : 2026-11-22 05:41:10 -03
-Local hour                : 05:00
-Daypart                   : NIGHT
-Time since play           : 98:22:39
-Gap from previous play    : 01:31:21
+Played at (UTC)           : 2026-11-26 23:58:16Z
+Played at (local)         : 2026-11-26 20:58:16 -03
+Local hour                : 20:00
+Daypart                   : EVENING
+Time since play           : 14:01:43
+Gap from previous play    : 00:05:24
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quintet — Terminal 7
-Same artist as previous   : NO
+Previous song             : Radiohead — The Gloaming
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 9
+Artist plays (retained)   : 13
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-22 04:09:49 -03
-Previous track #2         : Limp Bizkit — Nookie | 2026-11-20 21:11:40 -03
-Previous track #3         : Linkin Park — By Myself | 2026-11-20 20:53:10 -03
-Previous track #4         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
-Previous track #5         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
-Previous track #6         : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
-Previous track #7         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
-Previous track #8         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
-Previous track #9         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
-Previous track #10        : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
-Previous track #11        : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
-Previous track #12        : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
-Previous track #13        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
-Previous track #14        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
-Previous track #15        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
-Previous track #16        : Helmet — Unsung | 2026-11-20 14:39:12 -03
-Previous track #17        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
-Previous track #18        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
-Previous track #19        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
-Previous track #20        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
-Previous track #21        : Silverchair — Shade | 2026-11-20 13:49:56 -03
-Previous track #22        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
-Previous track #23        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
-Previous track #24        : Second Coming — Soft | 2026-11-20 13:33:31 -03
-Previous track #25        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
-Previous track #26        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
-Previous track #27        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
-Previous track #28        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
-Previous track #29        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
-Previous track #30        : Tad — Grease Box | 2026-11-20 13:05:40 -03
-Previous track #31        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
-Previous track #32        : Helmet — Give It | 2026-11-20 12:57:11 -03
-Previous track #33        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
-Previous track #34        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
-Previous track #35        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
-Previous track #36        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
-Previous track #37        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
-Previous track #38        : Silverchair — Faultline | 2026-11-19 03:15:50 -03
-Previous track #39        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
-Previous track #40        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
+Previous track #1         : Radiohead — The Gloaming | 2026-11-26 20:52:52 -03
+Previous track #2         : Radiohead — Where I End and You Begin | 2026-11-26 20:47:06 -03
+Previous track #3         : Radiohead — Go To Sleep | 2026-11-26 20:42:37 -03
+Previous track #4         : Radiohead — Paranoid Android | 2026-11-22 05:41:10 -03
+Previous track #5         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-22 04:09:49 -03
+Previous track #6         : Limp Bizkit — Nookie | 2026-11-20 21:11:40 -03
+Previous track #7         : Linkin Park — By Myself | 2026-11-20 20:53:10 -03
+Previous track #8         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
+Previous track #9         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
+Previous track #10        : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
+Previous track #11        : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
+Previous track #12        : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
+Previous track #13        : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
+Previous track #14        : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
+Previous track #15        : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
+Previous track #16        : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
+Previous track #17        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
+Previous track #18        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
+Previous track #19        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
+Previous track #20        : Helmet — Unsung | 2026-11-20 14:39:12 -03
+Previous track #21        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
+Previous track #22        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
+Previous track #23        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
+Previous track #24        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
+Previous track #25        : Silverchair — Shade | 2026-11-20 13:49:56 -03
+Previous track #26        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
+Previous track #27        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
+Previous track #28        : Second Coming — Soft | 2026-11-20 13:33:31 -03
+Previous track #29        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
+Previous track #30        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
+Previous track #31        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
+Previous track #32        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
+Previous track #33        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
+Previous track #34        : Tad — Grease Box | 2026-11-20 13:05:40 -03
+Previous track #35        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
+Previous track #36        : Helmet — Give It | 2026-11-20 12:57:11 -03
+Previous track #37        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
+Previous track #38        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
+Previous track #39        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
+Previous track #40        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1601,47 +1601,47 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 35
-Unique tracks             : 35
+Observed events           : 39
+Unique tracks             : 39
 Unique artists            : 21
 Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
-Artist diversity          : ███████████░░░░░░░  60.0%
-Dominant artist           : Mother Love Bone
-Dominant artist share     : ███░░░░░░░░░░░░░░░  14.3%
-Artist switch ratio       : █████████████████░  94.1%
-Longest artist streak     : Rage Against The Machine × 3
+Artist diversity          : ██████████░░░░░░░░  53.8%
+Dominant artist           : Radiohead
+Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.8%
+Artist switch ratio       : ███████████████░░░  84.2%
+Longest artist streak     : Radiohead × 5
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.7%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.1%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
-Afternoon  12–18           : ███████████████░░░   85.7%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░    8.6%
+Afternoon  12–18           : ██████████████░░░░   76.9%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-11-20 15:49:01Z
-History last play (7d)    : 2026-11-22 08:41:10Z
-Observed time span        : 40:52:09
-Mean inter-play gap       : 01:12:07
-Median inter-play gap     : 00:05:20
-Longest inactivity gap    : 30:58:09
-Listening intensity       : 0.86 tracks/hour
+History last play (7d)    : 2026-11-26 23:58:16Z
+Observed time span        : 152:09:15
+Mean inter-play gap       : 04:00:15
+Median inter-play gap     : 00:05:24
+Longest inactivity gap    : 111:01:27
+Listening intensity       : 0.26 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁▁      ▂█▄▃▁▁  ▁▁  
+Heatmap (24h)             :                     █   
+Heatmap (7d)              :     ▁▁      ▂█▄▃▁▁  ▄▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     █  
+Activity (Mon→Sun)        :    ▁█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄      
+Activity trend (30d)      : ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄       
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1649,7 +1649,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                         
 Wed                       :                         
-Thu                       :                         
+Thu                       :                     █   
 Fri                       :             ▂█▄▃▁▁  ▁▁  
 Sat                       :                         
 Sun                       :     ██                  
@@ -1657,29 +1657,29 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : Radiohead
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-19 11:03:49Z → 2026-11-26 11:03:49Z
-Tracks played (7d)        : 35
-Dominant artist           : Mother Love Bone
+Week window (UTC)         : 2026-11-20 13:59:58Z → 2026-11-27 13:59:58Z
+Tracks played (7d)        : 39
+Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap        : 01:12:07
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap        : 04:00:15
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(26) | post-grunge(20) | alternative metal(9) | funk rock(7) | noise rock(5) | nu metal(5)
+Top genres (24h)          : alternative rock(4) | art rock(4)
+Top genres (7d)           : grunge(26) | post-grunge(20) | alternative metal(9) | funk rock(7) | alternative rock(5) | art rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1687,16 +1687,16 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 10:32:44
+Telemetry interval        : 09:40:58
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 861
+Events retained           : 865
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-22 05:41:10 -03
-Events (24h)              : 0
-Events (7d)               : 35
-Events (30d)              : 338
+Newest retained event     : 2026-11-26 20:58:16 -03
+Events (24h)              : 4
+Events (7d)               : 39
+Events (30d)              : 342
 Playlist contexts retained: 182
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1725,7 +1725,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-26 11:03:49Z
+Report generated (UTC)    : 2026-11-27 13:59:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
@@ -2083,7 +2083,7 @@ END_SECTION:waka
 WAKATIME EXTENDED STATS
 ======================
 
-From: 04 December 2023 - To: 25 November 2026
+From: 04 December 2023 - To: 26 November 2026
 
 Total Time       : 1,076 hrs 12 mins
 Mostly coding in : Other
@@ -2094,7 +2094,7 @@ Activity pattern : High-intensity operational focus
 
 LANGUAGES
 ---------
-Other          1,044 hrs 59 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  97.10 %
+Other          1,047 hrs 42 mins ●●●●●●●●●●●●●●●●●●●●●●●●●○  97.35 %
 Bash           177 hrs 35 mins ●●●●○○○○○○○○○○○○○○○○○○○○○○  16.50 %
 Python         142 hrs 13 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.21 %
 HTML           141 hrs 2 mins ●●●○○○○○○○○○○○○○○○○○○○○○○○  13.11 %
@@ -2122,17 +2122,17 @@ apache         4 hrs          ○○○○○○○○○○○○○○○○�
 
 OPERATING SYSTEMS
 -----------------
-Mac            1,402 hrs 43 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Mac            1,405 hrs 26 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
 Linux          715 hrs 2 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.44 %
 
 EDITORS - APPS
 --------------
-Firefox        715 hrs 48 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.51 %
+Firefox        716 hrs 24 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.57 %
 VS Code        659 hrs 38 mins ●●●●●●●●●●●●●●●◔○○○○○○○○○○  61.29 %
 Vim            338 hrs 28 mins ●●●●●●●●○○○○○○○○○○○○○○○○○○  31.45 %
 Spotify        73 hrs 26 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.82 %
 Terminal       64 hrs 40 mins ●◔○○○○○○○○○○○○○○○○○○○○○○○○   6.01 %
-‎WhatsApp      46 hrs 32 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.32 %
+‎WhatsApp      48 hrs 38 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   4.52 %
 Acrobat        30 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.83 %
 Pages          28 hrs 37 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.66 %
 Termius        24 hrs 25 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.27 %
@@ -2144,7 +2144,7 @@ Notes          12 hrs 30 mins ○○○○○○○○○○○○○○○○�
 Codex Vscode   12 hrs 10 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.13 %
 TextMate       10 hrs 18 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.96 %
 Antigravity    6 hrs 16 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.58 %
-Preview        6 hrs 9 mins   ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
+Preview        6 hrs 10 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.57 %
 Zoom           5 hrs 30 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.51 %
 Skim           4 hrs          ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.37 %
 TorBrowser     2 hrs 54 mins  ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.27 %
@@ -2155,16 +2155,16 @@ Telegram       23 mins        ○○○○○○○○○○○○○○○○�
 
 CATEGORIES
 ----------
-Coding         1,301 hrs 41 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
-Browsing       716 hrs        ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.53 %
-Meeting        57 hrs 27 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.34 %
+Coding         1,301 hrs 42 mins ●●●●●●●●●●●●●●●●●●●●●●●●●● 100.00 %
+Browsing       716 hrs 36 mins ●●●●●●●●●●●●●●●●●○○○○○○○○○  66.59 %
+Meeting        59 hrs 33 mins ●○○○○○○○○○○○○○○○○○○○○○○○○○   5.53 %
 AI Coding      28 hrs 46 mins ◔○○○○○○○○○○○○○○○○○○○○○○○○○   2.67 %
 Writing Docs   17 hrs 14 mins ○○○○○○○○○○○○○○○○○○○○○○○○○○   1.60 %
 Building       0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 Designing      0 secs         ○○○○○○○○○○○○○○○○○○○○○○○○○○   0.00 %
 
 ----------------------
-Last updated     : 26/11/2026 16:15:18 UTC
+Last updated     : 27/11/2026 15:59:36 UTC
 
 ```
 <!--END_SECTION:wakastats-->
