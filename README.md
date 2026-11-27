@@ -1512,7 +1512,7 @@ Played at (UTC)           : 2026-11-26 23:58:16Z
 Played at (local)         : 2026-11-26 20:58:16 -03
 Local hour                : 20:00
 Daypart                   : EVENING
-Time since play           : 04:20:45
+Time since play           : 14:01:43
 Gap from previous play    : 00:05:24
 ------------------------------------------------------------
 Previous song             : Radiohead — The Gloaming
@@ -1657,7 +1657,7 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-20 04:19:01Z → 2026-11-27 04:19:01Z
+Week window (UTC)         : 2026-11-20 13:59:58Z → 2026-11-27 13:59:58Z
 Tracks played (7d)        : 39
 Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
@@ -1677,10 +1677,10 @@ Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : Radiohead — Paranoid Android → Radiohead — There, There
-Playback timestamp Δ      : 2026-11-22 08:41:10Z → 2026-11-26 23:58:16Z
+Track transition          : NO CHANGE
+Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 06:36:26
+Telemetry interval        : 09:40:58
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1718,7 +1718,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-27 04:19:01Z
+Report generated (UTC)    : 2026-11-27 13:59:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
