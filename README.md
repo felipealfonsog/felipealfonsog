@@ -1512,7 +1512,7 @@ Played at (UTC)           : 2026-11-26 23:58:16Z
 Played at (local)         : 2026-11-26 20:58:16 -03
 Local hour                : 20:00
 Daypart                   : EVENING
-Time since play           : 14:01:43
+Time since play           : 22:47:43
 Gap from previous play    : 00:05:24
 ------------------------------------------------------------
 Previous song             : Radiohead — The Gloaming
@@ -1594,45 +1594,45 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 39
-Unique tracks             : 39
-Unique artists            : 21
+Observed events           : 9
+Unique tracks             : 9
+Unique artists            : 5
 Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
-Artist diversity          : ██████████░░░░░░░░  53.8%
+Artist diversity          : ██████████░░░░░░░░  55.6%
 Dominant artist           : Radiohead
-Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.8%
-Artist switch ratio       : ███████████████░░░  84.2%
+Dominant artist share     : ██████████░░░░░░░░  55.6%
+Artist switch ratio       : █████████░░░░░░░░░  50.0%
 Longest artist streak     : Radiohead × 5
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.1%
+Night      00–06           : ████░░░░░░░░░░░░░░   22.2%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
-Afternoon  12–18           : ██████████████░░░░   76.9%
-Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
-Dominant period           : AFTERNOON
+Afternoon  12–18           : ░░░░░░░░░░░░░░░░░░    0.0%
+Evening    18–24           : ██████████████░░░░   77.8%
+Dominant period           : EVENING
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
-History first play (7d)   : 2026-11-20 15:49:01Z
+History first play (7d)   : 2026-11-20 23:47:23Z
 History last play (7d)    : 2026-11-26 23:58:16Z
-Observed time span        : 152:09:15
-Mean inter-play gap       : 04:00:15
-Median inter-play gap     : 00:05:24
+Observed time span        : 144:10:53
+Mean inter-play gap       : 18:01:22
+Median inter-play gap     : 00:12:08
 Longest inactivity gap    : 111:01:27
-Listening intensity       : 0.26 tracks/hour
+Listening intensity       : 0.06 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
 Peak hour (24h)           : 20:00
-Peak hour (7d)            : 13:00
+Peak hour (7d)            : 20:00
 Heatmap (24h)             :                     █   
-Heatmap (7d)              :     ▁▁      ▂█▄▃▁▁  ▄▁  
+Heatmap (7d)              :     ▁▁              █▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :    ▁█  
+Activity (Mon→Sun)        :    █▆ ▄
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
 Activity trend (30d)      : ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄       
 Trend order               : oldest → newest
@@ -1643,7 +1643,7 @@ Mon                       :
 Tue                       :                         
 Wed                       :                         
 Thu                       :                     █   
-Fri                       :             ▂█▄▃▁▁  ▁▁  
+Fri                       :                     █▄  
 Sat                       :                         
 Sun                       :     ██                  
 Hour axis                 : 00      06      12      18     23
@@ -1657,22 +1657,22 @@ Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-20 13:59:58Z → 2026-11-27 13:59:58Z
-Tracks played (7d)        : 39
+Week window (UTC)         : 2026-11-20 22:45:58Z → 2026-11-27 22:45:58Z
+Tracks played (7d)        : 9
 Dominant artist           : Radiohead
-Cadence classification    : MEDIUM
+Cadence classification    : LOW
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
 Sessions (24h)            : 1
-Sessions (7d)             : 8
-Avg inter-play gap        : 04:00:15
+Sessions (7d)             : 4
+Avg inter-play gap        : 18:01:22
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
 Top genres (24h)          : alternative rock(4) | art rock(4)
-Top genres (7d)           : grunge(26) | post-grunge(20) | alternative metal(9) | funk rock(7) | alternative rock(5) | art rock(5)
+Top genres (7d)           : alternative rock(5) | art rock(5) | alternative metal(3) | nu metal(3) | rap metal(3) | rap rock(2)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
@@ -1680,7 +1680,7 @@ CHANGE TELEMETRY
 Track transition          : NO CHANGE
 Playback timestamp Δ      : NO CHANGE
 State transition          : NO CHANGE
-Telemetry interval        : 09:40:58
+Telemetry interval        : 08:46:01
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
@@ -1688,8 +1688,8 @@ Events retained           : 865
 Oldest retained event     : 2026-08-13 11:54:14 -04
 Newest retained event     : 2026-11-26 20:58:16 -03
 Events (24h)              : 4
-Events (7d)               : 39
-Events (30d)              : 342
+Events (7d)               : 9
+Events (30d)              : 341
 Playlist contexts retained: 182
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1718,7 +1718,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-27 13:59:58Z
+Report generated (UTC)    : 2026-11-27 22:45:58Z
 ```
 <!-- SPOTIFY_TEL:END -->
 
