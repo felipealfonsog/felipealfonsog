@@ -1501,69 +1501,69 @@ Observation window        : 00:30:00
 ------------------------------------------------------------
 LAST PLAYED SONG
 ------------------------------------------------------------
-Track                     : Radiohead — Paranoid Android
+Track                     : Radiohead — There, There
 Artist                    : Radiohead
-Title                     : Paranoid Android
-Album                     : OK Computer
-Spotify URI               : spotify:track:6LgJvl0Xdtc73RJ1mmpotq
-Spotify URL               : https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq
+Title                     : There, There
+Album                     : Hail To the Thief
+Spotify URI               : spotify:track:5h4y42RUKwYKYWgutNwvKP
+Spotify URL               : https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP
 ------------------------------------------------------------
-Played at (UTC)           : 2026-11-22 08:41:10Z
-Played at (local)         : 2026-11-22 05:41:10 -03
-Local hour                : 05:00
-Daypart                   : NIGHT
-Time since play           : 109:01:25
-Gap from previous play    : 01:31:21
+Played at (UTC)           : 2026-11-26 23:58:16Z
+Played at (local)         : 2026-11-26 20:58:16 -03
+Local hour                : 20:00
+Daypart                   : EVENING
+Time since play           : 04:20:45
+Gap from previous play    : 00:05:24
 ------------------------------------------------------------
-Previous song             : Tomasz Stanko Quintet — Terminal 7
-Same artist as previous   : NO
+Previous song             : Radiohead — The Gloaming
+Same artist as previous   : YES
 Same track as previous    : NO
 Track plays (retained)    : 1
-Artist plays (retained)   : 9
+Artist plays (retained)   : 13
 Historical source         : Spotify recently-played + persistent journal
 ------------------------------------------------------------
 RECENT PLAYBACK HISTORY
 ------------------------------------------------------------
-Previous track #1         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-22 04:09:49 -03
-Previous track #2         : Limp Bizkit — Nookie | 2026-11-20 21:11:40 -03
-Previous track #3         : Linkin Park — By Myself | 2026-11-20 20:53:10 -03
-Previous track #4         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
-Previous track #5         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
-Previous track #6         : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
-Previous track #7         : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
-Previous track #8         : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
-Previous track #9         : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
-Previous track #10        : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
-Previous track #11        : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
-Previous track #12        : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
-Previous track #13        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
-Previous track #14        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
-Previous track #15        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
-Previous track #16        : Helmet — Unsung | 2026-11-20 14:39:12 -03
-Previous track #17        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
-Previous track #18        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
-Previous track #19        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
-Previous track #20        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
-Previous track #21        : Silverchair — Shade | 2026-11-20 13:49:56 -03
-Previous track #22        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
-Previous track #23        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
-Previous track #24        : Second Coming — Soft | 2026-11-20 13:33:31 -03
-Previous track #25        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
-Previous track #26        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
-Previous track #27        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
-Previous track #28        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
-Previous track #29        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
-Previous track #30        : Tad — Grease Box | 2026-11-20 13:05:40 -03
-Previous track #31        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
-Previous track #32        : Helmet — Give It | 2026-11-20 12:57:11 -03
-Previous track #33        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
-Previous track #34        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
-Previous track #35        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
-Previous track #36        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
-Previous track #37        : Aurora Beach — Cliffside | 2026-11-19 03:20:31 -03
-Previous track #38        : Silverchair — Faultline | 2026-11-19 03:15:50 -03
-Previous track #39        : Dinosaur Jr. — Start Choppin' | 2026-11-18 20:41:18 -03
-Previous track #40        : All Them Witches — Alabaster | 2026-11-18 20:35:41 -03
+Previous track #1         : Radiohead — The Gloaming | 2026-11-26 20:52:52 -03
+Previous track #2         : Radiohead — Where I End and You Begin | 2026-11-26 20:47:06 -03
+Previous track #3         : Radiohead — Go To Sleep | 2026-11-26 20:42:37 -03
+Previous track #4         : Radiohead — Paranoid Android | 2026-11-22 05:41:10 -03
+Previous track #5         : Tomasz Stanko Quintet — Terminal 7 | 2026-11-22 04:09:49 -03
+Previous track #6         : Limp Bizkit — Nookie | 2026-11-20 21:11:40 -03
+Previous track #7         : Linkin Park — By Myself | 2026-11-20 20:53:10 -03
+Previous track #8         : Rage Against The Machine — Wake Up | 2026-11-20 20:47:23 -03
+Previous track #9         : Rage Against The Machine — Killing In the Name | 2026-11-20 17:51:46 -03
+Previous track #10        : Rage Against The Machine — Bombtrack | 2026-11-20 16:22:43 -03
+Previous track #11        : Kyuss — Demon Cleaner | 2026-11-20 16:18:30 -03
+Previous track #12        : Gruntruck — Crazy Love | 2026-11-20 15:19:59 -03
+Previous track #13        : Helmet — Exactly What You Wanted | 2026-11-20 15:14:27 -03
+Previous track #14        : Mother Love Bone — Hold Your Head Up | 2026-11-20 15:11:02 -03
+Previous track #15        : Silverchair — Leave Me Out | 2026-11-20 15:05:46 -03
+Previous track #16        : Porno for Pyros — Pets | 2026-11-20 15:02:46 -03
+Previous track #17        : Gruntruck — Machine Action | 2026-11-20 14:53:14 -03
+Previous track #18        : Mad Season — Lifeless Dead | 2026-11-20 14:46:59 -03
+Previous track #19        : Mother Love Bone — These R No Blues | 2026-11-20 14:42:15 -03
+Previous track #20        : Helmet — Unsung | 2026-11-20 14:39:12 -03
+Previous track #21        : Soundgarden — Birth Ritual | 2026-11-20 14:08:40 -03
+Previous track #22        : Local H — High-Fiving MF | 2026-11-20 14:02:38 -03
+Previous track #23        : Mad Season — Locomotive | 2026-11-20 13:57:14 -03
+Previous track #24        : Helmet — Biscuits For Smut | 2026-11-20 13:52:45 -03
+Previous track #25        : Silverchair — Shade | 2026-11-20 13:49:56 -03
+Previous track #26        : Soundgarden — Pretty Noose | 2026-11-20 13:45:57 -03
+Previous track #27        : Mother Love Bone — Chloe Dancer/Crown Of Thorns | 2026-11-20 13:41:49 -03
+Previous track #28        : Second Coming — Soft | 2026-11-20 13:33:31 -03
+Previous track #29        : Jane's Addiction — Then She Did... | 2026-11-20 13:29:21 -03
+Previous track #30        : Seven Mary Three — Cumbersome | 2026-11-20 13:21:04 -03
+Previous track #31        : Purple Holiday — Light Rays | 2026-11-20 13:17:41 -03
+Previous track #32        : Days Of The New — Where I Stand | 2026-11-20 13:17:11 -03
+Previous track #33        : Mother Love Bone — Capricorn Sister - 2025 Remaster | 2026-11-20 13:11:36 -03
+Previous track #34        : Tad — Grease Box | 2026-11-20 13:05:40 -03
+Previous track #35        : Jerry Cantrell — Angel Eyes | 2026-11-20 13:01:51 -03
+Previous track #36        : Helmet — Give It | 2026-11-20 12:57:11 -03
+Previous track #37        : Silverchair — Abuse Me | 2026-11-20 12:52:58 -03
+Previous track #38        : Mother Love Bone — Crown Of Thorns | 2026-11-20 12:49:01 -03
+Previous track #39        : AtomFlow — Blooming | 2026-11-19 03:25:31 -03
+Previous track #40        : Retrosoft — Analogue Dreams | 2026-11-19 03:23:28 -03
 ------------------------------------------------------------
 LAST KNOWN PLAYLISTS
 ------------------------------------------------------------
@@ -1594,47 +1594,47 @@ Context observed (UTC)    : 2026-11-14 20:47:09Z
 ------------------------------------------------------------
 PLAYBACK BEHAVIOUR ANALYTICS (7d history)
 ------------------------------------------------------------
-Observed events           : 35
-Unique tracks             : 35
+Observed events           : 39
+Unique tracks             : 39
 Unique artists            : 21
 Replay ratio              : ░░░░░░░░░░░░░░░░░░  0.0%
-Artist diversity          : ███████████░░░░░░░  60.0%
-Dominant artist           : Mother Love Bone
-Dominant artist share     : ███░░░░░░░░░░░░░░░  14.3%
-Artist switch ratio       : █████████████████░  94.1%
-Longest artist streak     : Rage Against The Machine × 3
+Artist diversity          : ██████████░░░░░░░░  53.8%
+Dominant artist           : Radiohead
+Dominant artist share     : ██░░░░░░░░░░░░░░░░  12.8%
+Artist switch ratio       : ███████████████░░░  84.2%
+Longest artist streak     : Radiohead × 5
 ------------------------------------------------------------
 DAYPART DISTRIBUTION (7d history)
 ------------------------------------------------------------
-Night      00–06           : █░░░░░░░░░░░░░░░░░    5.7%
+Night      00–06           : █░░░░░░░░░░░░░░░░░    5.1%
 Morning    06–12           : ░░░░░░░░░░░░░░░░░░    0.0%
-Afternoon  12–18           : ███████████████░░░   85.7%
-Evening    18–24           : ██░░░░░░░░░░░░░░░░    8.6%
+Afternoon  12–18           : ██████████████░░░░   76.9%
+Evening    18–24           : ███░░░░░░░░░░░░░░░   17.9%
 Dominant period           : AFTERNOON
 ------------------------------------------------------------
 TEMPORAL PLAYBACK ANALYSIS (7d history)
 ------------------------------------------------------------
 History first play (7d)   : 2026-11-20 15:49:01Z
-History last play (7d)    : 2026-11-22 08:41:10Z
-Observed time span        : 40:52:09
-Mean inter-play gap       : 01:12:07
-Median inter-play gap     : 00:05:20
-Longest inactivity gap    : 30:58:09
-Listening intensity       : 0.86 tracks/hour
+History last play (7d)    : 2026-11-26 23:58:16Z
+Observed time span        : 152:09:15
+Mean inter-play gap       : 04:00:15
+Median inter-play gap     : 00:05:24
+Longest inactivity gap    : 111:01:27
+Listening intensity       : 0.26 tracks/hour
 ------------------------------------------------------------
 LISTENING HOURS (local time)
 ------------------------------------------------------------
 Local timezone            : America/Santiago
-Peak hour (24h)           : N/A
+Peak hour (24h)           : 20:00
 Peak hour (7d)            : 13:00
-Heatmap (24h)             : N/A
-Heatmap (7d)              :     ▁▁      ▂█▄▃▁▁  ▁▁  
+Heatmap (24h)             :                     █   
+Heatmap (7d)              :     ▁▁      ▂█▄▃▁▁  ▄▁  
 ------------------------------------------------------------
 WEEK ACTIVITY (7d history)
 ------------------------------------------------------------
-Activity (Mon→Sun)        :     █  
+Activity (Mon→Sun)        :    ▁█  
 Day order                 : Mon Tue Wed Thu Fri Sat Sun
-Activity trend (30d)      :  ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄      
+Activity trend (30d)      : ▄█▅ ▁ ▁  ▁ ▃▁▂ ▁▃   ▄ ▄       
 Trend order               : oldest → newest
 ------------------------------------------------------------
 WEEKLY HOUR MATRIX (7d history)
@@ -1642,7 +1642,7 @@ WEEKLY HOUR MATRIX (7d history)
 Mon                       :                         
 Tue                       :                         
 Wed                       :                         
-Thu                       :                         
+Thu                       :                     █   
 Fri                       :             ▂█▄▃▁▁  ▁▁  
 Sat                       :                         
 Sun                       :     ██                  
@@ -1650,46 +1650,46 @@ Hour axis                 : 00      06      12      18     23
 ------------------------------------------------------------
 DAILY SPOTIFY SITREP
 ------------------------------------------------------------
-Tracks played (last 24h)  : 0
-Dominant artist           : N/A
-Listening pattern         : No activity
-Daily activity status     : NONE
+Tracks played (last 24h)  : 4
+Dominant artist           : Radiohead
+Listening pattern         : Light activity
+Daily activity status     : LOW
 ------------------------------------------------------------
 WEEKLY CADENCE SUMMARY
 ------------------------------------------------------------
-Week window (UTC)         : 2026-11-19 21:42:35Z → 2026-11-26 21:42:35Z
-Tracks played (7d)        : 35
-Dominant artist           : Mother Love Bone
+Week window (UTC)         : 2026-11-20 04:19:01Z → 2026-11-27 04:19:01Z
+Tracks played (7d)        : 39
+Dominant artist           : Radiohead
 Cadence classification    : MEDIUM
 ------------------------------------------------------------
 SESSION ESTIMATES (inferred)
 ------------------------------------------------------------
 Session gap threshold     : 25 minutes
-Sessions (24h)            : N/A
-Sessions (7d)             : 7
-Avg inter-play gap        : 01:12:07
+Sessions (24h)            : 1
+Sessions (7d)             : 8
+Avg inter-play gap        : 04:00:15
 ------------------------------------------------------------
 GENRE INTEL (inferred)
 ------------------------------------------------------------
-Top genres (24h)          : N/A
-Top genres (7d)           : grunge(26) | post-grunge(20) | alternative metal(9) | funk rock(7) | noise rock(5) | nu metal(5)
+Top genres (24h)          : alternative rock(4) | art rock(4)
+Top genres (7d)           : grunge(26) | post-grunge(20) | alternative metal(9) | funk rock(7) | alternative rock(5) | art rock(5)
 Artist lookups (this run) : 0 (cached)
 ------------------------------------------------------------
 CHANGE TELEMETRY
 ------------------------------------------------------------
-Track transition          : NO CHANGE
-Playback timestamp Δ      : NO CHANGE
+Track transition          : Radiohead — Paranoid Android → Radiohead — There, There
+Playback timestamp Δ      : 2026-11-22 08:41:10Z → 2026-11-26 23:58:16Z
 State transition          : NO CHANGE
-Telemetry interval        : 10:38:46
+Telemetry interval        : 06:36:26
 ------------------------------------------------------------
 HISTORICAL DATA COVERAGE
 ------------------------------------------------------------
-Events retained           : 861
+Events retained           : 865
 Oldest retained event     : 2026-08-13 11:54:14 -04
-Newest retained event     : 2026-11-22 05:41:10 -03
-Events (24h)              : 0
-Events (7d)               : 35
-Events (30d)              : 338
+Newest retained event     : 2026-11-26 20:58:16 -03
+Events (24h)              : 4
+Events (7d)               : 39
+Events (30d)              : 342
 Playlist contexts retained: 182
 Storage mode              : PERSISTENT LOCAL JOURNAL
 Deduplication             : played_at + track URI
@@ -1718,7 +1718,7 @@ Recovery workflow         : update-spotify-callback.yml
 Callback page             : https://felipealfonsog.github.io/spotify-callback.html
 Recovery procedure        : NOT REQUIRED
 ------------------------------------------------------------
-Report generated (UTC)    : 2026-11-26 21:42:35Z
+Report generated (UTC)    : 2026-11-27 04:19:01Z
 ```
 <!-- SPOTIFY_TEL:END -->
 

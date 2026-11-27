@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-26 21:42:35Z",
+  "updated_utc": "2026-11-27 04:19:01Z",
   "events": [
+    {
+      "track": "Radiohead — There, There",
+      "artist": "Radiohead",
+      "title": "There, There",
+      "album": "Hail To the Thief",
+      "uri": "spotify:track:5h4y42RUKwYKYWgutNwvKP",
+      "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ],
+      "played_at_utc": "2026-11-26 23:58:16Z",
+      "played_at_local": "2026-11-26 20:58:16 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mzoI3VH0ZWk1pLFR6RoYy",
+      "context_url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+    },
+    {
+      "track": "Radiohead — The Gloaming",
+      "artist": "Radiohead",
+      "title": "The Gloaming",
+      "album": "Hail To the Thief",
+      "uri": "spotify:track:3qhLTNphwAepIyHJF9ZMv0",
+      "url": "https://open.spotify.com/track/3qhLTNphwAepIyHJF9ZMv0",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ],
+      "played_at_utc": "2026-11-26 23:52:52Z",
+      "played_at_local": "2026-11-26 20:52:52 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mzoI3VH0ZWk1pLFR6RoYy",
+      "context_url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+    },
+    {
+      "track": "Radiohead — Where I End and You Begin",
+      "artist": "Radiohead",
+      "title": "Where I End and You Begin",
+      "album": "Hail To the Thief",
+      "uri": "spotify:track:2dDqsUr11Mv0qhXByNfbJx",
+      "url": "https://open.spotify.com/track/2dDqsUr11Mv0qhXByNfbJx",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ],
+      "played_at_utc": "2026-11-26 23:47:06Z",
+      "played_at_local": "2026-11-26 20:47:06 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mzoI3VH0ZWk1pLFR6RoYy",
+      "context_url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+    },
+    {
+      "track": "Radiohead — Go To Sleep",
+      "artist": "Radiohead",
+      "title": "Go To Sleep",
+      "album": "Hail To the Thief",
+      "uri": "spotify:track:42BeMThJuzIQe1oQvhDwgl",
+      "url": "https://open.spotify.com/track/42BeMThJuzIQe1oQvhDwgl",
+      "artist_ids": [
+        "4Z8W4fKeB5YxbusRsdQVPb"
+      ],
+      "played_at_utc": "2026-11-26 23:42:37Z",
+      "played_at_local": "2026-11-26 20:42:37 -03",
+      "local_hour": 20,
+      "weekday": 3,
+      "context_type": "album",
+      "context_uri": "spotify:album:5mzoI3VH0ZWk1pLFR6RoYy",
+      "context_url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+    },
     {
       "track": "Radiohead — Paranoid Android",
       "artist": "Radiohead",
