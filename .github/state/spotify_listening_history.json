@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_utc": "2026-08-15 08:21:27Z",
-  "updated_utc": "2026-11-27 22:45:58Z",
+  "updated_utc": "2026-11-28 08:03:15Z",
   "events": [
     {
       "track": "Radiohead — There, There",
@@ -74,6 +74,22 @@
       "context_type": "album",
       "context_uri": "spotify:album:5mzoI3VH0ZWk1pLFR6RoYy",
       "context_url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+    },
+    {
+      "track": "The Chemical Brothers, Q-Tip — Go",
+      "artist": "The Chemical Brothers, Q-Tip",
+      "title": "Go",
+      "album": "Born In The Echoes",
+      "uri": "spotify:track:2cNjgoSh1TBHFQIhfzRJUE",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE",
+      "artist_ids": [
+        "1GhPHrq36VKCY3ucVaZCfo",
+        "3ZotbHeyVQKxQCPDJuQ4SU"
+      ],
+      "played_at_utc": "2026-11-23 17:30:03Z",
+      "played_at_local": "2026-11-23 14:30:03 -03",
+      "local_hour": 14,
+      "weekday": 0
     },
     {
       "track": "Radiohead — Paranoid Android",
